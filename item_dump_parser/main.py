@@ -79,7 +79,7 @@ class ItemProcessor:
         """
         item_data = []
         for root, _, files in os.walk("ItemExtractorMod", topdown=False):
-
+            files = [file for file in files if ".json" in file]
             characters = set([file.split("_")[0] for file in files])
             important_files = [
                 max([file for file in files if file.startswith(character)])
