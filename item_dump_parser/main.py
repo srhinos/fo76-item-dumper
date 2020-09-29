@@ -1,17 +1,16 @@
 import asyncio
-from inspect import trace
-import logging
-import aiohttp
-import traceback
 import json
+import logging
 import os
-
-from pprint import pprint
-from apscheduler.schedulers.asyncio import AsyncIOScheduler
+import traceback
 from datetime import datetime
+from inspect import trace
+from pprint import pprint
 
-from item_dump_parser.models.item import Item
+import aiohttp
+
 from item_dump_parser.constants import FED76_MAPPING_URL, OUTPUT_STRING_FORMAT
+from item_dump_parser.models.item import Item
 from item_dump_parser.utils import load_json, write_json
 
 log = logging.getLogger(__name__)
@@ -26,6 +25,10 @@ class ItemProcessor:
 
     # noinspection PyMethodOverriding
     def run(self):
+        """
+        Used for initializing the asynchronous event loop.
+        This was only cool when I made webrequests lol
+        """
         loop = asyncio.get_event_loop()
         try:
             # loop.run_until_complete(self.get_fed76_mapping_data())
@@ -44,20 +47,25 @@ class ItemProcessor:
         write_json("fed76_mapping.json", fed76_mapping)
 
     async def build(self, **filter_kwargs):
+        """
+        Applies any filters that were passed in to the raw item dump json, then
+        Iterates over the item dump and parses each json into an Item class.
+        Finally, appends each parsed item to the item_list.
+        """
         try:
+            await self.filter_player_data(**filter_kwargs)
             for json_item in self.item_dump_json:
                 item = Item(**json_item)
                 if item:
                     self.item_list.append(item)
-            await self.filter_player_data(**filter_kwargs)
         except Exception as e:
             traceback.print_exc()
             raise e
 
     def dump(self):
-        """www
-        idk I dont feel like writing this right now but I want a pretty green block at the top
-        to make me feel better
+        """
+        Takes processed item data and does some transformation to it.
+        As of my writing this, it apply the output string format to each item and writes it to a file
         """
         output = []
         try:

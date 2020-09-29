@@ -23,7 +23,7 @@ class Item:
 
     Params:
     text (str) - The Text Name Of The Item
-    serverHandleID (int) - A Character + Item Specific ID
+    serverHandleID (int) - A Character + Item Specific ID. Completely unhelpful, avoid using this.
     count (int) - number of items the character has
     itemValue (int) - cap value assigned to the item
     filterFlag (int) - used when filtering items by the UI
@@ -44,7 +44,21 @@ class Item:
     isQuestItem (boolean) - whether this item is for a quest or not
     isLegendary (boolean) - whether this item is a legendary or not
     vendingData (dict) - some garbage about vending I'll never use
-    #TODO: Finish This
+    item_card_entries (dict) - contains a fuck ton of data about the item and how it interacts in the world.
+    mod_card_entries (dict) - this isn't used because fo76 is spaghetti-ware
+    character (string) - the character this item is currently owned by.
+    legendary_effects (list[dict]) - contains each parsed legendary effect as pulled from the item_card_entries
+    one_star_effect (string) - the full name of the legendary effect of the first star slot
+    two_star_effect (string) - the full name of the legendary effect of the second star slot
+    three_star_effect (string) - the full name of the legendary effect of the third star slot
+    item_type (string) - the type the item is based on my best guessing skills since its computed.
+    description (string) - the description of the item found in the pipboy. Only present for non weapons/armor
+    armor_grade (string) - the grade of the armor ie light, sturdy, heavy.
+    damage_resistance (int) - the amount of DR the armor piece has
+    energy_resistance (int) - the amount of ER the armor piece has
+    radiation_resistance (int) - the amount of RR the armor piece has
+    filter_flag_text (string) - the filter flag parsed into text.
+    plain_name (string) - my best guess as to what this item would be commonly referred to. None if I currently can't guess it
     """
 
     def __init__(self, **kwargs):
@@ -135,6 +149,10 @@ class Item:
         return FilterFlags.UNKNOWN.name
 
     def process_item_name_and_type(self):
+        """
+        Attempts to find the item's common name and use that to parse its type as well.
+        Name finding very hit/miss
+        """
         if not self.filter_flag < 5:
             self.item_type = self.filter_flag_text
             self.plain_name = self.text
@@ -168,11 +186,19 @@ class Item:
             self.item_type = "UNKNOWN"
 
     def drop_unused_keywords(self, str_text):
+        """
+        Takes in common armor names and drops the strings never actually used
+        Ex:
+            Leather Armor as common name but Hardened Leather Left Leg is the in game name
+        """
         return " ".join(
             [item for item in str_text.split(" ") if item not in UNUSED_ARMOR_KEYWORDS]
         )
 
     def process_armor_grade(self):
+        """
+        Determins the armor grade based on the armor's resistances.
+        """
         armor_grade = find_in_iter(
             lambda m: m["helper"]
             == f"{self.damage_resistance}-{self.energy_resistance}-{self.radiation_resistance}",
@@ -183,6 +209,10 @@ class Item:
         self.armor_grade = armor_grade["armorGrade"]
 
     def process_item_card_entries(self):
+        """
+        Iterates over item cards and runs several functions on each item card.
+        Currently used to append damage on item cards and process legendary effect item cards
+        """
         for item_card in self.item_card_entries:
             item_card = self.append_damage_on_item_card_entries(item_card)
             if item_card["text"] == ItemCardTexts.DESC.text:
@@ -201,6 +231,10 @@ class Item:
                     self.description = item_card["value"]
 
     def process_legendary_effects(self, item_card):
+        """
+        Processes the item card to determine the legendary effects the current item has.
+        returns a list of items. Current debug code breaks when an unknown legendary effect is found so that it can be handled within constant mappings.
+        """
         effect_strings = item_card["value"].split("\n")
         effect_strings = [
             string.strip() for string in effect_strings if len(string.strip()) > 0
