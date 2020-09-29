@@ -1,3 +1,8 @@
+# Dumped data from my characters
+ItemExtractorMod/*.json
+item_dump.txt
+
+##### VSCODE GENERATED ######
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
