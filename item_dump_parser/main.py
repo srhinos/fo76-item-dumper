@@ -11,7 +11,7 @@ import aiohttp
 
 from item_dump_parser.constants import FED76_MAPPING_URL, OUTPUT_STRING_FORMAT
 from item_dump_parser.models.item import Item
-from item_dump_parser.utils import load_json, write_json
+from item_dump_parser.utils import load_json, write_json, write_file
 
 log = logging.getLogger(__name__)
 log.setLevel(logging.DEBUG)
@@ -76,7 +76,7 @@ class ItemProcessor:
                     if item.item_level == 0:
                         pprint(dict(item))
                     output.append(OUTPUT_STRING_FORMAT.format(item))
-            return output
+            write_file("item_dump.txt", output)
         except Exception:
             traceback.print_exc()
 
