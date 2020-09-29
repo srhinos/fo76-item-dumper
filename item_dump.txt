@@ -1,0 +1,408 @@
+Scout Armor	50	Chameleon	Agility	Improved sneaking						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+Scout Armor	40	Unyielding	Perception	None						AdjectiveAnimal
+Combat Armor	50	Unyielding	Endurance	None						AdjectiveAnimal
+Scout Armor	50	Unyielding	Luck	Sentinel's						AdjectiveAnimal
+Scout Armor	50	Unyielding	Antiseptic	Sentinel's						AdjectiveAnimal
+Scout Armor	50	Unyielding	Endurance	Sentinel's						AdjectiveAnimal
+Bowie Knife	45	Assassin's	None	None						AdjectiveAnimal
+Sledgehammer	40	Berserker's	Riposting	None						AdjectiveAnimal
+Baseball Bat	45	Bloodied	Strength	None						AdjectiveAnimal
+Combat Knife	50	Bloodied	Strength	None						AdjectiveAnimal
+Cultist Dagger	45	Bloodied	Strength	None						AdjectiveAnimal
+Ripper	40	Bloodied	Melee Speed	None						AdjectiveAnimal
+Radium Rifle	50	Bloodied	Explosive	Rapid						AdjectiveAnimal
+Hatchet	50	Bloodied	Strength	None						AdjectiveAnimal
+Light Machine Gun	50	Bloodied	Explosive	VATS Enhanced						AdjectiveAnimal
+Gatling Laser	45	Bloodied	Rapid	None						AdjectiveAnimal
+Radium Rifle	50	Bloodied	Explosive	Lightweight						AdjectiveAnimal
+Gatling Gun	50	Bloodied	Explosive	VATS Enhanced						AdjectiveAnimal
+10mm pistol	45	Bloodied	Explosive	VATS Enhanced						AdjectiveAnimal
+Gatling Laser	50	Concussive	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+Sheepsquatch Staff	50	Junkie's	Melee Speed	Lightweight						AdjectiveAnimal
+Laser Rifle	45	Junkie's	Explosive	Rapid						AdjectiveAnimal
+Gatling Gun	50	Junkie's	None	None						AdjectiveAnimal
+Minigun	45	Junkie's	Agility	None						AdjectiveAnimal
+Tesla Rifle	50	Junkie's	Rapid	Lightweight						AdjectiveAnimal
+Machete	5	None	None	None						AdjectiveAnimal
+None	0	None	None	None						AdjectiveAnimal
+Tesla Rifle	50	Two Shot	Lucky	Resilient						AdjectiveAnimal
+None	0	None	Powered	Cavalier's						AdjectiveAnimal
+None	0	None	Powered	Reduced weapon weight						AdjectiveAnimal
+None	0	None	Powered	Sentinel's						AdjectiveAnimal
+None	0	None	Powered	Sentinel's						AdjectiveAnimal
+None	0	None	Powered	Improved sneaking						AdjectiveAnimal
+Fire Axe	45	Bloodied	Strength	None						SexualRhinoceros
+Scout Armor	50	Bolstering	Agility	Reduced weapon weight						SexualRhinoceros
+Shovel	45	Executioner's	Melee Speed	Lightweight						SexualRhinoceros
+Scout Armor	50	Auto Revive	Agility	Cavalier's						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+Scout Armor	50	Unyielding	HazMat	Durability						SexualRhinoceros
+Pump Action Shotgun	50	Anti-armor	Crippling	Steadfast						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+Fire Axe	45	Vampire's	Melee Speed	Lightweight						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+Combat Knife	50	Anti-armor	Melee Speed	None						SexualRhinoceros
+.44 Pistol	5	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+Pipe Pistol	1	None	None	None						SexualRhinoceros
+Pipe Pistol	1	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+Scout Armor	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	50	None	None	None						SexualRhinoceros
+None	50	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+None	0	None	None	None						SexualRhinoceros
+Bow	50	Bloodied	Explosive	VATS Enhanced						SexualRhinoceros
+Laser Rifle	45	Bloodied	Explosive	VATS Enhanced						SexualRhinoceros
+Minigun	50	Concussive	None	None						SexualRhinoceros
+Boxing Glove	45	Anti-armor	None	None						SexualRhinoceros
+Cultist Dagger	45	Anti-armor	Strength	None						SexualRhinoceros
+10mm Submachine	50	Anti-armor	None	None						SexualRhinoceros
+Board	45	Assassin's	None	None						SexualRhinoceros
+10mm pistol	45	Berserker's	Hitman's	Lightweight						SexualRhinoceros
+Board	45	Berserker's	Riposting	None						SexualRhinoceros
+Combat Armor	50	Chameleon	None	None						SexualRhinoceros
+Pool Cue	45	Executioner's	None	None						SexualRhinoceros
+Rolling Pin	50	Executioner's	None	None						SexualRhinoceros
+Baton	45	Executioner's	Power Attack Damage	Cavalier's						SexualRhinoceros
+Golf Club	45	Exterminator's	Strength	None						SexualRhinoceros
+Shepherd's Crook	50	Exterminator's	None	None						SexualRhinoceros
+Radium Rifle	50	Exterminator's	Crippling	Steadfast						SexualRhinoceros
+Bone Club	45	Furious	Agility	None						SexualRhinoceros
+Switchblade	50	Furious	None	None						SexualRhinoceros
+Death Tambo	45	Ghoul Slayer's	Crippling	None						SexualRhinoceros
+Fire Axe	45	Ghoul Slayer's	Power Attack Damage	None						SexualRhinoceros
+Grognak's Axe	50	Ghoul Slayer's	Endurance	None						SexualRhinoceros
+.44 Pistol	45	Ghoul Slayer's	None	None						SexualRhinoceros
+Mole miner Gauntlet	50	Hunter's	Crippling	None						SexualRhinoceros
+Shovel	45	Hunter's	Crippling	Lightweight						SexualRhinoceros
+Ski Sword	45	Instigating	Melee Speed	Lightweight						SexualRhinoceros
+Golf Club	45	Junkie's	None	None						SexualRhinoceros
+Shovel	45	Junkie's	Riposting	None						SexualRhinoceros
+Spear	45	Junkie's	Agility	None						SexualRhinoceros
+Scout Armor	50	Mutant Slayer's	None	None						SexualRhinoceros
+Pitchfork	45	Mutant Slayer's	Agility	None						SexualRhinoceros
+Knuckles	50	Mutant's	Agility	None						SexualRhinoceros
+Baseball Bat	45	Nocturnal	None	None						SexualRhinoceros
+Combat Knife	50	Nocturnal	Power Attack Damage	None						SexualRhinoceros
+Knuckles	50	Nocturnal	Crippling	Lightweight						SexualRhinoceros
+Multi-purpose Axe	45	Nocturnal	Riposting	Cavalier's						SexualRhinoceros
+Assaultron Blade	45	Stalker's	None	None						SexualRhinoceros
+Pickaxe	45	Stalker's	Melee Speed	Lightweight						SexualRhinoceros
+Gamma Gun	45	Stalker's	Hitman's	Lightweight						SexualRhinoceros
+Bone Hammer	45	Suppressor's	Melee Speed	Lightweight						SexualRhinoceros
+Pool Cue	45	Troubleshooter's	Riposting	Lightweight						SexualRhinoceros
+Baton	45	Troubleshooter's	Strength	None						SexualRhinoceros
+Walking Cane	50	Troubleshooter's	Crippling	None						SexualRhinoceros
+Black Powder Rifle	15	Vampire's	VATS Enhanced	Rapid						SexualRhinoceros
+Single Action Revolver	50	Vampire's	None	None						SexualRhinoceros
+Board	45	Vampire's	Strength	None						SexualRhinoceros
+Scout Armor	50	Bolstering	None	None						SexualRhinoceros
+Scout Armor	50	Weightless	Intelligence	None						SexualRhinoceros
+Baseball Bat	45	Zealot's	Riposting	Lightweight						SexualRhinoceros
+Death Tambo	45	Zealot's	Riposting	Cavalier's						SexualRhinoceros
+Bear Arm	50	Bloodied	Melee Speed	Lightweight						SexualRhinoceros
+Boxing Glove	45	Bloodied	Strength	None						SexualRhinoceros
+Death Tambo	45	Bloodied	Strength	None						SexualRhinoceros
+Deathclaw Gauntlet	50	Bloodied	Strength	None						SexualRhinoceros
+Flamer	50	Bloodied	Explosive	Lightweight						SexualRhinoceros
+Mole miner Gauntlet	50	Bloodied	Strength	None						SexualRhinoceros
+Power Fist	50	Bloodied	Strength	None						SexualRhinoceros
+Sheepsquatch Club	50	Bloodied	Strength	None						SexualRhinoceros
+Super Sledge	50	Bloodied	Strength	None						SexualRhinoceros
+None	0	None	Powered	Improved sneaking						SexualRhinoceros
+None	0	None	Powered	Cavalier's						SexualRhinoceros
+None	0	None	Powered	Reduced weapon weight						SexualRhinoceros

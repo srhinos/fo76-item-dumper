@@ -1,0 +1,5155 @@
+{
+  "items": {
+    "by_id": {
+      "0011D3C7": {
+        "name": "Combat Armor",
+        "queries": [
+          "0011d3c7",
+          "0011d3c6",
+          "0011d3c5",
+          "0011d3c4",
+          "0011d3c3",
+          "combat",
+          "combatarmor",
+          "combat armor",
+          "combat-ll",
+          "combat-rl",
+          "combat-ra",
+          "combat-la",
+          "combat-ch"
+        ]
+      },
+      "0011D3C6": {
+        "name": "Combat Armor",
+        "queries": [
+          "0011d3c7",
+          "0011d3c6",
+          "0011d3c5",
+          "0011d3c4",
+          "0011d3c3",
+          "combat",
+          "combatarmor",
+          "combat armor",
+          "combat-ll",
+          "combat-rl",
+          "combat-ra",
+          "combat-la",
+          "combat-ch"
+        ]
+      },
+      "0011D3C5": {
+        "name": "Combat Armor",
+        "queries": [
+          "0011d3c7",
+          "0011d3c6",
+          "0011d3c5",
+          "0011d3c4",
+          "0011d3c3",
+          "combat",
+          "combatarmor",
+          "combat armor",
+          "combat-ll",
+          "combat-rl",
+          "combat-ra",
+          "combat-la",
+          "combat-ch"
+        ]
+      },
+      "0011D3C4": {
+        "name": "Combat Armor",
+        "queries": [
+          "0011d3c7",
+          "0011d3c6",
+          "0011d3c5",
+          "0011d3c4",
+          "0011d3c3",
+          "combat",
+          "combatarmor",
+          "combat armor",
+          "combat-ll",
+          "combat-rl",
+          "combat-ra",
+          "combat-la",
+          "combat-ch"
+        ]
+      },
+      "0011D3C3": {
+        "name": "Combat Armor",
+        "queries": [
+          "0011d3c7",
+          "0011d3c6",
+          "0011d3c5",
+          "0011d3c4",
+          "0011d3c3",
+          "combat",
+          "combatarmor",
+          "combat armor",
+          "combat-ll",
+          "combat-rl",
+          "combat-ra",
+          "combat-la",
+          "combat-ch"
+        ]
+      },
+      "0007B9C7": {
+        "name": "Leather Armor",
+        "queries": [
+          "0007b9c7",
+          "0007b9c3",
+          "0007b9c4",
+          "0007b9c5",
+          "0007b9c6",
+          "leather",
+          "leather armor",
+          "leatherarmor",
+          "leather-ll",
+          "leather-rl",
+          "leather-ra",
+          "leather-la",
+          "leather-ch"
+        ]
+      },
+      "0007B9C3": {
+        "name": "Leather Armor",
+        "queries": [
+          "0007b9c7",
+          "0007b9c3",
+          "0007b9c4",
+          "0007b9c5",
+          "0007b9c6",
+          "leather",
+          "leather armor",
+          "leatherarmor",
+          "leather-ll",
+          "leather-rl",
+          "leather-ra",
+          "leather-la",
+          "leather-ch"
+        ]
+      },
+      "0007B9C4": {
+        "name": "Leather Armor",
+        "queries": [
+          "0007b9c7",
+          "0007b9c3",
+          "0007b9c4",
+          "0007b9c5",
+          "0007b9c6",
+          "leather",
+          "leather armor",
+          "leatherarmor",
+          "leather-ll",
+          "leather-rl",
+          "leather-ra",
+          "leather-la",
+          "leather-ch"
+        ]
+      },
+      "0007B9C5": {
+        "name": "Leather Armor",
+        "queries": [
+          "0007b9c7",
+          "0007b9c3",
+          "0007b9c4",
+          "0007b9c5",
+          "0007b9c6",
+          "leather",
+          "leather armor",
+          "leatherarmor",
+          "leather-ll",
+          "leather-rl",
+          "leather-ra",
+          "leather-la",
+          "leather-ch"
+        ]
+      },
+      "0007B9C6": {
+        "name": "Leather Armor",
+        "queries": [
+          "0007b9c7",
+          "0007b9c3",
+          "0007b9c4",
+          "0007b9c5",
+          "0007b9c6",
+          "leather",
+          "leather armor",
+          "leatherarmor",
+          "leather-ll",
+          "leather-rl",
+          "leather-ra",
+          "leather-la",
+          "leather-ch"
+        ]
+      },
+      "0018E411": {
+        "name": "Raider Armor",
+        "queries": [
+          "0018e411",
+          "0018e413",
+          "0018e40f",
+          "0018e40d",
+          "0018e415",
+          "raider",
+          "bandit",
+          "raider armor",
+          "raiderarmor",
+          "radier-ll",
+          "radier-rl",
+          "radier-ra",
+          "radier-la",
+          "radier-ch"
+        ]
+      },
+      "0018E413": {
+        "name": "Raider Armor",
+        "queries": [
+          "0018e411",
+          "0018e413",
+          "0018e40f",
+          "0018e40d",
+          "0018e415",
+          "raider",
+          "bandit",
+          "raider armor",
+          "raiderarmor",
+          "radier-ll",
+          "radier-rl",
+          "radier-ra",
+          "radier-la",
+          "radier-ch"
+        ]
+      },
+      "0018E40F": {
+        "name": "Raider Armor",
+        "queries": [
+          "0018e411",
+          "0018e413",
+          "0018e40f",
+          "0018e40d",
+          "0018e415",
+          "raider",
+          "bandit",
+          "raider armor",
+          "raiderarmor",
+          "radier-ll",
+          "radier-rl",
+          "radier-ra",
+          "radier-la",
+          "radier-ch"
+        ]
+      },
+      "0018E40D": {
+        "name": "Raider Armor",
+        "queries": [
+          "0018e411",
+          "0018e413",
+          "0018e40f",
+          "0018e40d",
+          "0018e415",
+          "raider",
+          "bandit",
+          "raider armor",
+          "raiderarmor",
+          "radier-ll",
+          "radier-rl",
+          "radier-ra",
+          "radier-la",
+          "radier-ch"
+        ]
+      },
+      "0018E415": {
+        "name": "Raider Armor",
+        "queries": [
+          "0018e411",
+          "0018e413",
+          "0018e40f",
+          "0018e40d",
+          "0018e415",
+          "raider",
+          "bandit",
+          "raider armor",
+          "raiderarmor",
+          "radier-ll",
+          "radier-rl",
+          "radier-ra",
+          "radier-la",
+          "radier-ch"
+        ]
+      },
+      "0004B933": {
+        "name": "Metal Armor",
+        "queries": [
+          "0004b933",
+          "000536c1",
+          "000536c2",
+          "000536c3",
+          "000536c4",
+          "metal",
+          "metal armor",
+          "metalarmor",
+          "metal-ll",
+          "metal-rl",
+          "metal-ra",
+          "metal-la",
+          "metal-ch"
+        ]
+      },
+      "000536C1": {
+        "name": "Metal Armor",
+        "queries": [
+          "0004b933",
+          "000536c1",
+          "000536c2",
+          "000536c3",
+          "000536c4",
+          "metal",
+          "metal armor",
+          "metalarmor",
+          "metal-ll",
+          "metal-rl",
+          "metal-ra",
+          "metal-la",
+          "metal-ch"
+        ]
+      },
+      "000536C2": {
+        "name": "Metal Armor",
+        "queries": [
+          "0004b933",
+          "000536c1",
+          "000536c2",
+          "000536c3",
+          "000536c4",
+          "metal",
+          "metal armor",
+          "metalarmor",
+          "metal-ll",
+          "metal-rl",
+          "metal-ra",
+          "metal-la",
+          "metal-ch"
+        ]
+      },
+      "000536C3": {
+        "name": "Metal Armor",
+        "queries": [
+          "0004b933",
+          "000536c1",
+          "000536c2",
+          "000536c3",
+          "000536c4",
+          "metal",
+          "metal armor",
+          "metalarmor",
+          "metal-ll",
+          "metal-rl",
+          "metal-ra",
+          "metal-la",
+          "metal-ch"
+        ]
+      },
+      "000536C4": {
+        "name": "Metal Armor",
+        "queries": [
+          "0004b933",
+          "000536c1",
+          "000536c2",
+          "000536c3",
+          "000536c4",
+          "metal",
+          "metal armor",
+          "metalarmor",
+          "metal-ll",
+          "metal-rl",
+          "metal-ra",
+          "metal-la",
+          "metal-ch"
+        ]
+      },
+      "0010F375": {
+        "name": "Robot Armor",
+        "queries": [
+          "0010f375",
+          "0010f373",
+          "0010f379",
+          "0010f377",
+          "0010f370",
+          "robot",
+          "robotarmor",
+          "robot armor",
+          "robot-ll",
+          "robot-rl",
+          "robot-ra",
+          "robot-la",
+          "robot-ch"
+        ]
+      },
+      "0010F373": {
+        "name": "Robot Armor",
+        "queries": [
+          "0010f375",
+          "0010f373",
+          "0010f379",
+          "0010f377",
+          "0010f370",
+          "robot",
+          "robotarmor",
+          "robot armor",
+          "robot-ll",
+          "robot-rl",
+          "robot-ra",
+          "robot-la",
+          "robot-ch"
+        ]
+      },
+      "0010F379": {
+        "name": "Robot Armor",
+        "queries": [
+          "0010f375",
+          "0010f373",
+          "0010f379",
+          "0010f377",
+          "0010f370",
+          "robot",
+          "robotarmor",
+          "robot armor",
+          "robot-ll",
+          "robot-rl",
+          "robot-ra",
+          "robot-la",
+          "robot-ch"
+        ]
+      },
+      "0010F377": {
+        "name": "Robot Armor",
+        "queries": [
+          "0010f375",
+          "0010f373",
+          "0010f379",
+          "0010f377",
+          "0010f370",
+          "robot",
+          "robotarmor",
+          "robot armor",
+          "robot-ll",
+          "robot-rl",
+          "robot-ra",
+          "robot-la",
+          "robot-ch"
+        ]
+      },
+      "0010F370": {
+        "name": "Robot Armor",
+        "queries": [
+          "0010f375",
+          "0010f373",
+          "0010f379",
+          "0010f377",
+          "0010f370",
+          "robot",
+          "robotarmor",
+          "robot armor",
+          "robot-ll",
+          "robot-rl",
+          "robot-ra",
+          "robot-la",
+          "robot-ch"
+        ]
+      },
+      "002E46B1": {
+        "name": "Scout Armor",
+        "queries": [
+          "002e46b1",
+          "002e46a2",
+          "002e46b3",
+          "002e46a4",
+          "002e46b5",
+          "002e46aa",
+          "002e46b7",
+          "002e46a8",
+          "002e46ac",
+          "002e46a0",
+          "scout",
+          "forestscout",
+          "urbanscout",
+          "scout-ll",
+          "scout-rl",
+          "scout-ra",
+          "scout-la",
+          "scout-ch",
+          "forestscout-la",
+          "forestscout-ra",
+          "forestscout-ch",
+          "forestscout-rl",
+          "forestscout-ll"
+        ]
+      },
+      "002E46A2": {
+        "name": "Scout Armor",
+        "queries": [
+          "002e46b1",
+          "002e46a2",
+          "002e46b3",
+          "002e46a4",
+          "002e46b5",
+          "002e46aa",
+          "002e46b7",
+          "002e46a8",
+          "002e46ac",
+          "002e46a0",
+          "scout",
+          "forestscout",
+          "urbanscout",
+          "scout-ll",
+          "scout-rl",
+          "scout-ra",
+          "scout-la",
+          "scout-ch",
+          "forestscout-la",
+          "forestscout-ra",
+          "forestscout-ch",
+          "forestscout-rl",
+          "forestscout-ll"
+        ]
+      },
+      "002E46B3": {
+        "name": "Scout Armor",
+        "queries": [
+          "002e46b1",
+          "002e46a2",
+          "002e46b3",
+          "002e46a4",
+          "002e46b5",
+          "002e46aa",
+          "002e46b7",
+          "002e46a8",
+          "002e46ac",
+          "002e46a0",
+          "scout",
+          "forestscout",
+          "urbanscout",
+          "scout-ll",
+          "scout-rl",
+          "scout-ra",
+          "scout-la",
+          "scout-ch",
+          "forestscout-la",
+          "forestscout-ra",
+          "forestscout-ch",
+          "forestscout-rl",
+          "forestscout-ll"
+        ]
+      },
+      "002E46A4": {
+        "name": "Scout Armor",
+        "queries": [
+          "002e46b1",
+          "002e46a2",
+          "002e46b3",
+          "002e46a4",
+          "002e46b5",
+          "002e46aa",
+          "002e46b7",
+          "002e46a8",
+          "002e46ac",
+          "002e46a0",
+          "scout",
+          "forestscout",
+          "urbanscout",
+          "scout-ll",
+          "scout-rl",
+          "scout-ra",
+          "scout-la",
+          "scout-ch",
+          "forestscout-la",
+          "forestscout-ra",
+          "forestscout-ch",
+          "forestscout-rl",
+          "forestscout-ll"
+        ]
+      },
+      "002E46B5": {
+        "name": "Scout Armor",
+        "queries": [
+          "002e46b1",
+          "002e46a2",
+          "002e46b3",
+          "002e46a4",
+          "002e46b5",
+          "002e46aa",
+          "002e46b7",
+          "002e46a8",
+          "002e46ac",
+          "002e46a0",
+          "scout",
+          "forestscout",
+          "urbanscout",
+          "scout-ll",
+          "scout-rl",
+          "scout-ra",
+          "scout-la",
+          "scout-ch",
+          "forestscout-la",
+          "forestscout-ra",
+          "forestscout-ch",
+          "forestscout-rl",
+          "forestscout-ll"
+        ]
+      },
+      "002E46AA": {
+        "name": "Scout Armor",
+        "queries": [
+          "002e46b1",
+          "002e46a2",
+          "002e46b3",
+          "002e46a4",
+          "002e46b5",
+          "002e46aa",
+          "002e46b7",
+          "002e46a8",
+          "002e46ac",
+          "002e46a0",
+          "scout",
+          "forestscout",
+          "urbanscout",
+          "scout-ll",
+          "scout-rl",
+          "scout-ra",
+          "scout-la",
+          "scout-ch",
+          "forestscout-la",
+          "forestscout-ra",
+          "forestscout-ch",
+          "forestscout-rl",
+          "forestscout-ll"
+        ]
+      },
+      "002E46B7": {
+        "name": "Scout Armor",
+        "queries": [
+          "002e46b1",
+          "002e46a2",
+          "002e46b3",
+          "002e46a4",
+          "002e46b5",
+          "002e46aa",
+          "002e46b7",
+          "002e46a8",
+          "002e46ac",
+          "002e46a0",
+          "scout",
+          "forestscout",
+          "urbanscout",
+          "scout-ll",
+          "scout-rl",
+          "scout-ra",
+          "scout-la",
+          "scout-ch",
+          "forestscout-la",
+          "forestscout-ra",
+          "forestscout-ch",
+          "forestscout-rl",
+          "forestscout-ll"
+        ]
+      },
+      "002E46A8": {
+        "name": "Scout Armor",
+        "queries": [
+          "002e46b1",
+          "002e46a2",
+          "002e46b3",
+          "002e46a4",
+          "002e46b5",
+          "002e46aa",
+          "002e46b7",
+          "002e46a8",
+          "002e46ac",
+          "002e46a0",
+          "scout",
+          "forestscout",
+          "urbanscout",
+          "scout-ll",
+          "scout-rl",
+          "scout-ra",
+          "scout-la",
+          "scout-ch",
+          "forestscout-la",
+          "forestscout-ra",
+          "forestscout-ch",
+          "forestscout-rl",
+          "forestscout-ll"
+        ]
+      },
+      "002E46AC": {
+        "name": "Scout Armor",
+        "queries": [
+          "002e46b1",
+          "002e46a2",
+          "002e46b3",
+          "002e46a4",
+          "002e46b5",
+          "002e46aa",
+          "002e46b7",
+          "002e46a8",
+          "002e46ac",
+          "002e46a0",
+          "scout",
+          "forestscout",
+          "urbanscout",
+          "scout-ll",
+          "scout-rl",
+          "scout-ra",
+          "scout-la",
+          "scout-ch",
+          "forestscout-la",
+          "forestscout-ra",
+          "forestscout-ch",
+          "forestscout-rl",
+          "forestscout-ll"
+        ]
+      },
+      "002E46A0": {
+        "name": "Scout Armor",
+        "queries": [
+          "002e46b1",
+          "002e46a2",
+          "002e46b3",
+          "002e46a4",
+          "002e46b5",
+          "002e46aa",
+          "002e46b7",
+          "002e46a8",
+          "002e46ac",
+          "002e46a0",
+          "scout",
+          "forestscout",
+          "urbanscout",
+          "scout-ll",
+          "scout-rl",
+          "scout-ra",
+          "scout-la",
+          "scout-ch",
+          "forestscout-la",
+          "forestscout-ra",
+          "forestscout-ch",
+          "forestscout-rl",
+          "forestscout-ll"
+        ]
+      },
+      "00110895": {
+        "name": "Trapper Armor",
+        "queries": [
+          "00110895",
+          "00110896",
+          "00110897",
+          "00110898",
+          "00110899",
+          "trapper",
+          "trapper armor",
+          "trapperarmor",
+          "trapper-ra",
+          "trapper-rl",
+          "trapper-ll",
+          "trapper-la",
+          "trapper-ch"
+        ]
+      },
+      "00110896": {
+        "name": "Trapper Armor",
+        "queries": [
+          "00110895",
+          "00110896",
+          "00110897",
+          "00110898",
+          "00110899",
+          "trapper",
+          "trapper armor",
+          "trapperarmor",
+          "trapper-ra",
+          "trapper-rl",
+          "trapper-ll",
+          "trapper-la",
+          "trapper-ch"
+        ]
+      },
+      "00110897": {
+        "name": "Trapper Armor",
+        "queries": [
+          "00110895",
+          "00110896",
+          "00110897",
+          "00110898",
+          "00110899",
+          "trapper",
+          "trapper armor",
+          "trapperarmor",
+          "trapper-ra",
+          "trapper-rl",
+          "trapper-ll",
+          "trapper-la",
+          "trapper-ch"
+        ]
+      },
+      "00110898": {
+        "name": "Trapper Armor",
+        "queries": [
+          "00110895",
+          "00110896",
+          "00110897",
+          "00110898",
+          "00110899",
+          "trapper",
+          "trapper armor",
+          "trapperarmor",
+          "trapper-ra",
+          "trapper-rl",
+          "trapper-ll",
+          "trapper-la",
+          "trapper-ch"
+        ]
+      },
+      "00110899": {
+        "name": "Trapper Armor",
+        "queries": [
+          "00110895",
+          "00110896",
+          "00110897",
+          "00110898",
+          "00110899",
+          "trapper",
+          "trapper armor",
+          "trapperarmor",
+          "trapper-ra",
+          "trapper-rl",
+          "trapper-ll",
+          "trapper-la",
+          "trapper-ch"
+        ]
+      },
+      "0012C3B0": {
+        "name": "Wooden Armor",
+        "queries": [
+          "0012c3b0",
+          "0012c3b2",
+          "0012c3c2",
+          "0012c3c3",
+          "0012c3cb",
+          "wood",
+          "wooden",
+          "wood armor",
+          "wooden armor",
+          "woodarmor",
+          "woodenarmor",
+          "wood-ll",
+          "wood-la",
+          "woor-rl",
+          "wood-ra",
+          "wood-ch"
+        ]
+      },
+      "0012C3B2": {
+        "name": "Wooden Armor",
+        "queries": [
+          "0012c3b0",
+          "0012c3b2",
+          "0012c3c2",
+          "0012c3c3",
+          "0012c3cb",
+          "wood",
+          "wooden",
+          "wood armor",
+          "wooden armor",
+          "woodarmor",
+          "woodenarmor",
+          "wood-ll",
+          "wood-la",
+          "woor-rl",
+          "wood-ra",
+          "wood-ch"
+        ]
+      },
+      "0012C3C2": {
+        "name": "Wooden Armor",
+        "queries": [
+          "0012c3b0",
+          "0012c3b2",
+          "0012c3c2",
+          "0012c3c3",
+          "0012c3cb",
+          "wood",
+          "wooden",
+          "wood armor",
+          "wooden armor",
+          "woodarmor",
+          "woodenarmor",
+          "wood-ll",
+          "wood-la",
+          "woor-rl",
+          "wood-ra",
+          "wood-ch"
+        ]
+      },
+      "0012C3C3": {
+        "name": "Wooden Armor",
+        "queries": [
+          "0012c3b0",
+          "0012c3b2",
+          "0012c3c2",
+          "0012c3c3",
+          "0012c3cb",
+          "wood",
+          "wooden",
+          "wood armor",
+          "wooden armor",
+          "woodarmor",
+          "woodenarmor",
+          "wood-ll",
+          "wood-la",
+          "woor-rl",
+          "wood-ra",
+          "wood-ch"
+        ]
+      },
+      "0012C3CB": {
+        "name": "Wooden Armor",
+        "queries": [
+          "0012c3b0",
+          "0012c3b2",
+          "0012c3c2",
+          "0012c3c3",
+          "0012c3cb",
+          "wood",
+          "wooden",
+          "wood armor",
+          "wooden armor",
+          "woodarmor",
+          "woodenarmor",
+          "wood-ll",
+          "wood-la",
+          "woor-rl",
+          "wood-ra",
+          "wood-ch"
+        ]
+      },
+      "001107AA": {
+        "name": "Marine Armor",
+        "queries": [
+          "001107aa",
+          "001107ab",
+          "001107ad",
+          "001107ae",
+          "001107af",
+          "marine",
+          "marine armor",
+          "marinearmor",
+          "marine-ll",
+          "marine-la",
+          "marine-rl",
+          "marine-ra",
+          "marine-ch"
+        ]
+      },
+      "001107AB": {
+        "name": "Marine Armor",
+        "queries": [
+          "001107aa",
+          "001107ab",
+          "001107ad",
+          "001107ae",
+          "001107af",
+          "marine",
+          "marine armor",
+          "marinearmor",
+          "marine-ll",
+          "marine-la",
+          "marine-rl",
+          "marine-ra",
+          "marine-ch"
+        ]
+      },
+      "001107AD": {
+        "name": "Marine Armor",
+        "queries": [
+          "001107aa",
+          "001107ab",
+          "001107ad",
+          "001107ae",
+          "001107af",
+          "marine",
+          "marine armor",
+          "marinearmor",
+          "marine-ll",
+          "marine-la",
+          "marine-rl",
+          "marine-ra",
+          "marine-ch"
+        ]
+      },
+      "001107AE": {
+        "name": "Marine Armor",
+        "queries": [
+          "001107aa",
+          "001107ab",
+          "001107ad",
+          "001107ae",
+          "001107af",
+          "marine",
+          "marine armor",
+          "marinearmor",
+          "marine-ll",
+          "marine-la",
+          "marine-rl",
+          "marine-ra",
+          "marine-ch"
+        ]
+      },
+      "001107AF": {
+        "name": "Marine Armor",
+        "queries": [
+          "001107aa",
+          "001107ab",
+          "001107ad",
+          "001107ae",
+          "001107af",
+          "marine",
+          "marine armor",
+          "marinearmor",
+          "marine-ll",
+          "marine-la",
+          "marine-rl",
+          "marine-ra",
+          "marine-ch"
+        ]
+      },
+      "00004822": {
+        "name": "10mm pistol",
+        "queries": [
+          "00004822",
+          "10mmpistol",
+          "10mm",
+          "10mm pistol",
+          "10mm gun"
+        ]
+      },
+      "000CE97D": {
+        "name": ".44 Revolver",
+        "queries": [
+          "000ce97d",
+          "44revolver",
+          "44"
+        ]
+      },
+      "00003AAD": {
+        "name": "Black Powder Blunderbuss",
+        "queries": [
+          "00003aad",
+          "blunderbuss",
+          "black powder blunderbuss",
+          "powderbuss"
+        ]
+      },
+      "00003AAC": {
+        "name": "Black Powder Pistol",
+        "queries": [
+          "00003aac",
+          "powderpistol",
+          "black powder pistol",
+          "bpp",
+          "powder pistol"
+        ]
+      },
+      "000DDB7C": {
+        "name": "Gamma Gun",
+        "queries": [
+          "000ddb7c",
+          "gamma",
+          "gamma gun",
+          "gammagun"
+        ]
+      },
+      "0009983B": {
+        "name": "Laser Gun/Rifle",
+        "queries": [
+          "0009983b",
+          "laser",
+          "laser rifle",
+          "laser pistol",
+          "laserpistol",
+          "laserrifle"
+        ]
+      },
+      "0014831A": {
+        "name": "Pipe Bolt-Action Pitol/Rifle",
+        "queries": [
+          "0014831a",
+          "pipebolt",
+          "pipe-bolt",
+          "pipe bolt"
+        ]
+      },
+      "00024F55": {
+        "name": "Pipe Pistol/Rifle",
+        "queries": [
+          "00024f55",
+          "pipe",
+          "pipepistol",
+          "piperifle",
+          "pipe pistol",
+          "pipe rifle"
+        ]
+      },
+      "0014831B": {
+        "name": "Pipe Revolver",
+        "queries": [
+          "0014831b",
+          "piperevolver",
+          "piperevo",
+          "pipe revolver"
+        ]
+      },
+      "00100AE9": {
+        "name": "Plasma Gun/Rifle",
+        "queries": [
+          "00100ae9",
+          "plasma",
+          "plasmarifle",
+          "plasma rifle",
+          "plasmagun",
+          "plasma gun"
+        ]
+      },
+      "0010FAA7": {
+        "name": "Salvaged Assaultron Head",
+        "queries": [
+          "0010faa7",
+          "asshead",
+          "assaulthead",
+          "assault head",
+          "ass head",
+          "assaultron head"
+        ]
+      },
+      "001C7A69": {
+        "name": "Single Action Revolver",
+        "queries": [
+          "001c7a69",
+          "singleaction",
+          "singlerevo",
+          "singlerevolver",
+          "single action revolver"
+        ]
+      },
+      "00113D6A": {
+        "name": "Western Revolver",
+        "queries": [
+          "00113d6a",
+          "western",
+          "western revolver",
+          "westernrevolver"
+        ]
+      },
+      "00186171": {
+        "name": "Ultracite Laser Pistol/Rifle",
+        "queries": [
+          "00186171",
+          "ultralaser",
+          "ultracitelaser",
+          "ultracite laser"
+        ]
+      },
+      "0000463F": {
+        "name": "Assault Rifle",
+        "queries": [
+          "0000463f",
+          "assault",
+          "assaultrifle",
+          "ar",
+          "assault rifle"
+        ]
+      },
+      "00091BB4": {
+        "name": "Black Powder Rifle",
+        "queries": [
+          "00091bb4",
+          "powderrifle",
+          "black powder rifle",
+          "blackpowderrifle"
+        ]
+      },
+      "000DF42E": {
+        "name": "Combat Rifle",
+        "queries": [
+          "000df42e",
+          "combatrifle",
+          "cr",
+          "combat rifle"
+        ]
+      },
+      "00055463": {
+        "name": "Crossbow",
+        "queries": [
+          "00055463",
+          "crossbow",
+          "cross"
+        ]
+      },
+      "000D1EB0": {
+        "name": "Gauss Rifle",
+        "queries": [
+          "000d1eb0",
+          "gauss",
+          "gauss rifle",
+          "gaussrifle"
+        ]
+      },
+      "00113854": {
+        "name": "Handmade Rifle",
+        "queries": [
+          "00113854",
+          "handmade",
+          "kalash",
+          "handmade rifle"
+        ]
+      },
+      "0004F46A": {
+        "name": "Hunting Rifle",
+        "queries": [
+          "0004f46a",
+          "hunting",
+          "huntingrifle",
+          "hunting rifle"
+        ]
+      },
+      "00110E32": {
+        "name": "Lever-Action Rifle",
+        "queries": [
+          "00110e32",
+          "lever",
+          "lever action",
+          "lar"
+        ]
+      },
+      "00110D41": {
+        "name": "Radium Rifle",
+        "queries": [
+          "00110d41",
+          "rad",
+          "radrifle",
+          "radiumrifle",
+          "radium",
+          "radium rifle"
+        ]
+      },
+      "000FE268": {
+        "name": "Railway Rifle",
+        "queries": [
+          "000fe268",
+          "railway",
+          "rail",
+          "railwayrifle",
+          "railway rifle"
+        ]
+      },
+      "0010F0EC": {
+        "name": "Tesla Rifle",
+        "queries": [
+          "0010f0ec",
+          "tesla",
+          "teslarifle",
+          "testla rifle",
+          "tesla rifle",
+          "noobgun"
+        ]
+      },
+      "00046946": {
+        "name": "The Dragon",
+        "queries": [
+          "00046946",
+          "dragon",
+          "thedragon",
+          "the dragon"
+        ]
+      },
+      "0046D2A1": {
+        "name": "The Fixer",
+        "queries": [
+          "0046d2a1",
+          "fixer",
+          "thefixer",
+          "the fixer"
+        ]
+      },
+      "0010DB0F": {
+        "name": "10mm Submachine",
+        "queries": [
+          "0010db0f",
+          "10mmsub",
+          "smg",
+          "10mm submachine",
+          "10mm sub"
+        ]
+      },
+      "0015B043": {
+        "name": "Submachine gun",
+        "queries": [
+          "0015b043",
+          "sub",
+          "submachine",
+          "submachinegun",
+          "tommy",
+          "tommygun"
+        ]
+      },
+      "0003A0D4": {
+        "name": ".50 cal Machine Gun",
+        "queries": [
+          "0003a0d4",
+          "50cal",
+          ".50cal",
+          ".50 cal",
+          "50 cal",
+          ".50"
+        ]
+      },
+      "0020413F": {
+        "name": "Flamer",
+        "queries": [
+          "0020413f",
+          "000e5881",
+          "0040345e",
+          "flamer",
+          "napalmer",
+          "flamethrower"
+        ]
+      },
+      "000E5881": {
+        "name": "Flamer",
+        "queries": [
+          "0020413f",
+          "000e5881",
+          "0040345e",
+          "flamer",
+          "napalmer",
+          "flamethrower"
+        ]
+      },
+      "0040345E": {
+        "name": "Flamer",
+        "queries": [
+          "0020413f",
+          "000e5881",
+          "0040345e",
+          "flamer",
+          "napalmer",
+          "flamethrower"
+        ]
+      },
+      "00011BF6": {
+        "name": "Gatling Gun",
+        "queries": [
+          "00011bf6",
+          "gatling",
+          "gattling",
+          "gatlinggun",
+          "gattlinggun"
+        ]
+      },
+      "000E27BC": {
+        "name": "Gatling Laser",
+        "queries": [
+          "000e27bc",
+          "gl",
+          "gatlaser",
+          "gatlinglaser",
+          "gatling laser"
+        ]
+      },
+      "0040345F": {
+        "name": "Gatling Plasma",
+        "queries": [
+          "0001ec47",
+          "0040345f",
+          "gatplasma",
+          "plasmagat",
+          "gatling plasma",
+          "gatlingplasma",
+          "gp"
+        ]
+      },
+      "0001EC47": {
+        "name": "Gatling Plasma",
+        "queries": [
+          "0001ec47",
+          "0040345f",
+          "gatplasma",
+          "plasmagat",
+          "gatling plasma",
+          "gatlingplasma",
+          "gp"
+        ]
+      },
+      "0040345D": {
+        "name": "Harpoon Gun",
+        "queries": [
+          "001109cf",
+          "harpoon",
+          "harpoongun",
+          "poon"
+        ]
+      },
+      "001109CF": {
+        "name": "Harpoon Gun",
+        "queries": [
+          "001109cf",
+          "harpoon",
+          "harpoongun",
+          "poon"
+        ]
+      },
+      "0007CAB1": {
+        "name": "Light Machine Gun",
+        "queries": [
+          "0007cab1",
+          "mg42",
+          "lmg",
+          "lightmachinegun",
+          "lightmachine",
+          "light machine gun"
+        ]
+      },
+      "0001F669": {
+        "name": "Minigun",
+        "queries": [
+          "0001f669",
+          "0040345b",
+          "mini",
+          "minigun"
+        ]
+      },
+      "0040345B": {
+        "name": "Minigun",
+        "queries": [
+          "0001f669",
+          "0040345b",
+          "mini",
+          "minigun"
+        ]
+      },
+      "002EF66E": {
+        "name": "Ultracite Gatling Laser",
+        "queries": [
+          "002ef66e",
+          "ultragatling",
+          "ultracitegatlinglaser",
+          "ultragat",
+          "ultracite gatling",
+          "ugl"
+        ]
+      },
+      "0014831C": {
+        "name": "Combat Shotgun",
+        "queries": [
+          "0014831c",
+          "combatshotgun",
+          "combatshotty",
+          "combat shotgun"
+        ]
+      },
+      "00092217": {
+        "name": "Double-barrel shotgun",
+        "queries": [
+          "00092217",
+          "db",
+          "doublebarrel",
+          "doublebarel",
+          "doubleshotgun",
+          "double barrel shotgun"
+        ]
+      },
+      "0012DBB3": {
+        "name": "Pump Action Shotgun",
+        "queries": [
+          "0012dbb3",
+          "pump",
+          "pumpaction",
+          "pumpshotgun",
+          "pumpshotty",
+          "pump action shotgun",
+          "pump shotty",
+          "pump shotgun"
+        ]
+      },
+      "0040345C": {
+        "name": "Auto Grenade Launcher",
+        "queries": [
+          "00182634",
+          "0040345c",
+          "agl",
+          "autogrenade",
+          "auto grenade launcher",
+          "autolauncher"
+        ]
+      },
+      "00182634": {
+        "name": "Auto Grenade Launcher",
+        "queries": [
+          "00182634",
+          "0040345c",
+          "agl",
+          "autogrenade",
+          "auto grenade launcher",
+          "autolauncher"
+        ]
+      },
+      "000FD11B": {
+        "name": "Broadsider",
+        "queries": [
+          "000fd11b",
+          "broadsider",
+          "cannon"
+        ]
+      },
+      "00171B2B": {
+        "name": "Cryolator",
+        "queries": [
+          "00171b2b",
+          "cryo",
+          "cryolator"
+        ]
+      },
+      "000BD56F": {
+        "name": "Fat Man",
+        "queries": [
+          "000bd56f",
+          "fatman",
+          "mininuke",
+          "fat man"
+        ]
+      },
+      "0008F0EF": {
+        "name": "M79 Grenade Launcher",
+        "queries": [
+          "0008f0ef",
+          "grenadelauncher",
+          "m79",
+          "grenade launcher"
+        ]
+      },
+      "0003F6F8": {
+        "name": "Missle Launcher",
+        "queries": [
+          "0003f6f8",
+          "bazooka",
+          "rocket laungcher",
+          "rocketlauncher",
+          "rocket",
+          "rocket launcher",
+          "misslelauncher",
+          "missle launcher"
+        ]
+      },
+      "None": {
+        "name": "Select a weapon",
+        "queries": [
+          "none"
+        ]
+      },
+      "005A205C": {
+        "name": "Bear Arm",
+        "queries": [
+          "005a205c",
+          "bear",
+          "beararm",
+          "bear arm"
+        ]
+      },
+      "0016498F": {
+        "name": "Boxing Glove",
+        "queries": [
+          "0016498f",
+          "box",
+          "boxing",
+          "glove",
+          "boxglove",
+          "boxingglove",
+          "boxing glove",
+          "box glove"
+        ]
+      },
+      "0000DC55": {
+        "name": "Death Tambo",
+        "queries": [
+          "0000dc55",
+          "tambo",
+          "tamboo",
+          "deathtambo",
+          "death tambo"
+        ]
+      },
+      "000D8576": {
+        "name": "Deathclaw Gauntlet",
+        "queries": [
+          "000d8576",
+          "dcg",
+          "deathclawgauntlet",
+          "deathgauntlet",
+          "deathclaw",
+          "deathclaw gauntlet"
+        ]
+      },
+      "0005524B": {
+        "name": "Knuckles",
+        "queries": [
+          "0005524b",
+          "knuckles"
+        ]
+      },
+      "00111562": {
+        "name": "Meat Hook",
+        "queries": [
+          "00111562",
+          "meathook",
+          "meat",
+          "meat hook",
+          "hook"
+        ]
+      },
+      "00012E73": {
+        "name": "Mole miner Gauntlet",
+        "queries": [
+          "00012e73",
+          "mole",
+          "molegauntlet",
+          "moleminer",
+          "moleminer gauntlet"
+        ]
+      },
+      "0011B336": {
+        "name": "Power Fist",
+        "queries": [
+          "0011b336",
+          "powerfist",
+          "fist",
+          "power fist",
+          "fisto"
+        ]
+      },
+      "0010F3F2": {
+        "name": "Assaultron Blade",
+        "queries": [
+          "0010f3f2",
+          "assblade",
+          "assaultblade",
+          "assaultronblade",
+          "assault blade",
+          "assualt blade",
+          "assaultron blade"
+        ]
+      },
+      "003643DA": {
+        "name": "Bone Club",
+        "queries": [
+          "003643da",
+          "boneclub",
+          "bone",
+          "bone club"
+        ]
+      },
+      "000311DE": {
+        "name": "Bowie Knife",
+        "queries": [
+          "000311de",
+          "bowie",
+          "bowieknife",
+          "bowie knife"
+        ]
+      },
+      "00147BE4": {
+        "name": "Chinese Officer Sword",
+        "queries": [
+          "00147be4",
+          "chinese",
+          "cos",
+          "chinesesword",
+          "chinese sword"
+        ]
+      },
+      "0008C14D": {
+        "name": "Baton",
+        "queries": [
+          "0008c14d",
+          "btn",
+          "baton"
+        ]
+      },
+      "000913CA": {
+        "name": "Combat Knife",
+        "queries": [
+          "000913ca",
+          "combatknife",
+          "cknife",
+          "combat knife"
+        ]
+      },
+      "0005A937": {
+        "name": "Cultist Blade",
+        "queries": [
+          "0005a937",
+          "cultistblade",
+          "cblade",
+          "cultist blade"
+        ]
+      },
+      "0000DC56": {
+        "name": "Guitar Sword",
+        "queries": [
+          "0000dc56",
+          "guitarsword",
+          "guitar",
+          "guitar sword"
+        ]
+      },
+      "0010D808": {
+        "name": "Hatchet",
+        "queries": [
+          "0010d808",
+          "hatchet"
+        ]
+      },
+      "000FC9C3": {
+        "name": "Lead Pipe",
+        "queries": [
+          "000fc9c3",
+          "lead pipe",
+          "leadpipe"
+        ]
+      },
+      "00033FE0": {
+        "name": "Machete",
+        "queries": [
+          "00033fe0",
+          "machete"
+        ]
+      },
+      "002A0405": {
+        "name": "Multi-purpose Axe",
+        "queries": [
+          "002a0405",
+          "multiaxe",
+          "multipurpose",
+          "multi purpose axe",
+          "multi-purpose axe"
+        ]
+      },
+      "000D83BF": {
+        "name": "Pipe Wrench",
+        "queries": [
+          "000d83bf",
+          "pipewrench",
+          "wrench",
+          "pipe wrench"
+        ]
+      },
+      "000FA2F6": {
+        "name": "Ripper",
+        "queries": [
+          "000fa2f6",
+          "ripper",
+          "rip"
+        ]
+      },
+      "00142FAB": {
+        "name": "Rolling Pin",
+        "queries": [
+          "00142fab",
+          "rollingpin",
+          "pin",
+          "rolling pin"
+        ]
+      },
+      "00455847": {
+        "name": "Sheepsquatch Staff",
+        "queries": [
+          "00455847",
+          "sheepstaff",
+          "sheep staff",
+          "sheepsquatch staff",
+          "sheepsquatchstaff"
+        ]
+      },
+      "000FA2FB": {
+        "name": "Shishkebab",
+        "queries": [
+          "000fa2fb",
+          "shishkebab",
+          "kebab"
+        ]
+      },
+      "000B3293": {
+        "name": "Sickle",
+        "queries": [
+          "000b3293",
+          "sickle",
+          "sick"
+        ]
+      },
+      "000360CF": {
+        "name": "Ski Sword",
+        "queries": [
+          "000360cf",
+          "skisword",
+          "ski sword",
+          "ski"
+        ]
+      },
+      "000FDC81": {
+        "name": "Switchblade",
+        "queries": [
+          "000fdc81",
+          "switchblade",
+          "sblade"
+        ]
+      },
+      "00185D25": {
+        "name": "Tire Iron",
+        "queries": [
+          "00185d25",
+          "tireiron",
+          "tire iron",
+          "tire",
+          "iron"
+        ]
+      },
+      "0008E736": {
+        "name": "Baseball Bat",
+        "queries": [
+          "0008e736",
+          "baseball",
+          "baseball bat",
+          "baseballbat"
+        ]
+      },
+      "0005C250": {
+        "name": "Board",
+        "queries": [
+          "0005c250",
+          "board",
+          "plank"
+        ]
+      },
+      "0012B793": {
+        "name": "Fire Axe",
+        "queries": [
+          "0012b793",
+          "fireaxe",
+          "faxe",
+          "fire axe"
+        ]
+      },
+      "00073677": {
+        "name": "Golf Club",
+        "queries": [
+          "00073677",
+          "golf",
+          "golfclub",
+          "golf club"
+        ]
+      },
+      "00183FCD": {
+        "name": "Grognak's Axe",
+        "queries": [
+          "00183fcd",
+          "grognak",
+          "grognaxe",
+          "gronakaxe",
+          "gronaksaxe",
+          "grognak axe",
+          "grognaks axe",
+          "gronak"
+        ]
+      },
+      "0010EC97": {
+        "name": "Mr. Handy Buzz Blade",
+        "queries": [
+          "0010ec97",
+          "buzzblade",
+          "buzz",
+          "buzz blade"
+        ]
+      },
+      "0003A1D1": {
+        "name": "Pitchfork",
+        "queries": [
+          "0003a1d1",
+          "pitchfork",
+          "fork"
+        ]
+      },
+      "00110771": {
+        "name": "Pole Hook",
+        "queries": [
+          "00110771",
+          "pole",
+          "pole hook",
+          "polehook"
+        ]
+      },
+      "00043E20": {
+        "name": "Shovel",
+        "queries": [
+          "00043e20",
+          "001ae45f",
+          "shovel"
+        ]
+      },
+      "001AE45F": {
+        "name": "Shovel",
+        "queries": [
+          "00043e20",
+          "001ae45f",
+          "shovel"
+        ]
+      },
+      "000E7AB9": {
+        "name": "Sledgehammer",
+        "queries": [
+          "000e7ab9",
+          "sledge",
+          "shammer",
+          "sledgehammer"
+        ]
+      },
+      "000FDC7D": {
+        "name": "Walking Cane",
+        "queries": [
+          "000fdc7d",
+          "walkcane",
+          "walkingcane",
+          "cane",
+          "walking cane"
+        ]
+      },
+      "0000DC57": {
+        "name": "War Drum",
+        "queries": [
+          "0000dc57",
+          "wardrum",
+          "drum",
+          "war drum"
+        ]
+      },
+      "000FF964": {
+        "name": "Super Sledge",
+        "queries": [
+          "000ff964",
+          "supersledge",
+          "super sledge",
+          "ssledge"
+        ]
+      },
+      "000FA3E8": {
+        "name": "Pool Cue",
+        "queries": [
+          "000fa3e8",
+          "pool",
+          "poolcue",
+          "cue",
+          "pool cue"
+        ]
+      },
+      "00002840": {
+        "name": "Pickaxe",
+        "queries": [
+          "00002840",
+          "pickaxe",
+          "pick"
+        ]
+      },
+      "00455839": {
+        "name": "Sheepsquatch Club",
+        "queries": [
+          "00455839",
+          "sheepclub",
+          "sheep club",
+          "sheepsquatchclub",
+          "sheepsquatch club"
+        ]
+      },
+      "003643D9": {
+        "name": "Bone Hammer",
+        "queries": [
+          "003643d9",
+          "bonehammer",
+          "bhammer",
+          "bone hammer"
+        ]
+      },
+      "002D473A": {
+        "name": "Spear",
+        "queries": [
+          "002d473a",
+          "spear",
+          "spears",
+          "bashstick"
+        ]
+      },
+      "0008E015": {
+        "name": "Cultist Dagger",
+        "queries": [
+          "0008e015",
+          "cultistdagger",
+          "dagger",
+          "cultist dagger"
+        ]
+      },
+      "00143AB5": {
+        "name": "Revolutionary Sword",
+        "queries": [
+          "revosword",
+          "revolutionary",
+          "revolutionarysword",
+          "revolutionary sword"
+        ]
+      },
+      "0045582B": {
+        "name": "Shepherd's Crook",
+        "queries": [
+          "shepherdscrook",
+          "shepcrook",
+          "crook",
+          "sheperdscrook"
+        ]
+      },
+      "0055C152": {
+        "name": "Bow",
+        "queries": [
+          "bow",
+          "bw",
+          "0055c152"
+        ]
+      },
+      "00013CE9": {
+        "name": "Compound Bow",
+        "queries": [
+          "cbow",
+          "compound",
+          "compoundbow",
+          "compound bow",
+          "00013ce9"
+        ]
+      },
+      "00553294": {
+        "name": "Tenderizer",
+        "queries": [
+          "tender",
+          "tend",
+          "tenderizer",
+          "tende",
+          "00553294"
+        ]
+      }
+    },
+    "by_name": {
+      "combat": {
+        "ids": [
+          "0011D3C7",
+          "0011D3C6",
+          "0011D3C5",
+          "0011D3C4",
+          "0011D3C3"
+        ],
+        "queries": [
+          "0011d3c7",
+          "0011d3c6",
+          "0011d3c5",
+          "0011d3c4",
+          "0011d3c3",
+          "combat",
+          "combatarmor",
+          "combat armor",
+          "combat-ll",
+          "combat-rl",
+          "combat-ra",
+          "combat-la",
+          "combat-ch"
+        ],
+        "id": "0011D3C7"
+      },
+      "leather": {
+        "ids": [
+          "0007B9C7",
+          "0007B9C3",
+          "0007B9C4",
+          "0007B9C5",
+          "0007B9C6"
+        ],
+        "queries": [
+          "0007b9c7",
+          "0007b9c3",
+          "0007b9c4",
+          "0007b9c5",
+          "0007b9c6",
+          "leather",
+          "leather armor",
+          "leatherarmor",
+          "leather-ll",
+          "leather-rl",
+          "leather-ra",
+          "leather-la",
+          "leather-ch"
+        ],
+        "id": "0007B9C7"
+      },
+      "raider": {
+        "ids": [
+          "0018E411",
+          "0018E413",
+          "0018E40F",
+          "0018E40D",
+          "0018E415"
+        ],
+        "queries": [
+          "0018e411",
+          "0018e413",
+          "0018e40f",
+          "0018e40d",
+          "0018e415",
+          "raider",
+          "bandit",
+          "raider armor",
+          "raiderarmor",
+          "radier-ll",
+          "radier-rl",
+          "radier-ra",
+          "radier-la",
+          "radier-ch"
+        ],
+        "id": "0018E411"
+      },
+      "metal": {
+        "ids": [
+          "0004B933",
+          "000536C1",
+          "000536C2",
+          "000536C3",
+          "000536C4"
+        ],
+        "queries": [
+          "0004b933",
+          "000536c1",
+          "000536c2",
+          "000536c3",
+          "000536c4",
+          "metal",
+          "metal armor",
+          "metalarmor",
+          "metal-ll",
+          "metal-rl",
+          "metal-ra",
+          "metal-la",
+          "metal-ch"
+        ],
+        "id": "0004B933"
+      },
+      "robot": {
+        "ids": [
+          "0010F375",
+          "0010F373",
+          "0010F379",
+          "0010F377",
+          "0010F370"
+        ],
+        "queries": [
+          "0010f375",
+          "0010f373",
+          "0010f379",
+          "0010f377",
+          "0010f370",
+          "robot",
+          "robotarmor",
+          "robot armor",
+          "robot-ll",
+          "robot-rl",
+          "robot-ra",
+          "robot-la",
+          "robot-ch"
+        ],
+        "id": "0010F375"
+      },
+      "scout": {
+        "ids": [
+          "002E46B1",
+          "002E46A2",
+          "002E46B3",
+          "002E46A4",
+          "002E46B5",
+          "002E46AA",
+          "002E46B7",
+          "002E46A8",
+          "002E46AC",
+          "002E46A0"
+        ],
+        "queries": [
+          "002e46b1",
+          "002e46a2",
+          "002e46b3",
+          "002e46a4",
+          "002e46b5",
+          "002e46aa",
+          "002e46b7",
+          "002e46a8",
+          "002e46ac",
+          "002e46a0",
+          "scout",
+          "forestscout",
+          "urbanscout",
+          "scout-ll",
+          "scout-rl",
+          "scout-ra",
+          "scout-la",
+          "scout-ch",
+          "forestscout-la",
+          "forestscout-ra",
+          "forestscout-ch",
+          "forestscout-rl",
+          "forestscout-ll"
+        ],
+        "id": "002E46B1"
+      },
+      "trapper": {
+        "ids": [
+          "00110895",
+          "00110896",
+          "00110897",
+          "00110898",
+          "00110899"
+        ],
+        "queries": [
+          "00110895",
+          "00110896",
+          "00110897",
+          "00110898",
+          "00110899",
+          "trapper",
+          "trapper armor",
+          "trapperarmor",
+          "trapper-ra",
+          "trapper-rl",
+          "trapper-ll",
+          "trapper-la",
+          "trapper-ch"
+        ],
+        "id": "00110895"
+      },
+      "wood": {
+        "ids": [
+          "0012C3B0",
+          "0012C3B2",
+          "0012C3C2",
+          "0012C3C3",
+          "0012C3CB"
+        ],
+        "queries": [
+          "0012c3b0",
+          "0012c3b2",
+          "0012c3c2",
+          "0012c3c3",
+          "0012c3cb",
+          "wood",
+          "wooden",
+          "wood armor",
+          "wooden armor",
+          "woodarmor",
+          "woodenarmor",
+          "wood-ll",
+          "wood-la",
+          "woor-rl",
+          "wood-ra",
+          "wood-ch"
+        ],
+        "id": "0012C3B0"
+      },
+      "marine": {
+        "ids": [
+          "001107AA",
+          "001107AB",
+          "001107AD",
+          "001107AE",
+          "001107AF"
+        ],
+        "queries": [
+          "001107aa",
+          "001107ab",
+          "001107ad",
+          "001107ae",
+          "001107af",
+          "marine",
+          "marine armor",
+          "marinearmor",
+          "marine-ll",
+          "marine-la",
+          "marine-rl",
+          "marine-ra",
+          "marine-ch"
+        ],
+        "id": "001107AA"
+      },
+      "10mm": {
+        "id": "00004822",
+        "queries": [
+          "00004822",
+          "10mmpistol",
+          "10mm",
+          "10mm pistol",
+          "10mm gun"
+        ]
+      },
+      "44revolver": {
+        "id": "000CE97D",
+        "queries": [
+          "000ce97d",
+          "44revolver",
+          "44"
+        ]
+      },
+      "blunderbuss": {
+        "id": "00003AAD",
+        "queries": [
+          "00003aad",
+          "blunderbuss",
+          "black powder blunderbuss",
+          "powderbuss"
+        ]
+      },
+      "powderpistol": {
+        "id": "00003AAC",
+        "queries": [
+          "00003aac",
+          "powderpistol",
+          "black powder pistol",
+          "bpp",
+          "powder pistol"
+        ]
+      },
+      "gamma": {
+        "id": "000DDB7C",
+        "queries": [
+          "000ddb7c",
+          "gamma",
+          "gamma gun",
+          "gammagun"
+        ]
+      },
+      "laser": {
+        "id": "0009983B",
+        "queries": [
+          "0009983b",
+          "laser",
+          "laser rifle",
+          "laser pistol",
+          "laserpistol",
+          "laserrifle"
+        ]
+      },
+      "pipebolt": {
+        "id": "0014831A",
+        "queries": [
+          "0014831a",
+          "pipebolt",
+          "pipe-bolt",
+          "pipe bolt"
+        ]
+      },
+      "pipe": {
+        "id": "00024F55",
+        "queries": [
+          "00024f55",
+          "pipe",
+          "pipepistol",
+          "piperifle",
+          "pipe pistol",
+          "pipe rifle"
+        ]
+      },
+      "piperevolver": {
+        "id": "0014831B",
+        "queries": [
+          "0014831b",
+          "piperevolver",
+          "piperevo",
+          "pipe revolver"
+        ]
+      },
+      "plasma": {
+        "id": "00100AE9",
+        "queries": [
+          "00100ae9",
+          "plasma",
+          "plasmarifle",
+          "plasma rifle",
+          "plasmagun",
+          "plasma gun"
+        ]
+      },
+      "assaulthead": {
+        "id": "0010FAA7",
+        "queries": [
+          "0010faa7",
+          "asshead",
+          "assaulthead",
+          "assault head",
+          "ass head",
+          "assaultron head"
+        ]
+      },
+      "singlerevolver": {
+        "id": "001C7A69",
+        "queries": [
+          "001c7a69",
+          "singleaction",
+          "singlerevo",
+          "singlerevolver",
+          "single action revolver"
+        ]
+      },
+      "western": {
+        "id": "00113D6A",
+        "queries": [
+          "00113d6a",
+          "western",
+          "western revolver",
+          "westernrevolver"
+        ]
+      },
+      "ultralaser": {
+        "id": "00186171",
+        "queries": [
+          "00186171",
+          "ultralaser",
+          "ultracitelaser",
+          "ultracite laser"
+        ]
+      },
+      "assault": {
+        "id": "0000463F",
+        "queries": [
+          "0000463f",
+          "assault",
+          "assaultrifle",
+          "ar",
+          "assault rifle"
+        ]
+      },
+      "powderrifle": {
+        "id": "00091BB4",
+        "queries": [
+          "00091bb4",
+          "powderrifle",
+          "black powder rifle",
+          "blackpowderrifle"
+        ]
+      },
+      "combatrifle": {
+        "id": "000DF42E",
+        "queries": [
+          "000df42e",
+          "combatrifle",
+          "cr",
+          "combat rifle"
+        ]
+      },
+      "crossbow": {
+        "id": "00055463",
+        "queries": [
+          "00055463",
+          "crossbow",
+          "cross"
+        ]
+      },
+      "gauss": {
+        "id": "000D1EB0",
+        "queries": [
+          "000d1eb0",
+          "gauss",
+          "gauss rifle",
+          "gaussrifle"
+        ]
+      },
+      "handmade": {
+        "id": "00113854",
+        "queries": [
+          "00113854",
+          "handmade",
+          "kalash",
+          "handmade rifle"
+        ]
+      },
+      "hunting": {
+        "id": "0004F46A",
+        "queries": [
+          "0004f46a",
+          "hunting",
+          "huntingrifle",
+          "hunting rifle"
+        ]
+      },
+      "lever": {
+        "id": "00110E32",
+        "queries": [
+          "00110e32",
+          "lever",
+          "lever action",
+          "lar"
+        ]
+      },
+      "radium": {
+        "id": "00110D41",
+        "queries": [
+          "00110d41",
+          "rad",
+          "radrifle",
+          "radiumrifle",
+          "radium",
+          "radium rifle"
+        ]
+      },
+      "railway": {
+        "id": "000FE268",
+        "queries": [
+          "000fe268",
+          "railway",
+          "rail",
+          "railwayrifle",
+          "railway rifle"
+        ]
+      },
+      "tesla": {
+        "id": "0010F0EC",
+        "queries": [
+          "0010f0ec",
+          "tesla",
+          "teslarifle",
+          "testla rifle",
+          "tesla rifle",
+          "noobgun"
+        ]
+      },
+      "dragon": {
+        "id": "00046946",
+        "queries": [
+          "00046946",
+          "dragon",
+          "thedragon",
+          "the dragon"
+        ]
+      },
+      "fixer": {
+        "id": "0046D2A1",
+        "queries": [
+          "0046d2a1",
+          "fixer",
+          "thefixer",
+          "the fixer"
+        ]
+      },
+      "10mmsub": {
+        "id": "0010DB0F",
+        "queries": [
+          "0010db0f",
+          "10mmsub",
+          "smg",
+          "10mm submachine",
+          "10mm sub"
+        ]
+      },
+      "submachine": {
+        "id": "0015B043",
+        "queries": [
+          "0015b043",
+          "sub",
+          "submachine",
+          "submachinegun",
+          "tommy",
+          "tommygun"
+        ]
+      },
+      "50cal": {
+        "id": "0003A0D4",
+        "queries": [
+          "0003a0d4",
+          "50cal",
+          ".50cal",
+          ".50 cal",
+          "50 cal",
+          ".50"
+        ]
+      },
+      "flamer": {
+        "ids": [
+          "0020413F",
+          "000E5881",
+          "0040345E"
+        ],
+        "queries": [
+          "0020413f",
+          "000e5881",
+          "0040345e",
+          "flamer",
+          "napalmer",
+          "flamethrower"
+        ],
+        "id": "0020413F"
+      },
+      "gatling": {
+        "id": "00011BF6",
+        "queries": [
+          "00011bf6",
+          "gatling",
+          "gattling",
+          "gatlinggun",
+          "gattlinggun"
+        ]
+      },
+      "gatlaser": {
+        "id": "000E27BC",
+        "queries": [
+          "000e27bc",
+          "gl",
+          "gatlaser",
+          "gatlinglaser",
+          "gatling laser"
+        ]
+      },
+      "gatplasma": {
+        "ids": [
+          "0040345F",
+          "0001EC47"
+        ],
+        "queries": [
+          "0001ec47",
+          "0040345f",
+          "gatplasma",
+          "plasmagat",
+          "gatling plasma",
+          "gatlingplasma",
+          "gp"
+        ],
+        "id": "0040345F"
+      },
+      "harpoon": {
+        "ids": [
+          "0040345D",
+          "001109CF"
+        ],
+        "queries": [
+          "001109cf",
+          "harpoon",
+          "harpoongun",
+          "poon"
+        ],
+        "id": "0040345D"
+      },
+      "lmg": {
+        "id": "0007CAB1",
+        "queries": [
+          "0007cab1",
+          "mg42",
+          "lmg",
+          "lightmachinegun",
+          "lightmachine",
+          "light machine gun"
+        ]
+      },
+      "minigun": {
+        "ids": [
+          "0001F669",
+          "0040345B"
+        ],
+        "queries": [
+          "0001f669",
+          "0040345b",
+          "mini",
+          "minigun"
+        ],
+        "id": "0001F669"
+      },
+      "ultragatling": {
+        "id": "002EF66E",
+        "queries": [
+          "002ef66e",
+          "ultragatling",
+          "ultracitegatlinglaser",
+          "ultragat",
+          "ultracite gatling",
+          "ugl"
+        ]
+      },
+      "combatshotgun": {
+        "id": "0014831C",
+        "queries": [
+          "0014831c",
+          "combatshotgun",
+          "combatshotty",
+          "combat shotgun"
+        ]
+      },
+      "doublebarrel": {
+        "id": "00092217",
+        "queries": [
+          "00092217",
+          "db",
+          "doublebarrel",
+          "doublebarel",
+          "doubleshotgun",
+          "double barrel shotgun"
+        ]
+      },
+      "pump": {
+        "id": "0012DBB3",
+        "queries": [
+          "0012dbb3",
+          "pump",
+          "pumpaction",
+          "pumpshotgun",
+          "pumpshotty",
+          "pump action shotgun",
+          "pump shotty",
+          "pump shotgun"
+        ]
+      },
+      "autolauncher": {
+        "ids": [
+          "0040345C",
+          "00182634"
+        ],
+        "queries": [
+          "00182634",
+          "0040345c",
+          "agl",
+          "autogrenade",
+          "auto grenade launcher",
+          "autolauncher"
+        ],
+        "id": "0040345C"
+      },
+      "broadsider": {
+        "id": "000FD11B",
+        "queries": [
+          "000fd11b",
+          "broadsider",
+          "cannon"
+        ]
+      },
+      "cryolator": {
+        "id": "00171B2B",
+        "queries": [
+          "00171b2b",
+          "cryo",
+          "cryolator"
+        ]
+      },
+      "fatman": {
+        "id": "000BD56F",
+        "queries": [
+          "000bd56f",
+          "fatman",
+          "mininuke",
+          "fat man"
+        ]
+      },
+      "grenadelauncher": {
+        "id": "0008F0EF",
+        "queries": [
+          "0008f0ef",
+          "grenadelauncher",
+          "m79",
+          "grenade launcher"
+        ]
+      },
+      "misslelauncher": {
+        "id": "0003F6F8",
+        "queries": [
+          "0003f6f8",
+          "bazooka",
+          "rocket laungcher",
+          "rocketlauncher",
+          "rocket",
+          "rocket launcher",
+          "misslelauncher",
+          "missle launcher"
+        ]
+      },
+      "None": {
+        "id": "None",
+        "queries": [
+          "none"
+        ]
+      },
+      "bear": {
+        "id": "005A205C",
+        "queries": [
+          "005a205c",
+          "bear",
+          "beararm",
+          "bear arm"
+        ]
+      },
+      "box": {
+        "id": "0016498F",
+        "queries": [
+          "0016498f",
+          "box",
+          "boxing",
+          "glove",
+          "boxglove",
+          "boxingglove",
+          "boxing glove",
+          "box glove"
+        ]
+      },
+      "tambo": {
+        "id": "0000DC55",
+        "queries": [
+          "0000dc55",
+          "tambo",
+          "tamboo",
+          "deathtambo",
+          "death tambo"
+        ]
+      },
+      "deathclaw": {
+        "id": "000D8576",
+        "queries": [
+          "000d8576",
+          "dcg",
+          "deathclawgauntlet",
+          "deathgauntlet",
+          "deathclaw",
+          "deathclaw gauntlet"
+        ]
+      },
+      "knuckles": {
+        "id": "0005524B",
+        "queries": [
+          "0005524b",
+          "knuckles"
+        ]
+      },
+      "meathook": {
+        "id": "00111562",
+        "queries": [
+          "00111562",
+          "meathook",
+          "meat",
+          "meat hook",
+          "hook"
+        ]
+      },
+      "molegauntlet": {
+        "id": "00012E73",
+        "queries": [
+          "00012e73",
+          "mole",
+          "molegauntlet",
+          "moleminer",
+          "moleminer gauntlet"
+        ]
+      },
+      "powerfist": {
+        "id": "0011B336",
+        "queries": [
+          "0011b336",
+          "powerfist",
+          "fist",
+          "power fist",
+          "fisto"
+        ]
+      },
+      "assaultblade": {
+        "id": "0010F3F2",
+        "queries": [
+          "0010f3f2",
+          "assblade",
+          "assaultblade",
+          "assaultronblade",
+          "assault blade",
+          "assualt blade",
+          "assaultron blade"
+        ]
+      },
+      "boneclub": {
+        "id": "003643DA",
+        "queries": [
+          "003643da",
+          "boneclub",
+          "bone",
+          "bone club"
+        ]
+      },
+      "bowie": {
+        "id": "000311DE",
+        "queries": [
+          "000311de",
+          "bowie",
+          "bowieknife",
+          "bowie knife"
+        ]
+      },
+      "chinesesword": {
+        "id": "00147BE4",
+        "queries": [
+          "00147be4",
+          "chinese",
+          "cos",
+          "chinesesword",
+          "chinese sword"
+        ]
+      },
+      "baton": {
+        "id": "0008C14D",
+        "queries": [
+          "0008c14d",
+          "btn",
+          "baton"
+        ]
+      },
+      "combatknife": {
+        "id": "000913CA",
+        "queries": [
+          "000913ca",
+          "combatknife",
+          "cknife",
+          "combat knife"
+        ]
+      },
+      "cultistblade": {
+        "id": "0005A937",
+        "queries": [
+          "0005a937",
+          "cultistblade",
+          "cblade",
+          "cultist blade"
+        ]
+      },
+      "guitarsword": {
+        "id": "0000DC56",
+        "queries": [
+          "0000dc56",
+          "guitarsword",
+          "guitar",
+          "guitar sword"
+        ]
+      },
+      "hatchet": {
+        "id": "0010D808",
+        "queries": [
+          "0010d808",
+          "hatchet"
+        ]
+      },
+      "leadpipe": {
+        "id": "000FC9C3",
+        "queries": [
+          "000fc9c3",
+          "lead pipe",
+          "leadpipe"
+        ]
+      },
+      "machete": {
+        "id": "00033FE0",
+        "queries": [
+          "00033fe0",
+          "machete"
+        ]
+      },
+      "multiaxe": {
+        "id": "002A0405",
+        "queries": [
+          "002a0405",
+          "multiaxe",
+          "multipurpose",
+          "multi purpose axe",
+          "multi-purpose axe"
+        ]
+      },
+      "pipewrench": {
+        "id": "000D83BF",
+        "queries": [
+          "000d83bf",
+          "pipewrench",
+          "wrench",
+          "pipe wrench"
+        ]
+      },
+      "ripper": {
+        "id": "000FA2F6",
+        "queries": [
+          "000fa2f6",
+          "ripper",
+          "rip"
+        ]
+      },
+      "rollingpin": {
+        "id": "00142FAB",
+        "queries": [
+          "00142fab",
+          "rollingpin",
+          "pin",
+          "rolling pin"
+        ]
+      },
+      "sheepstaff": {
+        "id": "00455847",
+        "queries": [
+          "00455847",
+          "sheepstaff",
+          "sheep staff",
+          "sheepsquatch staff",
+          "sheepsquatchstaff"
+        ]
+      },
+      "shishkebab": {
+        "id": "000FA2FB",
+        "queries": [
+          "000fa2fb",
+          "shishkebab",
+          "kebab"
+        ]
+      },
+      "sickle": {
+        "id": "000B3293",
+        "queries": [
+          "000b3293",
+          "sickle",
+          "sick"
+        ]
+      },
+      "skisword": {
+        "id": "000360CF",
+        "queries": [
+          "000360cf",
+          "skisword",
+          "ski sword",
+          "ski"
+        ]
+      },
+      "switchblade": {
+        "id": "000FDC81",
+        "queries": [
+          "000fdc81",
+          "switchblade",
+          "sblade"
+        ]
+      },
+      "tireiron": {
+        "id": "00185D25",
+        "queries": [
+          "00185d25",
+          "tireiron",
+          "tire iron",
+          "tire",
+          "iron"
+        ]
+      },
+      "baseball": {
+        "id": "0008E736",
+        "queries": [
+          "0008e736",
+          "baseball",
+          "baseball bat",
+          "baseballbat"
+        ]
+      },
+      "board": {
+        "id": "0005C250",
+        "queries": [
+          "0005c250",
+          "board",
+          "plank"
+        ]
+      },
+      "fireaxe": {
+        "id": "0012B793",
+        "queries": [
+          "0012b793",
+          "fireaxe",
+          "faxe",
+          "fire axe"
+        ]
+      },
+      "golfclub": {
+        "id": "00073677",
+        "queries": [
+          "00073677",
+          "golf",
+          "golfclub",
+          "golf club"
+        ]
+      },
+      "grognak": {
+        "id": "00183FCD",
+        "queries": [
+          "00183fcd",
+          "grognak",
+          "grognaxe",
+          "gronakaxe",
+          "gronaksaxe",
+          "grognak axe",
+          "grognaks axe",
+          "gronak"
+        ]
+      },
+      "buzzblade": {
+        "id": "0010EC97",
+        "queries": [
+          "0010ec97",
+          "buzzblade",
+          "buzz",
+          "buzz blade"
+        ]
+      },
+      "pitchfork": {
+        "id": "0003A1D1",
+        "queries": [
+          "0003a1d1",
+          "pitchfork",
+          "fork"
+        ]
+      },
+      "polehook": {
+        "id": "00110771",
+        "queries": [
+          "00110771",
+          "pole",
+          "pole hook",
+          "polehook"
+        ]
+      },
+      "shovel": {
+        "ids": [
+          "00043E20",
+          "001AE45F"
+        ],
+        "queries": [
+          "00043e20",
+          "001ae45f",
+          "shovel"
+        ],
+        "id": "00043E20"
+      },
+      "sledgehammer": {
+        "id": "000E7AB9",
+        "queries": [
+          "000e7ab9",
+          "sledge",
+          "shammer",
+          "sledgehammer"
+        ]
+      },
+      "walkingcane": {
+        "id": "000FDC7D",
+        "queries": [
+          "000fdc7d",
+          "walkcane",
+          "walkingcane",
+          "cane",
+          "walking cane"
+        ]
+      },
+      "wardrum": {
+        "id": "0000DC57",
+        "queries": [
+          "0000dc57",
+          "wardrum",
+          "drum",
+          "war drum"
+        ]
+      },
+      "supersledge": {
+        "id": "000FF964",
+        "queries": [
+          "000ff964",
+          "supersledge",
+          "super sledge",
+          "ssledge"
+        ]
+      },
+      "pool": {
+        "id": "000FA3E8",
+        "queries": [
+          "000fa3e8",
+          "pool",
+          "poolcue",
+          "cue",
+          "pool cue"
+        ]
+      },
+      "pickaxe": {
+        "id": "00002840",
+        "queries": [
+          "00002840",
+          "pickaxe",
+          "pick"
+        ]
+      },
+      "sheepclub": {
+        "id": "00455839",
+        "queries": [
+          "00455839",
+          "sheepclub",
+          "sheep club",
+          "sheepsquatchclub",
+          "sheepsquatch club"
+        ]
+      },
+      "bonehammer": {
+        "id": "003643D9",
+        "queries": [
+          "003643d9",
+          "bonehammer",
+          "bhammer",
+          "bone hammer"
+        ]
+      },
+      "spear": {
+        "id": "002D473A",
+        "queries": [
+          "002d473a",
+          "spear",
+          "spears",
+          "bashstick"
+        ]
+      },
+      "cultistdagger": {
+        "id": "0008E015",
+        "queries": [
+          "0008e015",
+          "cultistdagger",
+          "dagger",
+          "cultist dagger"
+        ]
+      },
+      "revolutionarysword": {
+        "id": "00143AB5",
+        "queries": [
+          "revosword",
+          "revolutionary",
+          "revolutionarysword",
+          "revolutionary sword"
+        ]
+      },
+      "shepherdscrook": {
+        "id": "0045582B",
+        "queries": [
+          "shepherdscrook",
+          "shepcrook",
+          "crook",
+          "sheperdscrook"
+        ]
+      },
+      "bow": {
+        "id": "0055C152",
+        "queries": [
+          "bow",
+          "bw",
+          "0055c152"
+        ]
+      },
+      "compound": {
+        "id": "00013CE9",
+        "queries": [
+          "cbow",
+          "compound",
+          "compoundbow",
+          "compound bow",
+          "00013ce9"
+        ]
+      },
+      "Tender": {
+        "id": "00553294",
+        "queries": [
+          "tender",
+          "tend",
+          "tenderizer",
+          "tende",
+          "00553294"
+        ]
+      }
+    }
+  },
+  "effects": {
+    "by_id": {
+      "005281B4": {
+        "name": "Anti-Armor",
+        "queries": [
+          "aa",
+          "antiarmor",
+          "anti",
+          "armor",
+          "anti-armor",
+          "005281b4"
+        ]
+      },
+      "004F5770": {
+        "name": "Assassin's",
+        "queries": [
+          "a",
+          "ass",
+          "assn",
+          "assassin",
+          "assasin",
+          "asasin",
+          "assassin's",
+          "asn",
+          "004f5770"
+        ]
+      },
+      "004F6AA7": {
+        "name": "Berserker's",
+        "queries": [
+          "br",
+          "bz",
+          "berserker",
+          "bs",
+          "berserker's",
+          "berserkers",
+          "004f6aa7",
+          "berserk"
+        ]
+      },
+      "004F6AA0": {
+        "name": "Bloodied",
+        "queries": [
+          "b",
+          "blood",
+          "bloodied",
+          "004f6aa0"
+        ]
+      },
+      "004F6AA1": {
+        "name": "Executioners",
+        "queries": [
+          "e",
+          "ec",
+          "ex",
+          "exe",
+          "executioner",
+          "exec",
+          "executioner's",
+          "executioners",
+          "004f6aa1"
+        ]
+      },
+      "001F81EB": {
+        "name": "Exterminator's",
+        "queries": [
+          "ext",
+          "et",
+          "exterminator",
+          "exterminators",
+          "exterminator's",
+          "001f81eb",
+          "exterm"
+        ]
+      },
+      "004F577D": {
+        "name": "Furious",
+        "queries": [
+          "f",
+          "furious",
+          "fury",
+          "004f577d"
+        ]
+      },
+      "004F5779": {
+        "name": "Ghoul Slayer's",
+        "queries": [
+          "g",
+          "gs",
+          "ghoul",
+          "ghouls",
+          "ghoul slayer",
+          "ghoul slayer's",
+          "ghoul slayers",
+          "004f5779",
+          "ghoulslay"
+        ]
+      },
+      "004F577A": {
+        "name": "Hunter's",
+        "queries": [
+          "h",
+          "hunt",
+          "hunter",
+          "hunters",
+          "hunter's",
+          "004f577a"
+        ]
+      },
+      "004F6AA5": {
+        "name": "Instigating",
+        "queries": [
+          "i",
+          "inst",
+          "instig",
+          "instigating",
+          "004f6aa5",
+          "instigate"
+        ]
+      },
+      "004F6AAB": {
+        "name": "Junkie's",
+        "queries": [
+          "j",
+          "junkie",
+          "junkies",
+          "junkie's",
+          "004f6aab"
+        ]
+      },
+      "00527F8B": {
+        "name": "Medic's",
+        "queries": [
+          "m",
+          "me",
+          "medic",
+          "med",
+          "medics",
+          "medic's",
+          "00527f8b"
+        ]
+      },
+      "005299F5": {
+        "name": "Mutant's",
+        "queries": [
+          "mu",
+          "mutant",
+          "mutants",
+          "mutant's",
+          "mut",
+          "005299f5"
+        ]
+      },
+      "004F577B": {
+        "name": "Mutant Slayer's",
+        "queries": [
+          "mutant slayer's",
+          "mutant slayers",
+          "mutantslayers",
+          "mutantslayer",
+          "004f577b",
+          "mutantslay",
+          "mutslayer"
+        ]
+      },
+      "004F6AAE": {
+        "name": "Nocturnal",
+        "queries": [
+          "n",
+          "nocturnal",
+          "noct",
+          "004f6aae",
+          "nocturn"
+        ]
+      },
+      "004F6D77": {
+        "name": "Stalkers",
+        "queries": [
+          "s",
+          "st",
+          "stalker",
+          "stalkers",
+          "stalker's",
+          "stalk",
+          "004f6d77"
+        ]
+      },
+      "005281B8": {
+        "name": "Suppressor's",
+        "queries": [
+          "ss",
+          "su",
+          "supressor",
+          "supressors",
+          "supressor's",
+          "supresor",
+          "sup",
+          "005281b8",
+          "suppress"
+        ]
+      },
+      "004F577C": {
+        "name": "Troubleshooter's",
+        "queries": [
+          "t",
+          "tr",
+          "tro",
+          "troubleshooter",
+          "troubleshooters",
+          "troubleshooter's",
+          "004f577c",
+          "trouble"
+        ]
+      },
+      "004F6D76": {
+        "name": "Two Shot",
+        "queries": [
+          "ts",
+          "two-shot",
+          "twoshot",
+          "two shot",
+          "004f6d76"
+        ]
+      },
+      "00527F84": {
+        "name": "Vampire's",
+        "queries": [
+          "v",
+          "vamp",
+          "vampiric",
+          "vampire",
+          "vampires",
+          "vampire's",
+          "00527f84"
+        ]
+      },
+      "004ED02B": {
+        "name": "Zealot's",
+        "queries": [
+          "z",
+          "zealot",
+          "zealots",
+          "zealot's",
+          "004ed02b"
+        ]
+      },
+      "004392CD": {
+        "name": "Double",
+        "queries": [
+          "d",
+          "double"
+        ]
+      },
+      "004F6AB1": {
+        "name": "Quad",
+        "queries": [
+          "q",
+          "quad",
+          "4x",
+          "004f6ab1"
+        ]
+      },
+      "": {
+        "name": "- no selection -",
+        "queries": [
+          "none"
+        ]
+      },
+      "004ED02C": {
+        "name": "50% limb damage",
+        "queries": [
+          "50l",
+          "limb",
+          "limbdamage",
+          "limb damage",
+          "004ed02c",
+          "crippling"
+        ]
+      },
+      "001A7BDA": {
+        "name": "40% increased Swing Speed",
+        "queries": [
+          "40",
+          "40s",
+          "ss",
+          "swing",
+          "swingspeed",
+          "001a7bda",
+          "fast-swing"
+        ]
+      },
+      "001A7BE2": {
+        "name": "40% Power Attack Damage",
+        "queries": [
+          "40p",
+          "atackdmg",
+          "poweratack",
+          "power",
+          "power attack",
+          "40power",
+          "pad",
+          "001a7be2",
+          "powerful"
+        ]
+      },
+      "0052414B": {
+        "name": "50% Critical Shot Damage",
+        "queries": [
+          "50",
+          "crit",
+          "50v",
+          "critical",
+          "critdmg",
+          "50vats",
+          "50crit",
+          "0052414b",
+          "50%"
+        ]
+      },
+      "0052414F": {
+        "name": "25% increased Fire Rate",
+        "queries": [
+          "25",
+          "25ffr",
+          "ffr",
+          "firerate",
+          "rof",
+          "0052414f",
+          "25%",
+          "fast-fire"
+        ]
+      },
+      "005299F9": {
+        "name": "40% Bashing damage",
+        "queries": [
+          "40bash",
+          "bash",
+          "bashing",
+          "005299f9",
+          "40%",
+          "40b"
+        ]
+      },
+      "0052414E": {
+        "name": "10% Aiming Damage",
+        "queries": [
+          "10",
+          "aim",
+          "aiming",
+          "10aiming",
+          "10aim",
+          "0052414e",
+          "hitman",
+          "10%"
+        ]
+      },
+      "004F5771": {
+        "name": "Explosive",
+        "queries": [
+          "e",
+          "x",
+          "exp",
+          "explosive",
+          "explo",
+          "004f5771",
+          "explode",
+          "ex"
+        ]
+      },
+      "00524153": {
+        "name": "33% VATS hit chance",
+        "queries": [
+          "33",
+          "33v",
+          "vatshit",
+          "hitchance",
+          "33vats",
+          "33%",
+          "00524153",
+          "targeting"
+        ]
+      },
+      "001A7C39": {
+        "name": "Reflects 50% melee damage while blocking",
+        "queries": [
+          "reflect",
+          "blocking",
+          "50b",
+          "reflects",
+          "rmd",
+          "001a7c39",
+          "punish"
+        ]
+      },
+      "004ED02E": {
+        "name": "Movement Speed",
+        "queries": [
+          "ms",
+          "movefaster",
+          "movespeed",
+          "movement",
+          "move",
+          "004ed02e",
+          "nimble",
+          "mov",
+          "fms"
+        ]
+      },
+      "005299FA": {
+        "name": "Perception +1",
+        "queries": [
+          "p",
+          "per",
+          "perception",
+          "005299fa"
+        ]
+      },
+      "00524150": {
+        "name": "15% faster reload",
+        "queries": [
+          "15r",
+          "re",
+          "reload",
+          "00524150",
+          "faster-reload",
+          "fast reload",
+          "fast-reload",
+          "15re"
+        ]
+      },
+      "00524154": {
+        "name": "25% VATS AP Cost",
+        "queries": [
+          "25",
+          "action",
+          "25ap",
+          "apcost",
+          "zerovats",
+          "ap",
+          "00524154",
+          "lvc",
+          "25%",
+          "betteraction"
+        ]
+      },
+      "004F5777": {
+        "name": "250 DR while reloading",
+        "queries": [
+          "250",
+          "250dr",
+          "reloaddr",
+          "004f5777",
+          "reload-dr",
+          ""
+        ]
+      },
+      "004F5772": {
+        "name": "50 DR while aiming",
+        "queries": [
+          "50",
+          "aimdr",
+          "50dr",
+          "50aim",
+          "50a",
+          "adr",
+          "004f5772",
+          "steadfast"
+        ]
+      },
+      "0052414C": {
+        "name": "15% critical fill",
+        "queries": [
+          "15",
+          "15c",
+          "15fill",
+          "critmeter",
+          "15v",
+          "0052414c",
+          "lucky",
+          "crit-meter",
+          "15%",
+          "15crit"
+        ]
+      },
+      "00524152": {
+        "name": "90% Reduced Weight",
+        "queries": [
+          "90",
+          "rw",
+          "90rw",
+          "weight",
+          "reducedweight",
+          "00524152",
+          "light"
+        ]
+      },
+      "005299FB": {
+        "name": "Agility +1",
+        "queries": [
+          "a",
+          "agi",
+          "+1a",
+          "1a",
+          "agl",
+          "agility",
+          "005299fb"
+        ]
+      },
+      "null": {
+        "name": "- no selection -",
+        "queries": [
+          "none"
+        ]
+      },
+      "005299FC": {
+        "name": "Strength +1",
+        "queries": [
+          "s",
+          "str",
+          "+1s",
+          "1s",
+          "strength",
+          "005299fc"
+        ]
+      },
+      "005253FB": {
+        "name": "15% less damage while blocking",
+        "queries": [
+          "15b",
+          "blocking",
+          "block",
+          "005253fb",
+          "blocker"
+        ]
+      },
+      "001A7BD3": {
+        "name": "40% less damage while Power Attacking",
+        "queries": [
+          "40",
+          "pdr",
+          "40less",
+          "001a7bd3",
+          "power-dr"
+        ]
+      },
+      "005299FD": {
+        "name": "Endurance +1",
+        "queries": [
+          "e",
+          "end",
+          "+1e",
+          "1e",
+          "endurance",
+          "005299fd"
+        ]
+      },
+      "00521915": {
+        "name": "Auto Stim",
+        "queries": [
+          "autostim",
+          "as",
+          "stim",
+          "auto-stim",
+          "00521915"
+        ]
+      },
+      "00529A0F": {
+        "name": "Live Saving",
+        "queries": [
+          "life saving",
+          "lifesaving",
+          "l",
+          "life",
+          "live",
+          "00529a0f",
+          "lifesave"
+        ]
+      },
+      "00529A14": {
+        "name": "Weightless",
+        "queries": [
+          "weightless",
+          "weight",
+          "wl",
+          "w",
+          "00529a14"
+        ]
+      },
+      "00524146": {
+        "name": "Chameleon",
+        "queries": [
+          "cham",
+          "ch",
+          "cm",
+          "chameleon",
+          "",
+          "00524146"
+        ]
+      },
+      "00524147": {
+        "name": "Cloaking",
+        "queries": [
+          "cloak",
+          "cloaking",
+          "cl",
+          "00524147"
+        ]
+      },
+      "00529A09": {
+        "name": "Regenerating",
+        "queries": [
+          "reg",
+          "regen",
+          "regenerating",
+          "r",
+          "00529a09"
+        ]
+      },
+      "00529A05": {
+        "name": "Vanguard's",
+        "queries": [
+          "v",
+          "vg",
+          "vang",
+          "vanguard",
+          "vanguard's",
+          "00529a05"
+        ]
+      },
+      "00521914": {
+        "name": "Bolstering",
+        "queries": [
+          "bol",
+          "bolst",
+          "bolstering",
+          "b",
+          "00521914",
+          "bolster"
+        ]
+      },
+      "0052414A": {
+        "name": "Unyielding",
+        "queries": [
+          "u",
+          "uny",
+          "unyielding",
+          "0052414a",
+          "unyield"
+        ]
+      },
+      "00524143": {
+        "name": "Nocturnal",
+        "queries": [
+          "n",
+          "noct",
+          "nocturnal",
+          "nocturn",
+          "00524143",
+          "noc"
+        ]
+      },
+      "004F6D78": {
+        "name": "Assassin's",
+        "queries": [
+          "a",
+          "ass",
+          "assassin",
+          "assasin",
+          "asasin",
+          "assassin's",
+          "assn",
+          "asn",
+          "004f6d78"
+        ]
+      },
+      "004F6D7C": {
+        "name": "Exterminator's",
+        "queries": [
+          "ext",
+          "et",
+          "exterminator",
+          "exterminators",
+          "exterminator's",
+          "004f6d7c",
+          "exterm"
+        ]
+      },
+      "004F6D7D": {
+        "name": "Hunters",
+        "queries": [
+          "h",
+          "hunt",
+          "hunter",
+          "hunters",
+          "hunter's",
+          "004f6d7d"
+        ]
+      },
+      "004F6D7F": {
+        "name": "Troubleshooter's",
+        "queries": [
+          "t",
+          "tro",
+          "tr",
+          "troubleshooter",
+          "troubleshooters",
+          "troubleshooter's",
+          "004f6d7f",
+          "trouble"
+        ]
+      },
+      "004F6D7E": {
+        "name": "Ghoul Slayer's",
+        "queries": [
+          "gs",
+          "g",
+          "ghoul",
+          "ghouls",
+          "ghoul slayer",
+          "ghoul slayer's",
+          "ghoul slayers",
+          "ghoulslayer",
+          "ghoulslayers",
+          "004f6d7e",
+          "ghoulslay"
+        ]
+      },
+      "004F6D80": {
+        "name": "Mutant Slayer's",
+        "queries": [
+          "mutant slayer's",
+          "mutant slayers",
+          "mutantslayers",
+          "mutantslayer",
+          "004f6d80",
+          "mutantslay",
+          "mutslayer",
+          "ms"
+        ]
+      },
+      "004EE548": {
+        "name": "Zealot's",
+        "queries": [
+          "z",
+          "zealot",
+          "zealots",
+          "zealot's",
+          "004ee548"
+        ]
+      },
+      "00529A0C": {
+        "name": "Mutant's",
+        "queries": [
+          "mu",
+          "mutant",
+          "mutants",
+          "mutant's",
+          "mut",
+          "00529a0c"
+        ]
+      },
+      "None": {
+        "name": "No selection",
+        "queries": [
+          "none"
+        ]
+      },
+      "004EE54E": {
+        "name": "+1 Strength",
+        "queries": [
+          "str",
+          "+1s",
+          "strength",
+          "1s",
+          "s",
+          "004ee54e"
+        ]
+      },
+      "004F6D81": {
+        "name": "+1 Perception",
+        "queries": [
+          "per",
+          "1p",
+          "+1p",
+          "perception",
+          "p",
+          "004f6d81"
+        ]
+      },
+      "004F6D82": {
+        "name": "+1 Endurance",
+        "queries": [
+          "end",
+          "+1e",
+          "endurance",
+          "1e",
+          "e",
+          "004f6d82"
+        ]
+      },
+      "004F6D83": {
+        "name": "+1 Charisma",
+        "queries": [
+          "cha",
+          "+1c",
+          "charisma",
+          "1c",
+          "c",
+          "004f6d83"
+        ]
+      },
+      "004F6D84": {
+        "name": "+1 Intelligence",
+        "queries": [
+          "int",
+          "+1i",
+          "intelligence",
+          "1i",
+          "i",
+          "004f6d84"
+        ]
+      },
+      "004F6D85": {
+        "name": "+1 Agility",
+        "queries": [
+          "agi",
+          "+1a",
+          "agl",
+          "1a",
+          "agility",
+          "a",
+          "004f6d85"
+        ]
+      },
+      "004F6D86": {
+        "name": "+1 Luck",
+        "queries": [
+          "luck",
+          "+1l",
+          "lck",
+          "1l",
+          "l",
+          "004f6d86"
+        ]
+      },
+      "00527F75": {
+        "name": "Increased AP refresh",
+        "queries": [
+          "ap",
+          "pow",
+          "pwr",
+          "powered",
+          "power",
+          "00527f75"
+        ]
+      },
+      "00527F72": {
+        "name": "25 Environmental Resistance",
+        "queries": [
+          "25d",
+          "edr",
+          "env",
+          "envir",
+          "environmental",
+          "25e",
+          "envres",
+          "envresistance",
+          "antiseptic",
+          "00527f72",
+          "disease"
+        ]
+      },
+      "00527F6F": {
+        "name": "25 Radiation Resistance",
+        "queries": [
+          "25rad",
+          "25r",
+          "rr",
+          "rad",
+          "radres",
+          "radiation",
+          "radresistance",
+          "r",
+          "00527f6f",
+          "hazmat"
+        ]
+      },
+      "00527F6E": {
+        "name": "25 Poison Resistance",
+        "queries": [
+          "25p",
+          "poison",
+          "poi",
+          "p",
+          "00527f6e"
+        ]
+      },
+      "0052BDB4": {
+        "name": "20% reduced Ammo Weight",
+        "queries": [
+          "ammo",
+          "awr",
+          "ammoweight",
+          "0052bdb4",
+          "ammo-weight"
+        ]
+      },
+      "00527F78": {
+        "name": "20% reduced Weapon Weight",
+        "queries": [
+          "weapon",
+          "wwr",
+          "weaponweight",
+          "00527f78",
+          "weapon-weight"
+        ]
+      },
+      "0052BDB5": {
+        "name": "20% reduced Aid Weight",
+        "queries": [
+          "fwr",
+          "food",
+          "foodweight",
+          "0052bdb5",
+          "food-weight"
+        ]
+      },
+      "0052BDB6": {
+        "name": "20% reduced Junk Weight",
+        "queries": [
+          "junk",
+          "jwr",
+          "junkweight",
+          "0052bdb6",
+          "junk-weight"
+        ]
+      },
+      "00527F7A": {
+        "name": "Grants underwater breathing",
+        "queries": [
+          "aqua",
+          "aq",
+          "underwater",
+          "00527f7a",
+          "diver"
+        ]
+      },
+      "0052BDB7": {
+        "name": "Become harder to detect while sneaking",
+        "queries": [
+          "sneak",
+          "sneaking",
+          "harder",
+          "htd",
+          "snk",
+          "snek",
+          "0052bdb7",
+          "sneaky"
+        ]
+      },
+      "0052BDBA": {
+        "name": "50% more durability",
+        "queries": [
+          "dur",
+          "durability",
+          "50d",
+          "durable",
+          "0052bdba"
+        ]
+      },
+      "0052BDBC": {
+        "name": "Reduction: Limb Damage",
+        "queries": [
+          "ldr",
+          "lld",
+          "limb",
+          "limbdamage",
+          "0052bdbc",
+          "lesslimb"
+        ]
+      },
+      "004EE54C": {
+        "name": "Sentinel - Reduction while standing",
+        "queries": [
+          "sent",
+          "sen",
+          "sentinel",
+          "sentinels",
+          "sentinel's",
+          "004ee54c"
+        ]
+      },
+      "00527F76": {
+        "name": "Blocker - Reduction while blocking",
+        "queries": [
+          "bl",
+          "block",
+          "blocker",
+          "00527f76",
+          "blocking"
+        ]
+      },
+      "00527F77": {
+        "name": "Cavalier - Reduction while sprinting",
+        "queries": [
+          "cav",
+          "cavalier",
+          "cavalier's",
+          "00527f77"
+        ]
+      },
+      "00527F79": {
+        "name": "Falling damage reduced by 50%",
+        "queries": [
+          "acrobat",
+          "acrobat's",
+          "50f",
+          "falling",
+          "fall",
+          "falldamage",
+          "00527f79"
+        ]
+      },
+      "00527F7B": {
+        "name": "Increased sweet spot size - picklocking",
+        "queries": [
+          "lock",
+          "safe",
+          "safecracker",
+          "safecracker's",
+          "00527f7b",
+          "lockpick"
+        ]
+      }
+    },
+    "by_name": {
+      "AntiArmor": {
+        "id": "005281B4",
+        "queries": [
+          "aa",
+          "antiarmor",
+          "anti",
+          "armor",
+          "anti-armor",
+          "005281b4"
+        ]
+      },
+      "Assassin": {
+        "id": "004F6D78",
+        "queries": [
+          "a",
+          "ass",
+          "assassin",
+          "assasin",
+          "asasin",
+          "assassin's",
+          "assn",
+          "asn",
+          "004f6d78"
+        ]
+      },
+      "Berserker": {
+        "id": "004F6AA7",
+        "queries": [
+          "br",
+          "bz",
+          "berserker",
+          "bs",
+          "berserker's",
+          "berserkers",
+          "004f6aa7",
+          "berserk"
+        ]
+      },
+      "Bloodied": {
+        "id": "004F6AA0",
+        "queries": [
+          "b",
+          "blood",
+          "bloodied",
+          "004f6aa0"
+        ]
+      },
+      "Executioner": {
+        "id": "004F6AA1",
+        "queries": [
+          "e",
+          "ec",
+          "ex",
+          "exe",
+          "executioner",
+          "exec",
+          "executioner's",
+          "executioners",
+          "004f6aa1"
+        ]
+      },
+      "AntiBug": {
+        "id": "004F6D7C",
+        "queries": [
+          "ext",
+          "et",
+          "exterminator",
+          "exterminators",
+          "exterminator's",
+          "004f6d7c",
+          "exterm"
+        ]
+      },
+      "Furious": {
+        "id": "004F577D",
+        "queries": [
+          "f",
+          "furious",
+          "fury",
+          "004f577d"
+        ]
+      },
+      "AntiGhoul": {
+        "id": "004F6D7E",
+        "queries": [
+          "gs",
+          "g",
+          "ghoul",
+          "ghouls",
+          "ghoul slayer",
+          "ghoul slayer's",
+          "ghoul slayers",
+          "ghoulslayer",
+          "ghoulslayers",
+          "004f6d7e",
+          "ghoulslay"
+        ]
+      },
+      "Hunter": {
+        "id": "004F6D7D",
+        "queries": [
+          "h",
+          "hunt",
+          "hunter",
+          "hunters",
+          "hunter's",
+          "004f6d7d"
+        ]
+      },
+      "Instigating": {
+        "id": "004F6AA5",
+        "queries": [
+          "i",
+          "inst",
+          "instig",
+          "instigating",
+          "004f6aa5",
+          "instigate"
+        ]
+      },
+      "Junkie": {
+        "id": "004F6AAB",
+        "queries": [
+          "j",
+          "junkie",
+          "junkies",
+          "junkie's",
+          "004f6aab"
+        ]
+      },
+      "Medic": {
+        "id": "00527F8B",
+        "queries": [
+          "m",
+          "me",
+          "medic",
+          "med",
+          "medics",
+          "medic's",
+          "00527f8b"
+        ]
+      },
+      "Mutant": {
+        "id": "00529A0C",
+        "queries": [
+          "mu",
+          "mutant",
+          "mutants",
+          "mutant's",
+          "mut",
+          "00529a0c"
+        ]
+      },
+      "AntiMutant": {
+        "id": "004F6D80",
+        "queries": [
+          "mutant slayer's",
+          "mutant slayers",
+          "mutantslayers",
+          "mutantslayer",
+          "004f6d80",
+          "mutantslay",
+          "mutslayer",
+          "ms"
+        ]
+      },
+      "Nocturn": {
+        "id": "00524143",
+        "queries": [
+          "n",
+          "noct",
+          "nocturnal",
+          "nocturn",
+          "00524143",
+          "noc"
+        ]
+      },
+      "Stalker": {
+        "id": "004F6D77",
+        "queries": [
+          "s",
+          "st",
+          "stalker",
+          "stalkers",
+          "stalker's",
+          "stalk",
+          "004f6d77"
+        ]
+      },
+      "Suppressor": {
+        "id": "005281B8",
+        "queries": [
+          "ss",
+          "su",
+          "supressor",
+          "supressors",
+          "supressor's",
+          "supresor",
+          "sup",
+          "005281b8",
+          "suppress"
+        ]
+      },
+      "AntiRobot": {
+        "id": "004F6D7F",
+        "queries": [
+          "t",
+          "tro",
+          "tr",
+          "troubleshooter",
+          "troubleshooters",
+          "troubleshooter's",
+          "004f6d7f",
+          "trouble"
+        ]
+      },
+      "TwoShot": {
+        "id": "004F6D76",
+        "queries": [
+          "ts",
+          "two-shot",
+          "twoshot",
+          "two shot",
+          "004f6d76"
+        ]
+      },
+      "Vampiric": {
+        "id": "00527F84",
+        "queries": [
+          "v",
+          "vamp",
+          "vampiric",
+          "vampire",
+          "vampires",
+          "vampire's",
+          "00527f84"
+        ]
+      },
+      "AntiScorched": {
+        "id": "004EE548",
+        "queries": [
+          "z",
+          "zealot",
+          "zealots",
+          "zealot's",
+          "004ee548"
+        ]
+      },
+      "Double": {
+        "id": "004392CD",
+        "queries": [
+          "d",
+          "double"
+        ]
+      },
+      "Quad": {
+        "id": "004F6AB1",
+        "queries": [
+          "q",
+          "quad",
+          "4x",
+          "004f6ab1"
+        ]
+      },
+      "null": {
+        "id": "None",
+        "queries": [
+          "none"
+        ]
+      },
+      "Limb": {
+        "id": "0052BDBC",
+        "queries": [
+          "ldr",
+          "lld",
+          "limb",
+          "limbdamage",
+          "0052bdbc",
+          "lesslimb"
+        ]
+      },
+      "SwingSpeed": {
+        "id": "001A7BDA",
+        "queries": [
+          "40",
+          "40s",
+          "ss",
+          "swing",
+          "swingspeed",
+          "001a7bda",
+          "fast-swing"
+        ]
+      },
+      "PowerDamage": {
+        "id": "001A7BE2",
+        "queries": [
+          "40p",
+          "atackdmg",
+          "poweratack",
+          "power",
+          "power attack",
+          "40power",
+          "pad",
+          "001a7be2",
+          "powerful"
+        ]
+      },
+      "CritDamage": {
+        "id": "0052414B",
+        "queries": [
+          "50",
+          "crit",
+          "50v",
+          "critical",
+          "critdmg",
+          "50vats",
+          "50crit",
+          "0052414b",
+          "50%"
+        ]
+      },
+      "Firerate": {
+        "id": "0052414F",
+        "queries": [
+          "25",
+          "25ffr",
+          "ffr",
+          "firerate",
+          "rof",
+          "0052414f",
+          "25%",
+          "fast-fire"
+        ]
+      },
+      "Basher": {
+        "id": "005299F9",
+        "queries": [
+          "40bash",
+          "bash",
+          "bashing",
+          "005299f9",
+          "40%",
+          "40b"
+        ]
+      },
+      "Hitman": {
+        "id": "0052414E",
+        "queries": [
+          "10",
+          "aim",
+          "aiming",
+          "10aiming",
+          "10aim",
+          "0052414e",
+          "hitman",
+          "10%"
+        ]
+      },
+      "Explosive": {
+        "id": "004F5771",
+        "queries": [
+          "e",
+          "x",
+          "exp",
+          "explosive",
+          "explo",
+          "004f5771",
+          "explode",
+          "ex"
+        ]
+      },
+      "HitChance": {
+        "id": "00524153",
+        "queries": [
+          "33",
+          "33v",
+          "vatshit",
+          "hitchance",
+          "33vats",
+          "33%",
+          "00524153",
+          "targeting"
+        ]
+      },
+      "Reflect": {
+        "id": "001A7C39",
+        "queries": [
+          "reflect",
+          "blocking",
+          "50b",
+          "reflects",
+          "rmd",
+          "001a7c39",
+          "punish"
+        ]
+      },
+      "Movespeed": {
+        "id": "004ED02E",
+        "queries": [
+          "ms",
+          "movefaster",
+          "movespeed",
+          "movement",
+          "move",
+          "004ed02e",
+          "nimble",
+          "mov",
+          "fms"
+        ]
+      },
+      "Perception": {
+        "id": "004F6D81",
+        "queries": [
+          "per",
+          "1p",
+          "+1p",
+          "perception",
+          "p",
+          "004f6d81"
+        ]
+      },
+      "Reload": {
+        "id": "00524150",
+        "queries": [
+          "15r",
+          "re",
+          "reload",
+          "00524150",
+          "faster-reload",
+          "fast reload",
+          "fast-reload",
+          "15re"
+        ]
+      },
+      "VATScost": {
+        "id": "00524154",
+        "queries": [
+          "25",
+          "action",
+          "25ap",
+          "apcost",
+          "zerovats",
+          "ap",
+          "00524154",
+          "lvc",
+          "25%",
+          "betteraction"
+        ]
+      },
+      "ReloadDef": {
+        "id": "004F5777",
+        "queries": [
+          "250",
+          "250dr",
+          "reloaddr",
+          "004f5777",
+          "reload-dr",
+          ""
+        ]
+      },
+      "AimDef": {
+        "id": "004F5772",
+        "queries": [
+          "50",
+          "aimdr",
+          "50dr",
+          "50aim",
+          "50a",
+          "adr",
+          "004f5772",
+          "steadfast"
+        ]
+      },
+      "CritFill": {
+        "id": "0052414C",
+        "queries": [
+          "15",
+          "15c",
+          "15fill",
+          "critmeter",
+          "15v",
+          "0052414c",
+          "lucky",
+          "crit-meter",
+          "15%",
+          "15crit"
+        ]
+      },
+      "Weightless": {
+        "id": "00529A14",
+        "queries": [
+          "weightless",
+          "weight",
+          "wl",
+          "w",
+          "00529a14"
+        ]
+      },
+      "Agility": {
+        "id": "004F6D85",
+        "queries": [
+          "agi",
+          "+1a",
+          "agl",
+          "1a",
+          "agility",
+          "a",
+          "004f6d85"
+        ]
+      },
+      "Strength": {
+        "id": "004EE54E",
+        "queries": [
+          "str",
+          "+1s",
+          "strength",
+          "1s",
+          "s",
+          "004ee54e"
+        ]
+      },
+      "Blocker": {
+        "id": "00527F76",
+        "queries": [
+          "bl",
+          "block",
+          "blocker",
+          "00527f76",
+          "blocking"
+        ]
+      },
+      "PowerDefense": {
+        "id": "001A7BD3",
+        "queries": [
+          "40",
+          "pdr",
+          "40less",
+          "001a7bd3",
+          "power-dr"
+        ]
+      },
+      "Endurance": {
+        "id": "004F6D82",
+        "queries": [
+          "end",
+          "+1e",
+          "endurance",
+          "1e",
+          "e",
+          "004f6d82"
+        ]
+      },
+      "AutoStim": {
+        "id": "00521915",
+        "queries": [
+          "autostim",
+          "as",
+          "stim",
+          "auto-stim",
+          "00521915"
+        ]
+      },
+      "LifeSave": {
+        "id": "00529A0F",
+        "queries": [
+          "life saving",
+          "lifesaving",
+          "l",
+          "life",
+          "live",
+          "00529a0f",
+          "lifesave"
+        ]
+      },
+      "Chameleon": {
+        "id": "00524146",
+        "queries": [
+          "cham",
+          "ch",
+          "cm",
+          "chameleon",
+          "",
+          "00524146"
+        ]
+      },
+      "Cloak": {
+        "id": "00524147",
+        "queries": [
+          "cloak",
+          "cloaking",
+          "cl",
+          "00524147"
+        ]
+      },
+      "Regen": {
+        "id": "00529A09",
+        "queries": [
+          "reg",
+          "regen",
+          "regenerating",
+          "r",
+          "00529a09"
+        ]
+      },
+      "Vanguard": {
+        "id": "00529A05",
+        "queries": [
+          "v",
+          "vg",
+          "vang",
+          "vanguard",
+          "vanguard's",
+          "00529a05"
+        ]
+      },
+      "Bolster": {
+        "id": "00521914",
+        "queries": [
+          "bol",
+          "bolst",
+          "bolstering",
+          "b",
+          "00521914",
+          "bolster"
+        ]
+      },
+      "Unyield": {
+        "id": "0052414A",
+        "queries": [
+          "u",
+          "uny",
+          "unyielding",
+          "0052414a",
+          "unyield"
+        ]
+      },
+      "Charisma": {
+        "id": "004F6D83",
+        "queries": [
+          "cha",
+          "+1c",
+          "charisma",
+          "1c",
+          "c",
+          "004f6d83"
+        ]
+      },
+      "Intelligence": {
+        "id": "004F6D84",
+        "queries": [
+          "int",
+          "+1i",
+          "intelligence",
+          "1i",
+          "i",
+          "004f6d84"
+        ]
+      },
+      "Luck": {
+        "id": "004F6D86",
+        "queries": [
+          "luck",
+          "+1l",
+          "lck",
+          "1l",
+          "l",
+          "004f6d86"
+        ]
+      },
+      "AP": {
+        "id": "00527F75",
+        "queries": [
+          "ap",
+          "pow",
+          "pwr",
+          "powered",
+          "power",
+          "00527f75"
+        ]
+      },
+      "Diesease": {
+        "id": "00527F72",
+        "queries": [
+          "25d",
+          "edr",
+          "env",
+          "envir",
+          "environmental",
+          "25e",
+          "envres",
+          "envresistance",
+          "antiseptic",
+          "00527f72",
+          "disease"
+        ]
+      },
+      "Radiation": {
+        "id": "00527F6F",
+        "queries": [
+          "25rad",
+          "25r",
+          "rr",
+          "rad",
+          "radres",
+          "radiation",
+          "radresistance",
+          "r",
+          "00527f6f",
+          "hazmat"
+        ]
+      },
+      "Poison": {
+        "id": "00527F6E",
+        "queries": [
+          "25p",
+          "poison",
+          "poi",
+          "p",
+          "00527f6e"
+        ]
+      },
+      "Ammo": {
+        "id": "0052BDB4",
+        "queries": [
+          "ammo",
+          "awr",
+          "ammoweight",
+          "0052bdb4",
+          "ammo-weight"
+        ]
+      },
+      "Weapon": {
+        "id": "00527F78",
+        "queries": [
+          "weapon",
+          "wwr",
+          "weaponweight",
+          "00527f78",
+          "weapon-weight"
+        ]
+      },
+      "Aid": {
+        "id": "0052BDB5",
+        "queries": [
+          "fwr",
+          "food",
+          "foodweight",
+          "0052bdb5",
+          "food-weight"
+        ]
+      },
+      "Junk": {
+        "id": "0052BDB6",
+        "queries": [
+          "junk",
+          "jwr",
+          "junkweight",
+          "0052bdb6",
+          "junk-weight"
+        ]
+      },
+      "Aqua": {
+        "id": "00527F7A",
+        "queries": [
+          "aqua",
+          "aq",
+          "underwater",
+          "00527f7a",
+          "diver"
+        ]
+      },
+      "Sneaky": {
+        "id": "0052BDB7",
+        "queries": [
+          "sneak",
+          "sneaking",
+          "harder",
+          "htd",
+          "snk",
+          "snek",
+          "0052bdb7",
+          "sneaky"
+        ]
+      },
+      "Durable": {
+        "id": "0052BDBA",
+        "queries": [
+          "dur",
+          "durability",
+          "50d",
+          "durable",
+          "0052bdba"
+        ]
+      },
+      "Sentinel": {
+        "id": "004EE54C",
+        "queries": [
+          "sent",
+          "sen",
+          "sentinel",
+          "sentinels",
+          "sentinel's",
+          "004ee54c"
+        ]
+      },
+      "Cavalier": {
+        "id": "00527F77",
+        "queries": [
+          "cav",
+          "cavalier",
+          "cavalier's",
+          "00527f77"
+        ]
+      },
+      "Acrobat": {
+        "id": "00527F79",
+        "queries": [
+          "acrobat",
+          "acrobat's",
+          "50f",
+          "falling",
+          "fall",
+          "falldamage",
+          "00527f79"
+        ]
+      },
+      "Picklock": {
+        "id": "00527F7B",
+        "queries": [
+          "lock",
+          "safe",
+          "safecracker",
+          "safecracker's",
+          "00527f7b",
+          "lockpick"
+        ]
+      }
+    }
+  }
+}

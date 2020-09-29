@@ -1,0 +1,2483 @@
+[
+    {
+        "id": "mod_Legendary_Armor1_LessDMGPlayers",
+        "gameId": "004F6D78",
+        "texts": {
+            "ru": "Убийственный",
+            "en": "Assassin's",
+            "fr": "[Anti-humains]",
+            "pl": "Zabójcz."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039FF2",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "A",
+        "additionalAbbreviations": [
+            "Ass",
+            "Assn",
+            "assassin",
+            "ASN",
+            "A",
+            "ASS"
+        ],
+        "translations": {
+            "en": "75% chance to reduce damage by 8% from Players.",
+            "ru": "75% шанс снизить урон от игроков на 8%.",
+            "fr": "75 % de chance de réduire les dégâts infligés par les joueurs de 8 %.",
+            "pl": "75% szansy na zmniejszenie o 8% obrażeń zadawanych przez graczy."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor1_HealthRegen",
+        "gameId": "00529A09",
+        "texts": {
+            "ru": "Регенерирующий",
+            "en": "Regenerating",
+            "fr": "Régénération",
+            "pl": "Regeneracja"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039B6F",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "R",
+        "additionalAbbreviations": [
+            "Regen",
+            "R"
+        ],
+        "translations": {
+            "en": "Slowly regenerate health while not in combat",
+            "ru": "Здоровье постепенно восстанавливается, пока вы не участвуете в боях",
+            "fr": "Régénère la santé lentement lorsque vous ne vous battez pas",
+            "pl": "Powoli regenerujesz zdrowie, gdy nie toczysz walki."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor1_ResistancesNight",
+        "gameId": "00524143",
+        "texts": {
+            "ru": "Ночной",
+            "en": "Nocturnal",
+            "fr": "Nocturne",
+            "pl": "Nocn."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F76",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "N",
+        "additionalAbbreviations": [
+            "N"
+        ],
+        "translations": {
+            "en": "Damage Resistance and Energy Resistance increase with the night and decrease with the day",
+            "ru": "Сопротивляемость обычному и энергетическому урону усиливается ночью и снижается днем.",
+            "fr": "La résistance aux dégâts et la résistance à l'énergie augmentent la nuit et diminuent le jour",
+            "pl": "Odporność na obrażenia i energię rośnie w nocy, a spada w dzień."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor1_ResistancesProportionalHealth",
+        "gameId": "00521914",
+        "texts": {
+            "ru": "Усиление",
+            "en": "Bolstering",
+            "fr": "Renfort",
+            "pl": "Umocnienie"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F19",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "B",
+        "additionalAbbreviations": [
+            "bolster"
+        ],
+        "translations": {
+            "en": "Grants up to +35 Energy Resistance and Damage Resistance, the higher your health.",
+            "ru": "Повышение сопротивляемости обычному и энергетическому урону по мере повышения здоровья (до +35).",
+            "fr": "Plus votre santé est élevée, plus votre résistance aux dégâts et à l'énergie augmente (+35 max).",
+            "pl": "Zapewnia tym więcej odporności na obrażenia i energię, im więcej masz zdrowia (do +35)."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor1_LessDmgScorched",
+        "gameId": "004EE548",
+        "texts": {
+            "ru": "Зилотская",
+            "en": "Zealot's",
+            "fr": "Dévot",
+            "pl": "Zelo."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "03A003",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "Z",
+        "additionalAbbreviations": [
+            "Z"
+        ],
+        "translations": {
+            "en": "-15% damage from Scorched",
+            "ru": "-15% урона от горелых",
+            "fr": "-15 % de dégâts infligés par les calcinés.",
+            "pl": "Zmniejsza obrażenia zadawane przez spalonych o 15%."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Weapon1_DmgVsBugs",
+        "gameId": "004F6D7C",
+        "texts": {
+            "ru": "Истребителя",
+            "en": "Exterminator's",
+            "fr": "[Insecticide]",
+            "pl": "Mod eksterminatora"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "032BD7",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "ET",
+        "additionalAbbreviations": [
+            "exterminator",
+            "exterminators",
+            "ET"
+        ],
+        "translations": {
+            "en": "+30% damage to Mirelurks and bugs",
+            "ru": "+30% к урону болотникам и насекомым",
+            "fr": "30 % de dégâts supplémentaires sur les fangeux et les insectes.",
+            "pl": "+30% do obrażeń zadawanych błotniakom i robalom"
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Armor1_LessDMGBugs",
+        "gameId": "004F6D7C",
+        "texts": {
+            "ru": "Гибельный",
+            "en": "Exterminator's",
+            "fr": "[Insecticide]",
+            "pl": "Ekstermin."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039FEA",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "ET",
+        "additionalAbbreviations": [
+            "et",
+            "exterminator",
+            "exterminators",
+            "exterminator's",
+            "exterm"
+        ],
+        "translations": {
+            "en": "-15% damage from Mirelurks and bugs",
+            "ru": "-15% урона от болотников и насекомых",
+            "fr": "Les dégâts infligés par les fangeux et les insectes diminuent de 15 %.",
+            "pl": "-15% obrażeń zadawanych przez błotniaki i robaki."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor1_LessDMGAnimals",
+        "gameId": "004F6D7D",
+        "texts": {
+            "ru": "Охотничий",
+            "en": "Hunter's",
+            "fr": "Chasseur",
+            "pl": "Łowieck."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039A94",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "H",
+        "additionalAbbreviations": [
+            "hunt",
+            "Hunter",
+            "Hunters",
+            "H"
+        ],
+        "translations": {
+            "en": "-15% damage from animals",
+            "ru": "-15% урона от животных",
+            "fr": "Les dégâts infligés par les animaux diminuent de 15 %.",
+            "pl": "-15% obrażeń zadawanych przez zwierzęta."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor1_AutoRevive",
+        "gameId": "00529A0F",
+        "texts": {
+            "ru": "Автоматическое оживление",
+            "en": "Auto Revive",
+            "fr": "Ranimation automatique",
+            "pl": "Autom. wskrzeszenie"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039A0C",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "L",
+        "additionalAbbreviations": [
+            "Auto",
+            "AS",
+            "L"
+        ],
+        "translations": {
+            "en": "When incapacitated, gain a 50% chance to revive yourself with a Stimpak, once every minute",
+            "ru": "Погибая, вы сможете раз в минуту оживить себя с помощью стимулятора с вероятностью 50%",
+            "fr": "En cas de neutralisation, permet de bénéficier de 50 % de chances de vous ranimer avec un Stimpak, une fois par minute",
+            "pl": "Po obezwładnieniu masz 50% szans na ocucenie się za pomocą stimpaka. Dostępne raz na minutę."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor1_LowHealthIncreasesStats",
+        "gameId": "0052414A",
+        "texts": {
+            "ru": "Стойкая",
+            "en": "Unyielding",
+            "fr": "Rigide",
+            "pl": "Nieustępl."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F13",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "U",
+        "additionalAbbreviations": [
+            "UNY",
+            "U"
+        ],
+        "translations": {
+            "en": "Gain up to +3 to all stats (except END) when low health",
+            "ru": "+3 ко всем параметрам (кроме выносливости) при низком уровне здоровья",
+            "fr": "Bonus +3 maximum à toutes les stats (sauf END) en cas de santé faible",
+            "pl": "Gdy masz mało zdrowia, otrzymujesz +3 pkt. wszystkich statystyk (poza wytrzymałością)."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor1_ResistancesMutation",
+        "gameId": "00529A0C",
+        "texts": {
+            "ru": "Мутантный",
+            "en": "Mutant's",
+            "fr": "[Mutant]",
+            "pl": "Mutanck."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F15",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "MU",
+        "additionalAbbreviations": [
+            "M",
+            "mutant",
+            "mutants",
+            "mutant's"
+        ],
+        "translations": {
+            "en": "+10 Damage Resistance and Energy Resistance if you are mutated",
+            "ru": "+10 к сопротивляемости обычному и энергетическому урону при мутации.",
+            "fr": "Résistance aux dégâts et résistance à l'énergie +10 si vous subissez une mutation.",
+            "pl": "+10 do odporności na obrażenia oraz odporności na energię, jeśli dotknęła cię mutacja."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor1_ResistancesInverseHealth",
+        "gameId": "00521914",
+        "texts": {
+            "ru": "Усиление",
+            "en": "Bolstering",
+            "fr": "Renfort",
+            "pl": "Umocnienie"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F8A",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "bol",
+        "additionalAbbreviations": [
+            "BOL",
+            "b"
+        ],
+        "translations": {
+            "en": "Grants up to +35 Energy Resistance and Damage Resistance, the lower your health",
+            "ru": "Повышение сопротивляемости обычному и энергетическому урону по мере уменьшения здоровья (до +35).",
+            "fr": "Plus votre santé est faible, plus votre résistance aux dégâts et à l'énergie augmente (+35 max).",
+            "pl": "Zapewnia tym więcej odporności na obrażenia i energię, im mniej masz zdrowia (do +35)."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor1_LessDMGSuperMutants",
+        "gameId": "004F6D80",
+        "texts": {
+            "ru": "Мутантоистребительный",
+            "en": "Mutant Slayer's",
+            "fr": "[Anti-mutants]",
+            "pl": "Mutantobójcz."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "03A248",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "mutslayer",
+        "additionalAbbreviations": [
+            "MS",
+            "mutantslayer"
+        ],
+        "translations": {
+            "en": "-15% damage from Super Mutants",
+            "ru": "-15% урона от супермутантов",
+            "fr": "Les dégâts infligés par les super mutants diminuent de 15 %.",
+            "pl": "-15% obrażeń zadawanych przez supermutantów."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor1_Chameleon",
+        "gameId": "00524146",
+        "texts": {
+            "ru": "Хамелеон",
+            "en": "Chameleon",
+            "fr": "Caméléon",
+            "pl": "Mod kameleona"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F82",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "cham",
+        "additionalAbbreviations": [
+            "ch",
+            "cm",
+            "chameleon"
+        ],
+        "translations": {
+            "en": "Blend with the environment while sneaking and not moving",
+            "ru": "Сливайтесь с окружением в режиме скрытного передвижения и стоя на месте",
+            "fr": "Se fondre dans l'environnement en mode furtif en restant immobile",
+            "pl": "Gdy pozostajesz nieruchomo podczas skradania, wtapiasz się w otoczenie."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor1_CloakOnMelee",
+        "gameId": "00524147",
+        "texts": {
+            "ru": "Маскирующая",
+            "en": "Cloaking",
+            "fr": "Dissimulation",
+            "pl": "Maskuj."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F84",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "CL",
+        "additionalAbbreviations": [
+            "Cloak",
+            "CL",
+            "CLOAK"
+        ],
+        "translations": {
+            "en": "Being hit in melee generates a Stealth Field once per 30 seconds",
+            "ru": "Ранение в ближнем бою создает стелс-поле раз в 30 секунд.",
+            "fr": "Un champ de furtivité est créé quand vous vous faites toucher au corps à corps, une fois toutes les 30 secondes.",
+            "pl": "Cios otrzymany wręcz generuje raz na 30 sekund pole maskujące."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor1_LowHealthTriggersStimpak",
+        "gameId": "00521915",
+        "texts": {
+            "ru": "Стимуляторная",
+            "en": "Auto Stim",
+            "fr": "Stimpack auto",
+            "pl": "Autostim"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "03993B",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "AS",
+        "additionalAbbreviations": [
+            "Auto",
+            "STIM",
+            "AUTO",
+            "AS"
+        ],
+        "translations": {
+            "en": "Automatically use a Stimpak when hit while health is 25% or less, once every 60 seconds",
+            "ru": "Автоматическое применение стимулятора при падении уровня здоровья до 25% или ниже раз в 60 секунд.",
+            "fr": "Utilisez automatiquement un Stimpak quand une attaque vous touche lorsque vous avez 25 % de santé ou moins, une fois toutes les 60 secondes.",
+            "pl": "Automatycznie używasz stimpaka po trafieniu, gdy zdrowie wyniesie 25% lub mniej. Działa raz na 60 sekund."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor1_LessDMGGhouls",
+        "gameId": "004F6D7E",
+        "texts": {
+            "ru": "Антирадиационный",
+            "en": "Ghoul Slayer's",
+            "fr": "Tueur de goules",
+            "pl": "Ghulobój."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "03A29C",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "G",
+        "additionalAbbreviations": [
+            "GS",
+            "G"
+        ],
+        "translations": {
+            "en": "-15% damage from ghouls",
+            "ru": "-15% урона от гулей",
+            "fr": "Les dégâts infligés par les goules diminuent de 15 %.",
+            "pl": "-15% obrażeń zadawanych przez ghule."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor1_Weightless",
+        "gameId": "00529A14",
+        "texts": {
+            "ru": "Невесомый",
+            "en": "Weightless",
+            "fr": "Poids plume",
+            "pl": "Nieważk."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039D6C",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "W",
+        "additionalAbbreviations": [
+            "WL"
+        ],
+        "translations": {
+            "en": "Weighs 90% less and does not count as armor for the Chameleon mutation.",
+            "ru": "Весит на 90% меньше и не считается как броня для мутации \"Хамелеон\"",
+            "fr": "Poids réduit de 90 % et ne compte pas comme armure pour la mutation Caméléon.",
+            "pl": "Waży o 90% mniej i nie liczy się jako pancerz przy mutacji kameleona."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor1_LessDMGRobots",
+        "gameId": "004F6D7F",
+        "texts": {
+            "ru": "Механика",
+            "en": "Troubleshooter's",
+            "fr": "[Assistance]",
+            "pl": "Ułatwiaj."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039FF0",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "T",
+        "additionalAbbreviations": [
+            "TR",
+            "TRO"
+        ],
+        "translations": {
+            "en": "-15% damage from robots",
+            "ru": "-15% урона от роботов",
+            "fr": "Les dégâts infligés par les robots diminuent de 15 %.",
+            "pl": "-15% obrażeń zadawanych przez roboty."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor2_StatPerception",
+        "gameId": "004F6D81",
+        "texts": {
+            "ru": "Восприятие",
+            "en": "Perception",
+            "fr": "Perception",
+            "pl": "Percepcja"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039DE1",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "P",
+        "additionalAbbreviations": [
+            "+1P",
+            "PER"
+        ],
+        "translations": {
+            "en": "+1 Perception",
+            "ru": "+1 к восприятию",
+            "fr": "Perception +1",
+            "pl": "+1 do percepcji."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor2_StatAgility",
+        "gameId": "004F6D85",
+        "texts": {
+            "ru": "Ловкость",
+            "en": "Agility",
+            "fr": "Agilité",
+            "pl": "Zwinność"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039B69",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "A",
+        "additionalAbbreviations": [
+            "+1A",
+            "AGI"
+        ],
+        "translations": {
+            "en": "+1 Agility",
+            "ru": "+1 к ловкости",
+            "fr": "Agilité +1",
+            "pl": "+1 do zwinności"
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor2_StatLuck",
+        "gameId": "004F6D86",
+        "texts": {
+            "ru": "Удача",
+            "en": "Luck",
+            "fr": "Chance",
+            "pl": "Szczęście"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039DE3",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "L",
+        "additionalAbbreviations": [
+            "+1L",
+            "LUK"
+        ],
+        "translations": {
+            "en": "+1 Luck",
+            "ru": "+1 к удаче",
+            "fr": "Chance +1",
+            "pl": "+1 do szczęścia."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor2_StatStrength",
+        "gameId": "004EE54E",
+        "texts": {
+            "ru": "Сила",
+            "en": "Strength",
+            "fr": "Force",
+            "pl": "Siła"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039E73",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "S",
+        "additionalAbbreviations": [
+            "+1S",
+            "STR"
+        ],
+        "translations": {
+            "en": "+1 Strength",
+            "ru": "+1 к силе",
+            "fr": "Force +1",
+            "pl": "+1 do siły."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor2_StatEndurance",
+        "gameId": "004F6D82",
+        "texts": {
+            "ru": "Выносливость",
+            "en": "Endurance",
+            "fr": "Endurance",
+            "pl": "Wytrzymałość"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039A5B",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "E",
+        "additionalAbbreviations": [
+            "+1E",
+            "END"
+        ],
+        "translations": {
+            "en": "+1 Endurance",
+            "ru": "+1 к выносливости",
+            "fr": "Endurance +1",
+            "pl": "+1 do wytrzymałości"
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor2_DiseaseResistance",
+        "gameId": "00527F72",
+        "texts": {
+            "ru": "Антисептик",
+            "en": "Antiseptic",
+            "fr": "Antiseptique",
+            "pl": "Antyseptyk"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F33",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "25D",
+        "additionalAbbreviations": [
+            "EDR",
+            "DR",
+            "25D",
+            "Disease"
+        ],
+        "translations": {
+            "en": "+25% Environmental Disease Resistance",
+            "ru": "+25% к сопротивляемости болезням от окружающей среды",
+            "fr": "Résistance aux maladies environnementales +25 %",
+            "pl": "+25% do odporności na choroby wynikające z zagrożeń środowiskowych"
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor2_PoisonResistance",
+        "gameId": "00527F6E",
+        "texts": {
+            "ru": "Знахарский",
+            "en": "Poisoner's",
+            "fr": "Empoisonneur",
+            "pl": "Alchem."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039BEA",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "P",
+        "additionalAbbreviations": [
+            "POI",
+            "Poisoner's"
+        ],
+        "translations": {
+            "en": "+25 Poison Resistance",
+            "ru": "+25 к сопротивляемости ядам",
+            "fr": "Résistance au poison +25",
+            "pl": "+25 do odporności na trucizny."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor2_StatIntelligence",
+        "gameId": "004F6D84",
+        "texts": {
+            "ru": "Интеллект",
+            "en": "Intelligence",
+            "fr": "Intelligence",
+            "pl": "Inteligencja"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "0398E7",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "I",
+        "additionalAbbreviations": [
+            "+1I",
+            "INT"
+        ],
+        "translations": {
+            "en": "+1 Intelligence",
+            "ru": "+1 к интеллекту",
+            "fr": "Intelligence +1",
+            "pl": "+1 do inteligencji"
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor2_APRegen",
+        "gameId": "00527F75",
+        "texts": {
+            "ru": "Подключенный",
+            "en": "Powered",
+            "fr": "Puissance",
+            "pl": "Zasilanie"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F35",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "AP",
+        "additionalAbbreviations": [
+            "PWR",
+            "Powered",
+            "POW",
+            "AP"
+        ],
+        "translations": {
+            "en": "Increases Action Point refresh speed",
+            "ru": "ОД восстанавливаются быстрее.",
+            "fr": "Augmente la vitesse de récupération des points d'action",
+            "pl": "Zwiększa tempo odnawiania punktów akcji."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor2_StatCharisma",
+        "gameId": "004F6D83",
+        "texts": {
+            "ru": "Харизма",
+            "en": "Charisma",
+            "fr": "Charisme",
+            "pl": "Charyzma"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039A4C",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "C",
+        "additionalAbbreviations": [
+            "+1C",
+            "CHA"
+        ],
+        "translations": {
+            "en": "+1 Charisma",
+            "ru": "+1 к харизме",
+            "fr": "Charisme +1",
+            "pl": "+1 do charyzmy"
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "zzzmod_Legendary_Armor2_Speed",
+        "gameId": "00527F74",
+        "texts": {
+            "ru": "Бегуна",
+            "en": "Sprinter's",
+            "fr": "Sprinteur",
+            "pl": "Mod biegacza"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039A75",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "5MS",
+        "additionalAbbreviations": [],
+        "translations": {
+            "en": "Increases movement speed by 5%",
+            "ru": "Увеличивает скорость передвижения на 5%",
+            "fr": "Augmente la vitesse des déplacements de 5 %",
+            "pl": "Zwiększona prędkość ruchu o 5%."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor2_RadResistance",
+        "gameId": "00527F6F",
+        "texts": {
+            "ru": "Опасное вещество",
+            "en": "HazMat",
+            "fr": "Décontamination",
+            "pl": "Ochronn."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "0399C2",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "R",
+        "additionalAbbreviations": [
+            "RR",
+            "Rad",
+            "RAD"
+        ],
+        "translations": {
+            "en": "+25 Radiation Resistance",
+            "ru": "+25 к сопротивляемости радиации",
+            "fr": "Résistance aux radiations +25",
+            "pl": "+25 do odporności na promieniowanie."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor3_WeightAmmo",
+        "gameId": "0052BDB4",
+        "texts": {
+            "ru": "Уменьшенный вес всех боеприпасов",
+            "en": "Reduced ammo weight",
+            "fr": "Poids des munitions réduit",
+            "pl": "Zmniejszony ciężar amunicji"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F0B",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "AWR",
+        "additionalAbbreviations": [
+            "Ammo"
+        ],
+        "translations": {
+            "en": "Ammo weight reduced by 20%",
+            "ru": "Боеприпасы весят на 20% меньше",
+            "fr": "Poids des munitions réduit de 20 %",
+            "pl": "Amunicja waży o 20% mniej."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor3_ReducedLimbDamage",
+        "gameId": "0052BDBC",
+        "texts": {
+            "ru": "Уменьшенный урон конечностям",
+            "en": "Reduced limb damage",
+            "fr": "Dégâts aux membres réduit",
+            "pl": "Zmniejszone obrażenia kończyn"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039BF5",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "LDR",
+        "additionalAbbreviations": [
+            "Limb",
+            "15L"
+        ],
+        "translations": {
+            "en": "Receive 15% less limb damage",
+            "ru": "Снижает урон конечностям на 15%",
+            "fr": "15 % de dégâts en moins aux membres",
+            "pl": "15% mniej obrażeń zadawanych kończynom."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor3_WeightFoodDrinkChems",
+        "gameId": "0052BDB5",
+        "texts": {
+            "ru": "Уменьшение веса еды, воды и препаратов",
+            "en": "Reduced food/drink/chem weight",
+            "fr": "Poids réduit aliments/boissons/drogues",
+            "pl": "Zmniejszona waga jedzenia/napojów/prochów"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039C1F",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "FWR",
+        "additionalAbbreviations": [
+            "Aid",
+            "Food"
+        ],
+        "translations": {
+            "en": "Food, drink, and chem weights reduced by 20%",
+            "ru": "Еда, вода и препараты весят на 20% меньше",
+            "fr": "Poids réduit de 20 % pour les aliments, les boissons et les drogues",
+            "pl": "Jedzenie, napoje i prochy ważą 20% mniej."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor3_LockPick",
+        "gameId": "00527F7B",
+        "texts": {
+            "ru": "Взломщика",
+            "en": "Safecracker's",
+            "fr": "Perceur de coffres",
+            "pl": "Mod kasiarza"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039FD3",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "LOCK",
+        "additionalAbbreviations": [
+            "Safe",
+            "Safercracker's",
+            "LOCK",
+            "safecracker",
+            "SAFE"
+        ],
+        "translations": {
+            "en": "Increases size of sweet-spot while picking locks",
+            "ru": "Увеличение размера зачетной зоны при взломе замков.",
+            "fr": "Facilite le positionnement correct de l'épingle à cheveux quand vous crochetez des serrures",
+            "pl": "Zwiększa zakres otwierający zamki podczas włamywania się."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor3_WeightWeapons",
+        "gameId": "00527F78",
+        "texts": {
+            "ru": "Уменьшенный вес оружия",
+            "en": "Reduced weapon weight",
+            "fr": "Poids de l'arme réduit",
+            "pl": "Zmniejszony ciężar broni"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F3F",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "WWR",
+        "additionalAbbreviations": [
+            "Weapon"
+        ],
+        "translations": {
+            "en": "Weapon weights reduced by 20%",
+            "ru": "Оружие весит на 20% меньше",
+            "fr": "Poids de l'arme réduit de 20 %",
+            "pl": "Broń waży o 20% mniej."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor3_LessDamageStandStill",
+        "gameId": "004EE54C",
+        "texts": {
+            "ru": "Защитный",
+            "en": "Sentinel's",
+            "fr": "Sentinelle",
+            "pl": "Wartown."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "046D32",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "SEN",
+        "additionalAbbreviations": [
+            "Stand",
+            "Sentinel's",
+            "SEN",
+            "SENT",
+            "stand"
+        ],
+        "translations": {
+            "en": "75% chance to reduce damage by 15% while standing still",
+            "ru": "75%-й шанс снизить урон на 15%, пока вы неподвижны.",
+            "fr": "75 % de chance de réduire les dégâts de 15 % en restant immobile.",
+            "pl": "75% szansy na zmniejszenie obrażeń o 15% podczas bezruchu."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor3_Sneak",
+        "gameId": "0052BDB7",
+        "texts": {
+            "ru": "Улучшенная скрытность",
+            "en": "Improved sneaking",
+            "fr": "Mode furtif amélioré",
+            "pl": "Ulepszone skradanie się"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039B94",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "HTD",
+        "additionalAbbreviations": [
+            "Detect",
+            "SNK",
+            "sneak",
+            "detect"
+        ],
+        "translations": {
+            "en": "Become harder to detect while sneaking",
+            "ru": "Вероятность обнаружения в режиме скрытности снижена",
+            "fr": "Détection plus difficile en déplacements furtifs",
+            "pl": "Trudniej cię wykryć, gdy się skradasz."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor3_LessFallDamage",
+        "gameId": "00527F79",
+        "texts": {
+            "ru": "Акробата",
+            "en": "Acrobat's",
+            "fr": "Acrobate",
+            "pl": "Mod akrobaty"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F47",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "50F",
+        "additionalAbbreviations": [
+            "Acrobat's",
+            "acrobat"
+        ],
+        "translations": {
+            "en": "Reduces falling damage by 50%",
+            "ru": "Уменьшение урона от падения на 50%.",
+            "fr": "Réduit de 50 % les dégâts dus aux chutes",
+            "pl": "Zmniejsza obrażenia od upadku o 50%."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor3_LessDamageBlocking",
+        "gameId": "00527F77",
+        "texts": {
+            "ru": "Кавалерский",
+            "en": "Cavalier's",
+            "fr": "Cavalier",
+            "pl": "Rycersk."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F43",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "blocker",
+        "additionalAbbreviations": [
+            "Blocking",
+            "Sprint"
+        ],
+        "translations": {
+            "en": "Reduces damage while blocking by 15%",
+            "ru": "Уменьшение урона при блоке на 15%.",
+            "fr": "Réduit les dégâts de 15 % quand bloquez une attaque.",
+            "pl": "Zmniejsza obrażenia o 15% przy blokowaniu."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor3_Durability",
+        "gameId": "0052BDBA",
+        "texts": {
+            "ru": "Прочность",
+            "en": "Durability",
+            "fr": "Solidité",
+            "pl": "Wytrzymałość"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F0D",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "DUR",
+        "additionalAbbreviations": [
+            "Durability"
+        ],
+        "translations": {
+            "en": "50% more durability than normal",
+            "ru": "Прочность выше на 50%",
+            "fr": "Solidité augmentée de 50 %.",
+            "pl": "Przedmiot ma 50% wytrzymałości więcej niż normalnie."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor3_LessDamageSprinting",
+        "gameId": "00527F77",
+        "texts": {
+            "ru": "Кавалерский",
+            "en": "Cavalier's",
+            "fr": "Cavalier",
+            "pl": "Rycersk."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039A9C",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "CAV",
+        "additionalAbbreviations": [
+            "Sprint",
+            "Cavalier's"
+        ],
+        "translations": {
+            "en": "75% chance to reduce damage by 15% while sprinting.",
+            "ru": "75% шанс снизить урон на 15% во время бега.",
+            "fr": "75 % de chance de réduire les dégâts de 15 % en sprintant.",
+            "pl": "75% szansy na zmniejszenie obrażeń o 15% podczas sprintu."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor3_Waterbreathing",
+        "gameId": "00527F7A",
+        "texts": {
+            "ru": "Дайвера",
+            "en": "Diver's",
+            "fr": "[Plongeur]",
+            "pl": "Nurk."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F49",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "AQ",
+        "additionalAbbreviations": [
+            "Underwater"
+        ],
+        "translations": {
+            "en": "Grants the ability to breathe underwater",
+            "ru": "Позволяет дышать под водой",
+            "fr": "Donne la capacité de respirer sous l'eau",
+            "pl": "Zapewnia zdolność oddychania pod wodą."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor3_WeightJunk",
+        "gameId": "0052BDB6",
+        "texts": {
+            "ru": "Уменьшенный вес хлама",
+            "en": "Reduced junk weight",
+            "fr": "Poids de bric-à-brac réduit",
+            "pl": "Zmniejszony ciężar śmieci"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039D0E",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "JWR",
+        "additionalAbbreviations": [
+            "Junk"
+        ],
+        "translations": {
+            "en": "Junk item weights reduced by 20%",
+            "ru": "Хлам весит на 20% меньше",
+            "fr": "Poids des munitions de bric-à-brac réduit de 20 %",
+            "pl": "Przedmioty będące śmieciami ważą o 20% mniej."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Weapon1_DebuffDamage",
+        "gameId": "005281B8",
+        "texts": {
+            "ru": "Глушительный",
+            "en": "Suppressor's",
+            "fr": "[Suppresseur]",
+            "pl": "Tłum."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "03A3E7",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "SS",
+        "additionalAbbreviations": [
+            "SUP",
+            "SU"
+        ],
+        "translations": {
+            "en": "Reduce your target's damage output by 20% for 3s",
+            "ru": "Сила урона цели будет снижена на 20% в течение 3 сек.",
+            "fr": "Réduit de 20 % les dégâts infligés pendant 3 s",
+            "pl": "Na 3 sek. obniża obrażenia zadawane przez wroga o 20%."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon1_DamageInverseHealth",
+        "gameId": "004F6AA0",
+        "texts": {
+            "ru": "Окровавленный",
+            "en": "Bloodied",
+            "fr": "[Sang]",
+            "pl": "Zakrwaw."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039A7A",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "B",
+        "additionalAbbreviations": [
+            "blood",
+            "bloodied",
+            "004f6aa0",
+            "B"
+        ],
+        "translations": {
+            "en": "Damage increases as health decreases.",
+            "ru": "Чем меньше уровень здоровья, тем выше урон.",
+            "fr": "Les dégâts augmentent à mesure que la santé diminue.",
+            "pl": "Zadawane obrażenia zwiększają się wraz z utratą zdrowia."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon1_Guns_CritsHealGroup",
+        "gameId": "00527F8B",
+        "texts": {
+            "ru": "Медицинский",
+            "en": "Medic's",
+            "fr": "Infirmier",
+            "pl": "Lekarsk."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F3B",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "M",
+        "additionalAbbreviations": [
+            "ME"
+        ],
+        "translations": {
+            "en": "V.A.T.S. crits will heal you and your group",
+            "ru": "Критические атаки в V.A.T.S. лечат вас и ваших соратников",
+            "fr": "Les coups critiques en mode SVAV soigneront votre groupe et vous-même",
+            "pl": "Trafienia krytyczne w V.A.T.S. leczą ciebie i twoją grupę."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon1_Vampire",
+        "gameId": "00527F84",
+        "texts": {
+            "ru": "Вампирский",
+            "en": "Vampire's",
+            "fr": "[Vampire]",
+            "pl": "Wampiryczn."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "03A2AC",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "V",
+        "additionalAbbreviations": [
+            "Vamp",
+            "V"
+        ],
+        "translations": {
+            "en": "Gain brief health regeneration when you hit an enemy",
+            "ru": "Здоровье быстро восстанавливается после того, как вы атаковали противника",
+            "fr": "Votre santé se régénère en touchant un ennemi",
+            "pl": "Trafienie przeciwnika zapewnia tymczasową regenerację zdrowia."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "zzzmod_Legendary_Weapon1_Guns_AmmoCapacity2x",
+        "gameId": "004392CD",
+        "texts": {
+            "ru": "Бесконечный",
+            "en": "Never Ending",
+            "fr": "[Sans fin]",
+            "pl": "Nieskończ."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "046868",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "D",
+        "additionalAbbreviations": [
+            "Double",
+            "Double Ammo",
+            "DA",
+            "D"
+        ],
+        "translations": {
+            "en": "Double ammo capacity",
+            "ru": "Удвоенный боезапас",
+            "fr": "Capacité en munitions doublée",
+            "pl": "Podwójna pojemność magazynka."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon1_DmgVsPlayers",
+        "gameId": "004F6D78",
+        "texts": {
+            "ru": "Убийственный",
+            "en": "Assassin's",
+            "fr": "[Anti-humains]",
+            "pl": "Zabójcz."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039FFB",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "A",
+        "additionalAbbreviations": [
+            "Ass",
+            "ASN",
+            "A",
+            "ASS"
+        ],
+        "translations": {
+            "en": "+10% damage to Humans",
+            "ru": "+10% к урону игрокам",
+            "fr": "+10 % de dégâts sur les humains",
+            "pl": "+10% do obrażeń zadawanych ludziom."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon1_DmgVsScorched",
+        "gameId": "004EE548",
+        "texts": {
+            "ru": "Зилотская",
+            "en": "Zealot's",
+            "fr": "Dévot",
+            "pl": "Zelo."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "03985F",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "Z",
+        "additionalAbbreviations": [
+            "Z"
+        ],
+        "translations": {
+            "en": "+30% damage to Scorched",
+            "ru": "+30% к урону горелым",
+            "fr": "+30 % de dégâts sur les calcinés",
+            "pl": "+30% do obrażeń zadawanych spalonym."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon1_DamageUnarmored",
+        "gameId": "004F6AA7",
+        "texts": {
+            "ru": "Берсеркерский",
+            "en": "Berserker's",
+            "fr": "Berserker",
+            "pl": "Berserk."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039E49",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "BR",
+        "additionalAbbreviations": [
+            "BS",
+            "bz",
+            "berserker",
+            "BZ",
+            "BR"
+        ],
+        "translations": {
+            "en": "Lower Damage Resistance increases damage dealt.",
+            "ru": "Чем ниже сопротивляемость урону, тем выше наносимый урон.",
+            "fr": "Plus la résistance aux dégâts est faible, plus les dégâts infligés sont augmentés.",
+            "pl": "Im mniejsza odporność na obrażenia, tym większe zadawane obrażenia."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon1_DamageNight",
+        "gameId": "00524143",
+        "texts": {
+            "ru": "Ночной",
+            "en": "Nocturnal",
+            "fr": "Nocturne",
+            "pl": "Nocn."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039AC9",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "N",
+        "additionalAbbreviations": [
+            "N"
+        ],
+        "translations": {
+            "en": "Damage increases with the night and decreases with the day",
+            "ru": "Урон усиливается ночью и снижается днем",
+            "fr": "Les dégâts augmentent la nuit et diminuent le jour",
+            "pl": "Zadawane obrażenia rosną nocą i spadają za dnia."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon1_DmgWithMutation",
+        "gameId": "00529A0C",
+        "texts": {
+            "ru": "Мутантный",
+            "en": "Mutant's",
+            "fr": "[Mutant]",
+            "pl": "Mutanck."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "03A103",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "MU",
+        "additionalAbbreviations": [
+            "MU",
+            "M"
+        ],
+        "translations": {
+            "en": "Damage increased by 10% if you are mutated",
+            "ru": "+10% к урону, если у вас имеются мутации",
+            "fr": "Dégâts accrus de 10 % si vous subissez une mutation",
+            "pl": "Obrażenia zwiększone o 10%, jeśli dotknęła cię mutacja."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon1_Execute",
+        "gameId": "004F6AA1",
+        "texts": {
+            "ru": "Палаческий",
+            "en": "Executioner's",
+            "fr": "Bourreau",
+            "pl": "Katowsk."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039DB7",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "E",
+        "additionalAbbreviations": [
+            "EC",
+            "EX",
+            "EXE"
+        ],
+        "translations": {
+            "en": "+50% more damage when your target is below 40% health",
+            "ru": "+50% к урону, если уровень здоровья вашей цели ниже 40%",
+            "fr": "Dégâts accrus de +50 % quand la santé de la cible est inférieure à 40 %",
+            "pl": "+50% więcej obrażeń, gdy cel ma poniżej 40% zdrowia."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon1_DamageFirstBlood",
+        "gameId": "004F6AA5",
+        "texts": {
+            "ru": "Провоцирующий",
+            "en": "Instigating",
+            "fr": "[Provocation]",
+            "pl": "Inspir."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039FF9",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "I",
+        "additionalAbbreviations": [
+            "INST",
+            "instig",
+            "instigating"
+        ],
+        "translations": {
+            "en": "Double damage if target is full health",
+            "ru": "Удвоенный урон целям с максимальным количеством очков здоровья",
+            "fr": "Double les dégâts si la santé de la cible est à son maximum",
+            "pl": "Zadaje podwójne obrażenia, jeśli cel jest w pełni zdrowy."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon1_Guns_AmmoCapacity4x",
+        "gameId": "004F6AB1",
+        "texts": {
+            "ru": "Бесконечная автоматическая стрельба",
+            "en": "Never Ending Auto",
+            "fr": "Sans fin auto",
+            "pl": "Niekończąca się seria"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039D10",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "Q",
+        "additionalAbbreviations": [
+            "quad",
+            "Quad Ammo"
+        ],
+        "translations": {
+            "en": "Quadruple ammo capacity",
+            "ru": "Боезапас, увеличенный в 4 раза",
+            "fr": "Capacité en munitions quadruplée",
+            "pl": "Poczwórna pojemność magazynka."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon1_DmgVsGhouls",
+        "gameId": "004F6D7E",
+        "texts": {
+            "ru": "Антирадиационный",
+            "en": "Ghoul Slayer's",
+            "fr": "Tueur de goules",
+            "pl": "Ghulobój."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "03A3E5",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "G",
+        "additionalAbbreviations": [
+            "GS",
+            "ghoul",
+            "ghouls",
+            "G"
+        ],
+        "translations": {
+            "en": "+30% damage to ghouls",
+            "ru": "+30% к урону гулям",
+            "fr": "+30 % de dégâts sur les goules",
+            "pl": "+30% do obrażeń zadawanych ghulom."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon1_AccuracyNotInCombat",
+        "gameId": "004F6D77",
+        "texts": {
+            "ru": "Следопытский",
+            "en": "Stalker's",
+            "fr": "[Traque]",
+            "pl": "Tropiciel."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039A73",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "S",
+        "additionalAbbreviations": [
+            "ST"
+        ],
+        "translations": {
+            "en": "If not in combat, +100% VATS accuracy at +50% AP cost",
+            "ru": "+100% к точности в V.A.T.S. по цене +50% ОД, если вы не в бою",
+            "fr": "Hors combat, précision en mode SVAV +100 % à un coût en PA de +50 %",
+            "pl": "Gdy nie toczysz walki, +100% do celności w V.A.T.S za cenę +50% PA."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon1_DmgVsRobots",
+        "gameId": "004F6D7F",
+        "texts": {
+            "ru": "Механика",
+            "en": "Troubleshooter's",
+            "fr": "[Assistance]",
+            "pl": "Ułatwiaj."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039A60",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "T",
+        "additionalAbbreviations": [
+            "TR",
+            "TRO"
+        ],
+        "translations": {
+            "en": "+30% damage to robots",
+            "ru": "+30% к урону роботам",
+            "fr": "+30 % de dégâts sur les robots",
+            "pl": "+30% do obrażeń zadawanych robotom."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon1_AntiArmor",
+        "gameId": "005281B4",
+        "texts": {
+            "ru": "Бронебойный",
+            "en": "Anti-armor",
+            "fr": "Anti-armure",
+            "pl": "Przeciwpanc."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "03A1F8",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "AA",
+        "additionalAbbreviations": [
+            "Anti",
+            "Armor",
+            "antiarmor"
+        ],
+        "translations": {
+            "en": "Ignores 50% of your target's armor",
+            "ru": "Эффективность брони противника снижается на 50%",
+            "fr": "Ignore 50 % de l'armure de la cible",
+            "pl": "Ignoruje 50% pancerza celu."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon1_DmgConsecutiveHits",
+        "gameId": "004F577D",
+        "texts": {
+            "ru": "Яростный",
+            "en": "Furious",
+            "fr": "[Furie]",
+            "pl": "Wściekł."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "0398E1",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "F",
+        "additionalAbbreviations": [
+            "Furious",
+            "fury",
+            "004f577d",
+            "F"
+        ],
+        "translations": {
+            "en": "Damage increased after each consecutive hit on the same target",
+            "ru": "Увеличение урона с каждой последующей атакой одной и той же цели",
+            "fr": "Dégâts augmentés après chaque coup consécutif sur la même cible",
+            "pl": "Zwiększone obrażenia po każdym kolejnym trafieniu tego samego celu."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon1_DmgVsAnimals",
+        "gameId": "004F6D7D",
+        "texts": {
+            "ru": "Охотничий",
+            "en": "Hunter's",
+            "fr": "Chasseur",
+            "pl": "Łowieck."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "03A001",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "H",
+        "additionalAbbreviations": [
+            "hunt",
+            "Hunter",
+            "Hunters",
+            "H"
+        ],
+        "translations": {
+            "en": "+30% damage to animals",
+            "ru": "+30% к урону животным",
+            "fr": "+30 % de dégâts sur les animaux",
+            "pl": "+30% do obrażeń zadawanych zwierzętom."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "zzzmod_Legendary_Weapon1_Knockback",
+        "gameId": "005299ED",
+        "texts": {
+            "ru": "Ударный",
+            "en": "Concussive",
+            "fr": "Étourdissant",
+            "pl": "Wstrząs"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039B52",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "Concussive",
+        "additionalAbbreviations": [],
+        "translations": {
+            "en": "Gain a chance to knock your target back",
+            "ru": "Получите шанс сбить цель с ног",
+            "fr": "Chance de repousser la cible",
+            "pl": "Zyskujesz szansę na odrzucenie celu w tył."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon1_Guns_TwoShot",
+        "gameId": "004F6D76",
+        "texts": {
+            "ru": "Двухзарядный",
+            "en": "Two Shot",
+            "fr": "[Deux coups]",
+            "pl": "Dwustrzał."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039E91",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "TS",
+        "additionalAbbreviations": [
+            "two-shot",
+            "twoshot",
+            "two shot"
+        ],
+        "translations": {
+            "en": "Shoots an additional projectile",
+            "ru": "Выпускает дополнительный снаряд",
+            "fr": "Tire un projectile supplémentaire",
+            "pl": "Wystrzeliwuje dodatkowy pocisk."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon1_DmgVsSupermutants",
+        "gameId": "004F6D80",
+        "texts": {
+            "ru": "Мутантоистребительный",
+            "en": "Mutant Slayer's",
+            "fr": "[Anti-mutants]",
+            "pl": "Mutantobójcz."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039BA9",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "mutslayer",
+        "additionalAbbreviations": [
+            "MS",
+            "mutantslayer"
+        ],
+        "translations": {
+            "en": "+30% damage to super mutants",
+            "ru": "+30% к урону супермутантам",
+            "fr": "+30 % de dégâts sur les super mutants",
+            "pl": "+30% do obrażeń zadawanych supermutantom."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon1_DamageAddiction",
+        "gameId": "004F6AAB",
+        "texts": {
+            "ru": "Наркоманский",
+            "en": "Junkie's",
+            "fr": "Junkie",
+            "pl": "Ćpuńsk."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039939",
+        "enabled": true,
+        "star": 1,
+        "abbreviation": "J",
+        "additionalAbbreviations": [
+            "junkie",
+            "junkies",
+            "junkie's"
+        ],
+        "translations": {
+            "en": "Damage increases when suffering from addictions.",
+            "ru": "Урон повышается при ломке от зависимости.",
+            "fr": "Augmentation des dégâts lorsque vous souffrez d'addictions.",
+            "pl": "Zwiększenie obrażeń podczas cierpienia z powodu uzależnień."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon2_Guns_DmgSights",
+        "gameId": "0052414E",
+        "texts": {
+            "ru": "Ликвидаторский",
+            "en": "Hitman's",
+            "fr": "Meurtre",
+            "pl": "Zabójcz."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F78",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "10",
+        "additionalAbbreviations": [
+            "Aim",
+            "Aim dmg",
+            "10",
+            "aim",
+            "aiming",
+            "10aiming",
+            "10aim",
+            "hitman",
+            "10%"
+        ],
+        "translations": {
+            "en": "+10% damage while aiming",
+            "ru": "+10% к наносимому урону при прицеливании",
+            "fr": "Dégâts +10 % en visant",
+            "pl": "+10% obrażeń przy korzystaniu z celownika."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon2_Melee_SwingSpeed",
+        "gameId": "001A7BDA",
+        "texts": {
+            "ru": "Скорость атаки в ближнем бою",
+            "en": "Melee Speed",
+            "fr": "Vitesse de mêlée",
+            "pl": "Szybkość w walce w zwarciu"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039B9F",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "40",
+        "additionalAbbreviations": [
+            "40",
+            "40s",
+            "ss",
+            "swing",
+            "swingspeed",
+            "001a7bda",
+            "fast-swing"
+        ],
+        "translations": {
+            "en": "40% faster swing speed",
+            "ru": "Повышение скорости замаха на 40%.",
+            "fr": "Vous frappez 40 % plus vite",
+            "pl": "40% szybsze uderzenie."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon2_Guns_ExplosiveBullets",
+        "gameId": "004F5771",
+        "texts": {
+            "ru": "Взрывной",
+            "en": "Explosive",
+            "fr": "[Explosif]",
+            "pl": "Wybuch."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039E7D",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "E",
+        "additionalAbbreviations": [
+            "Exp"
+        ],
+        "translations": {
+            "en": "Bullets explode for area damage.",
+            "ru": "Пули взрываются и наносят урон по площади.",
+            "fr": "Les balles explosent et infligent des dégâts de zone.",
+            "pl": "Pociski eksplodują i zadają obrażenia obszarowe."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon2_Melee_BlockReflects",
+        "gameId": "001A7C39",
+        "texts": {
+            "ru": "Рипост",
+            "en": "Riposting",
+            "fr": "Riposte",
+            "pl": "Riposta"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039EFE",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "50B",
+        "additionalAbbreviations": [
+            "Blocking",
+            "Reflect"
+        ],
+        "translations": {
+            "en": "Reflects 50% of melee damage back while blocking",
+            "ru": "Возвращает атакующему 50% урона в ближнем бою при блокировании.",
+            "fr": "Renvoie 50 % des dégâts de corps à corps lors d'une parade",
+            "pl": "Podczas bloku wręcz 50% obrażeń zostaje odbitych do napastnika."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon2_Guns_Bashing",
+        "gameId": "005299F9",
+        "texts": {
+            "ru": "Хрясь!",
+            "en": "Basher's",
+            "fr": "[Cogneur]",
+            "pl": "Osił."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039D51",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "40B",
+        "additionalAbbreviations": [
+            "40bash",
+            "bash",
+            "bashing",
+            "40%",
+            "40b"
+        ],
+        "translations": {
+            "en": "Bashing damage increased by 40%",
+            "ru": "+40% к урону в ближнем бою",
+            "fr": "Dégâts des coups de crosse accrus de 40 %",
+            "pl": "Obrażenia od uderzeń zwiększone o 40%."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon2_Melee_DamagePowerAttack",
+        "gameId": "001A7BE2",
+        "texts": {
+            "ru": "Урон от мощных атак",
+            "en": "Power Attack Damage",
+            "fr": "Dégâts d'attaque puissante",
+            "pl": "Obrażenia od potężnego ataku"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039EFA",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "40P",
+        "additionalAbbreviations": [
+            "PowerAttack",
+            "AttackDmg"
+        ],
+        "translations": {
+            "en": "40% more power attack damage",
+            "ru": "Увеличение урона от мощных атак на 40%.",
+            "fr": "40 % de dégâts d'attaque puissante supplémentaires",
+            "pl": "40% większe obrażenia potężnego ataku."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon2_Guns_VATSAccuracy",
+        "gameId": "00524153",
+        "texts": {
+            "ru": "С улучшенным V.A.T.S.",
+            "en": "VATS Enhanced",
+            "fr": "[SVAV]",
+            "pl": "Wspom. V.A.T.S."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F1D",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "33",
+        "additionalAbbreviations": [
+            "Hit Chance",
+            "VATS Hit"
+        ],
+        "translations": {
+            "en": "+33% VATS hit chance",
+            "ru": "+33% к шансу провести удачную атаку в V.A.T.S.",
+            "fr": "+33 % de chances de toucher la cible en mode SVAV",
+            "pl": "+33% szans na trafienie w V.A.T.S."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon2_Guns_RoF",
+        "gameId": "0052414F",
+        "texts": {
+            "ru": "Стремительный",
+            "en": "Rapid",
+            "fr": "[Rapidité]",
+            "pl": "Dynamicz."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F7A",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "25",
+        "additionalAbbreviations": [
+            "FR",
+            "25",
+            "25ffr",
+            "firerate",
+            "rof",
+            "25%",
+            "fast-fire"
+        ],
+        "translations": {
+            "en": "25% faster fire rate",
+            "ru": "Повышение скорострельности на 25%",
+            "fr": "Cadence de tir accrue de 25 %",
+            "pl": "O 25% większa szybkostrzelność."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "CUT_mod_Legendary_Weapon2_RadiationDamage",
+        "gameId": "004F5776",
+        "texts": {
+            "ru": "Радиоактивный",
+            "en": "Irradiated",
+            "fr": "[Radiations]",
+            "pl": "Naprom."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039934",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "RADDMG",
+        "additionalAbbreviations": [],
+        "translations": {
+            "en": "Converts damage to Radiation and adds 10%",
+            "ru": "Превращает урон в радиацию и добавляет 10%",
+            "fr": "Augmente les dégâts de 10 % et les convertit en radiations.",
+            "pl": "Zmienia obrażenia na obrażenia od promieniowania i dodaje 10%."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon2_Guns_ExplosiveBullets_Shotgun",
+        "gameId": "004F5771",
+        "texts": {
+            "ru": "Взрывной",
+            "en": "Explosive",
+            "fr": "Explosif",
+            "pl": "Wybuch."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "61001560",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "E",
+        "additionalAbbreviations": [
+            "Exp",
+            "E",
+            "X"
+        ],
+        "translations": {
+            "en": "Bullets explode for area damage.",
+            "ru": "Пули взрываются и наносят урон по площади.",
+            "fr": "Les balles explosent et infligent des dégâts de zone",
+            "pl": "Pociski eksplodują i zadają obrażenia obszarowe."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon2_Guns_DmgCrits",
+        "gameId": "0052414B",
+        "texts": {
+            "ru": "Счастливый",
+            "en": "Lucky",
+            "fr": "Lucky",
+            "pl": "Farciarz"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F86",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "50vats",
+        "additionalAbbreviations": [
+            "50V",
+            "crit",
+            "critical",
+            "critdmg",
+            "50crit",
+            "50%"
+        ],
+        "translations": {
+            "en": "V.A.T.S. critical shots do +50% damage",
+            "ru": "+50% к урону, наносимому критическими атаками в V.A.T.S.",
+            "fr": "Vos coups critiques en mode SVAV infligent +50 % de dégâts supplémentaires",
+            "pl": "Trafienia krytyczne w V.A.T.S. zadają +50% obrażeń."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon2_DmgLimbs",
+        "gameId": "0052BDBC",
+        "texts": {
+            "ru": "Калечащий",
+            "en": "Crippling",
+            "fr": "[Infirmité]",
+            "pl": "Okalecz."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "03A009",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "50L",
+        "additionalAbbreviations": [
+            "Limb",
+            "Limb Dmg"
+        ],
+        "translations": {
+            "en": "+50% limb damage",
+            "ru": "+50% к урону конечностям",
+            "fr": "+50 % de dégâts aux membres",
+            "pl": "+50% obrażeń zadawanych kończynom."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon3_Melee_StatEndurance",
+        "gameId": "004F6D82",
+        "texts": {
+            "ru": "Выносливость",
+            "en": "Endurance",
+            "fr": "Endurance",
+            "pl": "Wytrzymałość"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039AD7",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "E",
+        "additionalAbbreviations": [
+            "+1E",
+            "END"
+        ],
+        "translations": {
+            "en": "+1 Endurance",
+            "ru": "+1 к выносливости",
+            "fr": "Endurance +1",
+            "pl": "+1 do wytrzymałości"
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon3_Melee_LessDamagePowerAttack",
+        "gameId": "00527F77",
+        "texts": {
+            "ru": "Кавалерский",
+            "en": "Cavalier's",
+            "fr": "Cavalier",
+            "pl": "Rycersk."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039C45",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "40",
+        "additionalAbbreviations": [
+            "Power Attack",
+            "Sprint"
+        ],
+        "translations": {
+            "en": "Take 40% less damage while power attacking",
+            "ru": "Уменьшение урона при мощной атаке на 40%.",
+            "fr": "Réduit les dégâts de 40 % subis lorsque vous lancez une attaque puissante.",
+            "pl": "Zmniejsza o 40% otrzymywane obrażenia przy potężnym ataku."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon3_Guns_CritSpeed",
+        "gameId": "0052414C",
+        "texts": {
+            "ru": "Счастливый",
+            "en": "Lucky",
+            "fr": "Lucky",
+            "pl": "Farciarz"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F74",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "15",
+        "additionalAbbreviations": [
+            "Crit meter",
+            "VATS Crit"
+        ],
+        "translations": {
+            "en": "Your V.A.T.S. critical meter fills 15% faster",
+            "ru": "Индикатор критической атаки V.A.T.S. заполняется на 15% быстрее",
+            "fr": "La jauge de coup critique en mode SVAV se remplit 15 % plus vite",
+            "pl": "Wskaźnik trafień krytycznych w V.A.T.S. zapełnia się 15% szybciej."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon3_Melee_StatStrength",
+        "gameId": "004EE54E",
+        "texts": {
+            "ru": "Сила",
+            "en": "Strength",
+            "fr": "Force",
+            "pl": "Siła"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F17",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "S",
+        "additionalAbbreviations": [
+            "+1S",
+            "STR"
+        ],
+        "translations": {
+            "en": "+1 Strength",
+            "ru": "+1 к силе",
+            "fr": "Force +1",
+            "pl": "+1 do siły."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon3_Guns_VATSCostAP",
+        "gameId": "00524154",
+        "texts": {
+            "ru": "С улучшенным V.A.T.S.",
+            "en": "VATS Enhanced",
+            "fr": "[SVAV]",
+            "pl": "Wspom. V.A.T.S."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F80",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "25AP",
+        "additionalAbbreviations": [
+            "25",
+            "action",
+            "25ap",
+            "apcost",
+            "zerovats",
+            "ap",
+            "00524154",
+            "lvc",
+            "25%",
+            "betteraction"
+        ],
+        "translations": {
+            "en": "25% less V.A.T.S. Action Point cost",
+            "ru": "Уменьшает расход ОД на атаки в режиме V.A.T.S. на 25%.",
+            "fr": "Coût en points d'action SVAV réduit de 25 %",
+            "pl": "Zmniejszony o 25% koszt w punktach akcji w V.A.T.S."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon3_Durability",
+        "gameId": "0052BDBA",
+        "texts": {
+            "ru": "Прочность",
+            "en": "Durability",
+            "fr": "Solidité",
+            "pl": "Wytrzymałość"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "0421C8",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "50D",
+        "additionalAbbreviations": [
+            "Durability"
+        ],
+        "translations": {
+            "en": "50% more durability than normal",
+            "ru": "Прочность выше на 50%",
+            "fr": "Solidité augmentée de 50 %.",
+            "pl": "Przedmiot ma 50% wytrzymałości więcej niż normalnie."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon3_Guns_MoveSpeedSights",
+        "gameId": "004ED02E",
+        "texts": {
+            "ru": "Ловкий",
+            "en": "Nimble",
+            "fr": "Agilité",
+            "pl": "Poręczn."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039C5B",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "MS",
+        "additionalAbbreviations": [
+            "Move faster",
+            "MOV"
+        ],
+        "translations": {
+            "en": "Faster movement speed while aiming",
+            "ru": "Увеличенная скорость передвижения при прицеливании.",
+            "fr": "Augmente la vitesse des déplacements en visant.",
+            "pl": "Zwiększona prędkość ruchu przy celowaniu."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon3_Melee_LessDamageBlock",
+        "gameId": "00527F77",
+        "texts": {
+            "ru": "Кавалерский",
+            "en": "Cavalier's",
+            "fr": "Cavalier",
+            "pl": "Rycersk."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F67",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "15b",
+        "additionalAbbreviations": [
+            "Blocking",
+            "15b",
+            "Sprint"
+        ],
+        "translations": {
+            "en": "Take 15% less damage while blocking",
+            "ru": "Уменьшение урона при блоке на 15%.",
+            "fr": "Réduit les dégâts de 15 % quand vous bloquez une attaque.",
+            "pl": "Zmniejsza o 15% obrażenia przy blokowaniu."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon3_Guns_StatPerception",
+        "gameId": "004F6D81",
+        "texts": {
+            "ru": "Восприятие",
+            "en": "Perception",
+            "fr": "Perception",
+            "pl": "Percepcja"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039C05",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "P",
+        "additionalAbbreviations": [
+            "+1P",
+            "PER",
+            "1P"
+        ],
+        "translations": {
+            "en": "+1 Perception",
+            "ru": "+1 к восприятию",
+            "fr": "Perception +1",
+            "pl": "+1 do percepcji."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon3_Guns_ResistReload",
+        "gameId": "004F5777",
+        "texts": {
+            "ru": "Безотказный",
+            "en": "Resilient",
+            "fr": "Résilience",
+            "pl": "Wytrzym."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039A9A",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "250DR",
+        "additionalAbbreviations": [
+            "Reload DR",
+            "250"
+        ],
+        "translations": {
+            "en": "+250 Damage Resistance while reloading",
+            "ru": "+250 к сопротивляемости урону при перезарядке.",
+            "fr": "Résistance aux dégâts +250 en rechargeant",
+            "pl": "+250 do odporności na uszkodzenia w trakcie przeładowywania."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon3_Guns_ResistSights",
+        "gameId": "004F5772",
+        "texts": {
+            "ru": "Надежный",
+            "en": "Steadfast",
+            "fr": "Ferme",
+            "pl": "Stabiln."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039E83",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "50",
+        "additionalAbbreviations": [
+            "Aim DR",
+            "ADR"
+        ],
+        "translations": {
+            "en": "+50 Damage Resistance while aiming",
+            "ru": "+50 к сопротивляемости урону при прицеливании.",
+            "fr": "Résistance aux dégâts +50 en visant.",
+            "pl": "+50 do odporności na obrażenia fizyczne przy korzystaniu z celownika"
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon3_Weight",
+        "gameId": "00529a14",
+        "texts": {
+            "ru": "Легкая",
+            "en": "Lightweight",
+            "fr": "Poids plume",
+            "pl": "Lekk."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F7E",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "90",
+        "additionalAbbreviations": [
+            "RW",
+            "W"
+        ],
+        "translations": {
+            "en": "90% reduced weight",
+            "ru": "Вес снижен на 90%",
+            "fr": "Réduit le poids de 90 %",
+            "pl": "Ciężar zmniejszony o 90%."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon3_StatAgility",
+        "gameId": "004F6D85",
+        "texts": {
+            "ru": "Ловкость",
+            "en": "Agility",
+            "fr": "Agilité",
+            "pl": "Zwinność"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "03A4F1",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "AGI",
+        "additionalAbbreviations": [
+            "+1A",
+            "A"
+        ],
+        "translations": {
+            "en": "+1 Agility",
+            "ru": "+1 к ловкости",
+            "fr": "Agilité +1",
+            "pl": "+1 do zwinności."
+        },
+        "itemType": "WEAPON"
+    },
+    {
+        "id": "mod_Legendary_Weapon3_Guns_ReloadSpeed",
+        "gameId": "00524150",
+        "texts": {
+            "ru": "Стремительный",
+            "en": "Rapid",
+            "fr": "[Rapidité]",
+            "pl": "Dynamicz."
+        },
+        "rec": "OMOD:FULL",
+        "sid": "039F7C",
+        "enabled": true,
+        "star": 3,
+        "abbreviation": "15R",
+        "additionalAbbreviations": [
+            "15R",
+            "Reload",
+            "RE",
+            "FR"
+        ],
+        "translations": {
+            "en": "15% faster reload",
+            "ru": "Ускорение перезарядки на 15%",
+            "fr": "Vitesse de rechargement accrue de 15 %",
+            "pl": "O 15% szybsze przeładowanie."
+        },
+        "itemType": "WEAPON"
+    }
+]
