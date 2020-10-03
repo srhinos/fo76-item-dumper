@@ -9,7 +9,11 @@ from pprint import pprint
 
 import aiohttp
 
-from item_dump_parser.constants import FED76_MAPPING_URL, OUTPUT_STRING_FORMAT
+from item_dump_parser.constants import (
+    FED76_MAPPING_URL,
+    OUTPUT_STRING_FORMAT,
+    OUPUT_ONLY_NEW,
+)
 from item_dump_parser.models.item import Item
 from item_dump_parser.utils import load_json, write_json, write_file
 
@@ -68,15 +72,28 @@ class ItemProcessor:
         As of my writing this, it apply the output string format to each item and writes it to a file
         """
         output = []
+        previous_output = None
         try:
+
+            if OUPUT_ONLY_NEW:
+                if os.path.exists("previous_output.json"):
+                    previous_output = set(load_json("previous_output.json"))
+                else:
+                    previous_output = set([])
+
             for item in self.item_list:
-                if item.item_type.startswith("ARMOR") or item.item_type.startswith(
-                    "WEAPON"
-                ):
-                    if item.item_level == 0:
-                        pprint(dict(item))
-                    output.append(OUTPUT_STRING_FORMAT.format(item))
+                if item.item_type.startswith("WEAPON"):
+                    if previous_output is not None:
+                        if item.gen_hash() not in previous_output:
+                            output.append(OUTPUT_STRING_FORMAT.format(item))
+                            previous_output.add(item.gen_hash())
+                    else:
+                        output.append(OUTPUT_STRING_FORMAT.format(item))
+
             write_file("item_dump.txt", output)
+            if previous_output:
+                write_json("previous_output.json", list(previous_output))
+
         except Exception:
             traceback.print_exc()
 

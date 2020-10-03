@@ -1,18 +1,20 @@
+import hashlib
+import json
 from logging import Filter
+
+from item_dump_parser.constants import (
+    ARMOR_LIMB_IDENTIFIER_STRINGS,
+    ARMOR_MAPPING,
+    ITEM_TYPE_MAPPING,
+    LEGENDARY_MAPPING,
+    LEGENDARY_REMAPPING,
+    SKIPPED_LEGENDARY_EFFECTS,
+    UNUSED_ARMOR_KEYWORDS,
+)
 from item_dump_parser.models.damage_type import DamageTypes
 from item_dump_parser.models.filter_flag import FilterFlags
 from item_dump_parser.models.item_card_text import ItemCardTexts
-from item_dump_parser.constants import (
-    LEGENDARY_MAPPING,
-    ARMOR_MAPPING,
-    ITEM_TYPE_MAPPING,
-    NAME_MODS_MAPPING,
-    ARMOR_LIMB_IDENTIFIER_STRINGS,
-    UNUSED_ARMOR_KEYWORDS,
-    LEGENDARY_REMAPPING,
-    SKIPPED_LEGENDARY_EFFECTS,
-)
-from item_dump_parser.utils import find as find_in_iter, load_json
+from item_dump_parser.utils import find as find_in_iter
 
 __all__ = ["Item"]
 
@@ -327,6 +329,14 @@ class Item:
         yield "filter_flag_text", self.filter_flag_text,
 
         yield "plain_name", self.plain_name,
+
+    def gen_hash(self):
+        self_dict = dict(self)
+        del self_dict["count"]
+        del self_dict["server_handle_id"]
+        return hashlib.md5(
+            json.dumps(self_dict, sort_keys=True).encode("utf-8")
+        ).hexdigest()
 
     def __str__(self):
         return f"{dict(self)}"

@@ -26,3 +26,5 @@ SKIPPED_LEGENDARY_EFFECTS = {
 }
 
 OUTPUT_STRING_FORMAT = "{0.plain_name}\t{0.item_level}\t{0.one_star_effect}\t{0.two_star_effect}\t{0.three_star_effect}\t\t\t\t\t\t{0.character}"
+
+OUPUT_ONLY_NEW = True
