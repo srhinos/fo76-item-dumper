@@ -563,7 +563,7 @@
         "gameId": "004F6D86",
         "texts": {
             "ru": "Удача",
-            "en": "Luck",
+            "en": "1 Luck",
             "fr": "Chance",
             "pl": "Szczęście"
         },
@@ -695,7 +695,7 @@
         "gameId": "004F6D84",
         "texts": {
             "ru": "Интеллект",
-            "en": "Intelligence",
+            "en": "1 Intelligence",
             "fr": "Intelligence",
             "pl": "Inteligencja"
         },
@@ -931,7 +931,7 @@
         "gameId": "00527F78",
         "texts": {
             "ru": "Уменьшенный вес оружия",
-            "en": "Reduced weapon weight",
+            "en": "Reduced Weapon Weight",
             "fr": "Poids de l'arme réduit",
             "pl": "Zmniejszony ciężar broni"
         },
