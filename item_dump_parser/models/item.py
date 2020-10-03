@@ -9,7 +9,10 @@ from item_dump_parser.constants import (
     LEGENDARY_MAPPING,
     LEGENDARY_REMAPPING,
     SKIPPED_LEGENDARY_EFFECTS,
-    UNUSED_ARMOR_KEYWORDS,
+    UNUSED_KEYWORDS,
+    KEYWORD_REMAPPING,
+    MY_STUPID_NAMES_FOR_ITEMS_I_OWN,
+    HACKED_BULLSHIT,
 )
 from item_dump_parser.models.damage_type import DamageTypes
 from item_dump_parser.models.filter_flag import FilterFlags
@@ -93,9 +96,9 @@ class Item:
         self.character = kwargs.get("character")
 
         self.legendary_effects = []
-        self.one_star_effect = None
-        self.two_star_effect = None
-        self.three_star_effect = None
+        self.one_star_effect = ""
+        self.two_star_effect = ""
+        self.three_star_effect = ""
 
         self.item_type = None
         self.description = None
@@ -162,7 +165,7 @@ class Item:
 
         item_found = find_in_iter(
             lambda m: all(
-                elem.lower() in self.text.lower().split()
+                elem.lower() in self.jazz_up_text(self.text).lower().split()
                 for elem in self.drop_unused_keywords(m["text"]).split()
             ),
             ITEM_TYPE_MAPPING,
@@ -170,6 +173,10 @@ class Item:
 
         if self.filter_flag_text == FilterFlags.ARMOR_OUTFIT.name:
             self.item_type = "ARMOR_OUTFIT"
+
+        if not item_found:
+            if self.text in MY_STUPID_NAMES_FOR_ITEMS_I_OWN:
+                item_found = MY_STUPID_NAMES_FOR_ITEMS_I_OWN[self.text]
 
         if item_found:
             if not self.item_type:
@@ -194,8 +201,31 @@ class Item:
             Leather Armor as common name but Hardened Leather Left Leg is the in game name
         """
         return " ".join(
-            [item for item in str_text.split(" ") if item not in UNUSED_ARMOR_KEYWORDS]
+            [item for item in str_text.split(" ") if item not in UNUSED_KEYWORDS]
         )
+
+    def jazz_up_text(self, str_text):
+        """
+        Makes the lazy in game text match the jazzed up text from the files
+        Ex:
+            Lever Action Rifle is Lever-Action Rifle in the files
+            50 cal machine gun is .50 cal machine gun in the files
+        """
+        for old_string, new_string in KEYWORD_REMAPPING.items():
+            str_text = str_text.replace(old_string, new_string)
+
+        if (
+            any(
+                [
+                    item
+                    for item in ARMOR_LIMB_IDENTIFIER_STRINGS
+                    if item in str_text.lower()
+                ]
+            )
+            and "Armor" not in str_text
+        ):
+            str_text = str_text + (" Armor")
+        return str_text
 
     def process_armor_grade(self):
         """
@@ -250,8 +280,15 @@ class Item:
             if effect_string in LEGENDARY_REMAPPING:
                 effect_string = LEGENDARY_REMAPPING[effect_string]
 
+            print(self.item_type)
+            print(self.text)
             effect = find_in_iter(
-                lambda m: m["translations"]["en"] == effect_string, LEGENDARY_MAPPING
+                lambda m: m["translations"]["en"] == effect_string
+                and (
+                    self.text in HACKED_BULLSHIT
+                    or m["itemType"][:1] == self.item_type[:1]
+                ),
+                LEGENDARY_MAPPING,
             )
             if not effect:
                 print(item_card)
