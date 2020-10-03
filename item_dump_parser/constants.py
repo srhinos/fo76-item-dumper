@@ -2,6 +2,10 @@ from item_dump_parser.utils import load_json
 
 FED76_MAPPING_URL = "https://fed76.info/pricing/mapping"
 
+FED76_PRICING_URL = "https://fed76.info/pricing-api/"
+
+ALERT_ON_WEB_REQUESTS = True
+
 AMMO_MAPPING = load_json("resources/ammo.types.json")
 ARMOR_MAPPING = load_json("resources/armor.config.json")
 ITEM_TYPE_MAPPING = load_json("resources/itemTypes.config.json")
@@ -25,15 +29,15 @@ MY_STUPID_NAMES_FOR_ITEMS_I_OWN = {
         "text": "Sledge No Hammer",
         "abbreviation": "sledgehammer",
     },
+    "(DNS) Combat No Knife": {
+        "type": "WEAPON_MELEE",
+        "text": "Combat Knife",
+        "abbreviation": "combatknife",
+    },
     "(.DNS) CONFETTI 4 ALL": {
         "type": "WEAPON_RANGED",
         "text": "DEVROOM PISTOL",
         "abbreviation": "10mm",
-    },
-    "(DNS) Combat No Knife": {
-        "type": "WEAPON_MELEE",
-        "text": "Combat No Knife",
-        "abbreviation": "combatknife",
     },
     "(.DNS) Radiator": {
         "type": "WEAPON_RANGED",
@@ -90,32 +94,27 @@ MY_STUPID_NAMES_FOR_ITEMS_I_OWN = {
         "text": "Double-barrel shotgun",
         "abbreviation": "doublebarrel",
     },
+    "[GOD] Gauntlet": {
+        "type": "WEAPON_MELEE",
+        "text": "Bullion Gauntlet",
+        "abbreviation": "bullgauntlet",
+    },
 }
 
-HACKED_BULLSHIT = [
-    "The Captain's Hat",
-    "Lucky Rabbit's Foot",
-    "Orbital Strike",
-    "(DNS) Beth Fix Cripple;_;",
-    "(DNS) Handmade",
-    "(DNS) Minigun-gun",
-    "Bloodied Animatronic Alien Blaster",
-]
+HACKED_BULLSHIT = {
+    "The Captain's Hat": "ARMOR",
+    "Lucky Rabbit's Foot": "WEAPON",
+    "Orbital Strike": "WEAPON",
+    "(DNS) Beth Fix Cripple;_;": "WEAPON",
+    "(DNS) Handmade": "WEAPON",
+    "(DNS) Minigun-gun": "WEAPON",
+    "Bloodied Animatronic Alien Blaster": "WEAPON",
+}
 
 LEGENDARY_REMAPPING = {
     "Bullets explode on impact doing 15 points area effect damage.": "Bullets explode for area damage."
 }
 
-SKIPPED_LEGENDARY_EFFECTS = {
-    "SET BONUS (1/5): Melee targets and melee attackers bleed. Harder to detect while sneaking.",
-    "SET BONUS (2/5): Melee targets and melee attackers bleed. Harder to detect while sneaking.",
-    "SET BONUS (3/5): Melee targets and melee attackers bleed. Harder to detect while sneaking.",
-    "SET BONUS (4/5): Melee targets and melee attackers bleed. Harder to detect while sneaking.",
-    "SET BONUS (5/5): Melee targets and melee attackers bleed. Harder to detect while sneaking.",
-    "Target is poisoned for 50 damage over 10 seconds",
-    "Gain +5% accuracy with guns",
-}
-
-OUTPUT_STRING_FORMAT = "{0.plain_name}\t{0.item_level}\t{0.one_star_effect}\t{0.two_star_effect}\t{0.three_star_effect}\t\t\t\t\t\t{0.character}"
+OUTPUT_STRING_FORMAT = "{0.plain_name}\t{0.item_level}\t{0.one_star_effect_str}\t{0.two_star_effect_str}\t{0.three_star_effect_str}\t\t\t\t\t\t{0.character}"
 
 OUPUT_ONLY_NEW = True

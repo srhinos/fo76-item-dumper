@@ -1,18 +1,21 @@
 import hashlib
+import logging
+from item_dump_parser import main
 import json
-from logging import Filter
 
+import aiohttp
 from item_dump_parser.constants import (
     ARMOR_LIMB_IDENTIFIER_STRINGS,
     ARMOR_MAPPING,
+    FED76_PRICING_URL,
+    HACKED_BULLSHIT,
     ITEM_TYPE_MAPPING,
+    KEYWORD_REMAPPING,
     LEGENDARY_MAPPING,
     LEGENDARY_REMAPPING,
-    SKIPPED_LEGENDARY_EFFECTS,
-    UNUSED_KEYWORDS,
-    KEYWORD_REMAPPING,
     MY_STUPID_NAMES_FOR_ITEMS_I_OWN,
-    HACKED_BULLSHIT,
+    UNUSED_KEYWORDS,
+    ALERT_ON_WEB_REQUESTS,
 )
 from item_dump_parser.models.damage_type import DamageTypes
 from item_dump_parser.models.filter_flag import FilterFlags
@@ -96,12 +99,18 @@ class Item:
         self.character = kwargs.get("character")
 
         self.legendary_effects = []
-        self.one_star_effect = ""
-        self.two_star_effect = ""
-        self.three_star_effect = ""
+        self.one_star_effect = {}
+        self.two_star_effect = {}
+        self.three_star_effect = {}
+        self.one_star_effect_str = ""
+        self.two_star_effect_str = ""
+        self.three_star_effect_str = ""
 
         self.item_type = None
         self.description = None
+        self.item_abbreviation = None
+        self.fed76_resp = None
+        self.fed76_value = None
 
         self.armor_grade = None
         self.damage_resistance = None
@@ -163,20 +172,25 @@ class Item:
             self.plain_name = self.text
             return
 
-        item_found = find_in_iter(
-            lambda m: all(
-                elem.lower() in self.jazz_up_text(self.text).lower().split()
-                for elem in self.drop_unused_keywords(m["text"]).split()
-            ),
-            ITEM_TYPE_MAPPING,
-        )
+        def checker_func(m):
+            main_text = self.jazz_up_text(self.text)
+            if self.filter_flag_text == FilterFlags.WEAPON_RANGED.name:
+                checked_text = self.drop_rifle_keyword(m["text"])
+            else:
+                checked_text = m["text"]
+            boolean_values = [
+                elem.lower() in main_text.lower().split()
+                for elem in checked_text.split()
+            ]
+            return all(boolean_values)
+
+        item_found = find_in_iter(checker_func, ITEM_TYPE_MAPPING,)
 
         if self.filter_flag_text == FilterFlags.ARMOR_OUTFIT.name:
             self.item_type = "ARMOR_OUTFIT"
 
-        if not item_found:
-            if self.text in MY_STUPID_NAMES_FOR_ITEMS_I_OWN:
-                item_found = MY_STUPID_NAMES_FOR_ITEMS_I_OWN[self.text]
+        if self.text in MY_STUPID_NAMES_FOR_ITEMS_I_OWN:
+            item_found = MY_STUPID_NAMES_FOR_ITEMS_I_OWN[self.text]
 
         if item_found:
             if not self.item_type:
@@ -190,15 +204,14 @@ class Item:
                 ]
             )
             self.plain_name = text
+            self.item_abbreviation = item_found["abbreviation"]
 
         if not self.item_type:
             self.item_type = "UNKNOWN"
 
-    def drop_unused_keywords(self, str_text):
+    def drop_rifle_keyword(self, str_text):
         """
-        Takes in common armor names and drops the strings never actually used
-        Ex:
-            Leather Armor as common name but Hardened Leather Left Leg is the in game name
+        This function has gotten annoyingly specific, it just drops the word rifle from ranged weapon strings
         """
         return " ".join(
             [item for item in str_text.split(" ") if item not in UNUSED_KEYWORDS]
@@ -254,11 +267,14 @@ class Item:
                         if effect:
                             self.legendary_effects.append(effect)
                             if effect["star"] == 1:
-                                self.one_star_effect = effect["texts"]["en"]
+                                self.one_star_effect = effect
+                                self.one_star_effect_str = effect["texts"]["en"]
                             elif effect["star"] == 2:
-                                self.two_star_effect = effect["texts"]["en"]
+                                self.two_star_effect = effect
+                                self.two_star_effect_str = effect["texts"]["en"]
                             elif effect["star"] == 3:
-                                self.three_star_effect = effect["texts"]["en"]
+                                self.three_star_effect = effect
+                                self.three_star_effect_str = effect["texts"]["en"]
                 else:
                     self.description = item_card["value"]
 
@@ -274,22 +290,19 @@ class Item:
         effects = []
         for effect_string in effect_strings:
 
-            if effect_string in SKIPPED_LEGENDARY_EFFECTS:
-                continue
-
             if effect_string in LEGENDARY_REMAPPING:
                 effect_string = LEGENDARY_REMAPPING[effect_string]
 
-            print(self.item_type)
-            print(self.text)
-            effect = find_in_iter(
-                lambda m: m["translations"]["en"] == effect_string
-                and (
-                    self.text in HACKED_BULLSHIT
-                    or m["itemType"][:1] == self.item_type[:1]
-                ),
-                LEGENDARY_MAPPING,
-            )
+            def check_func(m):
+                return m["translations"]["en"] == effect_string and (
+                    m["itemType"][:1] == self.item_type[:1]
+                    or (
+                        HACKED_BULLSHIT.get(self.text)
+                        and m["itemType"][:1] == HACKED_BULLSHIT[self.text][:1]
+                    )
+                )
+
+            effect = find_in_iter(check_func, LEGENDARY_MAPPING,)
             if not effect:
                 print(item_card)
                 print(effect_string)
@@ -323,6 +336,48 @@ class Item:
 
         return item_card
 
+    async def get_fed76_value(self, cached_resp=None):
+        checks = [
+            self.plain_name is None,
+            self.item_type == FilterFlags.UNKNOWN.name,
+            self.is_tradable is False,
+            self.is_legendary is False,
+            self.one_star_effect_str == "Concussive",
+            self.item_abbreviation == "alienblaster",
+            self.item_abbreviation == "bullgauntlet",
+        ]
+        if any(checks):
+            return
+        params = {
+            "item": self.item_abbreviation,
+            "mods": "/".join(
+                [
+                    item
+                    for item in [
+                        self.one_star_effect.get("gameId"),
+                        self.two_star_effect.get("gameId"),
+                        self.three_star_effect.get("gameId"),
+                    ]
+                    if item
+                ]
+            ),
+        }
+
+        if cached_resp:
+            resp = cached_resp
+        else:
+            if ALERT_ON_WEB_REQUESTS:
+                logging.warning(
+                    f"[POST] -> FED76 (Reason: Pricing Check for {self.text})"
+                )
+            async with aiohttp.ClientSession() as sess:
+                async with sess.get(FED76_PRICING_URL, params=params) as r:
+                    resp = await r.json()
+
+        self.fed76_resp = resp
+        self.fed76_value = resp["price"]
+        return resp
+
     def __iter__(self):
         yield "text", self.text,
         yield "server_handle_id", self.server_handle_id,
@@ -351,6 +406,9 @@ class Item:
         yield "character", self.character,
 
         yield "legendary_effects", self.legendary_effects,
+        yield "one_star_effect_str", self.one_star_effect,
+        yield "two_star_effect_str", self.two_star_effect,
+        yield "three_star_effect_str", self.three_star_effect,
         yield "one_star_effect", self.one_star_effect,
         yield "two_star_effect", self.two_star_effect,
         yield "three_star_effect", self.three_star_effect,

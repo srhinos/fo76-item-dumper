@@ -13,6 +13,7 @@ from item_dump_parser.constants import (
     FED76_MAPPING_URL,
     OUTPUT_STRING_FORMAT,
     OUPUT_ONLY_NEW,
+    ALERT_ON_WEB_REQUESTS,
 )
 from item_dump_parser.models.item import Item
 from item_dump_parser.utils import load_json, write_json, write_file
@@ -35,7 +36,7 @@ class ItemProcessor:
         """
         loop = asyncio.get_event_loop()
         try:
-            # loop.run_until_complete(self.get_fed76_mapping_data())
+            loop.run_until_complete(self.get_fed76_mapping_data())
             loop.run_until_complete(self.build())
         except Exception:
             for task in asyncio.Task.all_tasks():
@@ -44,11 +45,16 @@ class ItemProcessor:
             loop.close()
 
     async def get_fed76_mapping_data(self):
-        async with aiohttp.ClientSession() as sess:
-            async with sess.get(FED76_MAPPING_URL) as r:
-                fed76_mapping = await r.json()
+        try:
+            if ALERT_ON_WEB_REQUESTS:
+                logging.warning(f"[GET] -> FED76 (Reason: Fetching Mappings)")
+            async with aiohttp.ClientSession() as sess:
+                async with sess.get(FED76_MAPPING_URL) as r:
+                    fed76_mapping = await r.json()
 
-        write_json("fed76_mapping.json", fed76_mapping)
+            write_json("fed76_mapping.json", fed76_mapping)
+        except Exception:
+            traceback.print_exc()
 
     async def build(self, **filter_kwargs):
         """
@@ -58,10 +64,20 @@ class ItemProcessor:
         """
         try:
             await self.filter_player_data(**filter_kwargs)
+            fed76_resp_cache = load_json("fed76_resp_cache.json")
+
             for json_item in self.item_dump_json:
                 item = Item(**json_item)
                 if item:
+                    item_hash = item.gen_hash()
+                    if item_hash not in fed76_resp_cache:
+                        resp = await item.get_fed76_value()
+                        fed76_resp_cache[item_hash] = resp
+                    else:
+                        await item.get_fed76_value(fed76_resp_cache[item_hash])
+
                     self.item_list.append(item)
+            write_json("fed76_resp_cache.json", fed76_resp_cache)
         except Exception as e:
             traceback.print_exc()
             raise e
