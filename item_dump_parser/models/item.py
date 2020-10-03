@@ -6,6 +6,7 @@ import json
 import aiohttp
 from item_dump_parser.constants import (
     ARMOR_LIMB_IDENTIFIER_STRINGS,
+    ARMOR_META_IDENTIFIER_STRINGS,
     ARMOR_MAPPING,
     FED76_PRICING_URL,
     HACKED_BULLSHIT,
@@ -16,6 +17,7 @@ from item_dump_parser.constants import (
     MY_STUPID_NAMES_FOR_ITEMS_I_OWN,
     UNUSED_KEYWORDS,
     ALERT_ON_WEB_REQUESTS,
+    FILTERED_STRINGS,
 )
 from item_dump_parser.models.damage_type import DamageTypes
 from item_dump_parser.models.filter_flag import FilterFlags
@@ -195,14 +197,28 @@ class Item:
         if item_found:
             if not self.item_type:
                 self.item_type = item_found["type"]
-            text = item_found["text"]
-            text = text + " ".join(
+            text = self.filter_words_from_plain_name(item_found["text"])
+            appended_text = " ".join(
                 [
                     item
                     for item in self.text.split()
-                    if item in ARMOR_LIMB_IDENTIFIER_STRINGS
+                    if item.lower() in ARMOR_LIMB_IDENTIFIER_STRINGS
                 ]
             )
+            inserted_text = " ".join(
+                [
+                    item
+                    for item in self.text.split()
+                    if item.lower() in ARMOR_META_IDENTIFIER_STRINGS
+                ]
+            )
+
+            if appended_text:
+                text = text + f" {appended_text}"
+
+            if inserted_text:
+                text = f"{inserted_text} " + text
+
             self.plain_name = text
             self.item_abbreviation = item_found["abbreviation"]
 
@@ -215,6 +231,14 @@ class Item:
         """
         return " ".join(
             [item for item in str_text.split(" ") if item not in UNUSED_KEYWORDS]
+        )
+
+    def filter_words_from_plain_name(self, str_plain_name):
+        """
+        Another stupidly specific function, for removing Armor from armor names
+        """
+        return " ".join(
+            [item for item in str_plain_name.split(" ") if item not in FILTERED_STRINGS]
         )
 
     def jazz_up_text(self, str_text):

@@ -14,7 +14,11 @@ NAME_MODS_MAPPING = load_json("resources/name.modifiers.json")
 
 ARMOR_LIMB_IDENTIFIER_STRINGS = {"arm", "leg", "chest", "left", "right", "mask"}
 
+ARMOR_META_IDENTIFIER_STRINGS = {"urban", "forest"}
+
 UNUSED_KEYWORDS = ["Rifle"]
+
+FILTERED_STRINGS = ["Armor"]
 
 KEYWORD_REMAPPING = {
     "50 Cal": ".50 Cal",
