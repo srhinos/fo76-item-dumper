@@ -115,6 +115,6 @@ LEGENDARY_REMAPPING = {
     "Bullets explode on impact doing 15 points area effect damage.": "Bullets explode for area damage."
 }
 
-OUTPUT_STRING_FORMAT = "{0.plain_name}\t{0.item_level}\t{0.one_star_effect_str}\t{0.two_star_effect_str}\t{0.three_star_effect_str}\t\t\t\t\t\t{0.character}"
+OUTPUT_STRING_FORMAT = "{0.plain_name}\t{0.item_level}\t{0.one_star_effect_str}\t{0.two_star_effect_str}\t{0.three_star_effect_str}\t\t\t\t\t\t{0.character}\t{0.fed76_value}"
 
 OUPUT_ONLY_NEW = True

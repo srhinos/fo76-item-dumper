@@ -98,7 +98,11 @@ class ItemProcessor:
                     previous_output = set([])
 
             for item in self.item_list:
-                if item.item_type.startswith("WEAPON"):
+                if (
+                    item.item_type.startswith("WEAPON")
+                    and item.fed76_value
+                    and int(item.fed76_value) > 10000
+                ):
                     if previous_output is not None:
                         if item.gen_hash() not in previous_output:
                             output.append(OUTPUT_STRING_FORMAT.format(item))
