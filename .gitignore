@@ -2,6 +2,7 @@
 ItemExtractorMod/*.json
 item_dump.txt
 previous_output.json
+fed76_resp_cache.json
 
 ##### VSCODE GENERATED ######
 # Byte-compiled / optimized / DLL files
