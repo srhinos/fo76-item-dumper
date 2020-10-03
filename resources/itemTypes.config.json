@@ -11,6 +11,16 @@
     },
     {
         "type": "ARMOR",
+        "text": "Thorn Armor",
+        "abbreviation": "thorn"
+    },
+    {
+        "type": "ARMOR",
+        "text": "Secret Service Armor",
+        "abbreviation": "secretservice"
+    },
+    {
+        "type": "ARMOR",
         "text": "Marine Armor",
         "abbreviation": "marine"
     },
@@ -246,6 +256,11 @@
     },
     {
         "type": "WEAPON_RANGED",
+        "text": "Alien Blaster",
+        "abbreviation": "alienblaster"
+    },
+    {
+        "type": "WEAPON_RANGED",
         "text": "Plasma Gun",
         "abbreviation": "plasma"
     },
@@ -396,6 +411,11 @@
     },
     {
         "type": "WEAPON_MELEE",
+        "text": "Gauntlet",
+        "abbreviation": "gauntlet"
+    },
+    {
+        "type": "WEAPON_MELEE",
         "text": "Fire Axe",
         "abbreviation": "fireaxe"
     },
@@ -538,6 +558,11 @@
         "type": "WEAPON_MELEE",
         "text": "Sledgehammer",
         "abbreviation": "sledgehammer"
+    },
+    {
+        "type": "WEAPON_MELEE",
+        "text": "Tenderizer",
+        "abbreviation": "tenderizer"
     },
     {
         "type": "WEAPON_MELEE",

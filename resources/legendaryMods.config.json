@@ -511,7 +511,7 @@
         "gameId": "004F6D81",
         "texts": {
             "ru": "Восприятие",
-            "en": "Perception",
+            "en": "1 Perception",
             "fr": "Perception",
             "pl": "Percepcja"
         },
@@ -537,7 +537,7 @@
         "gameId": "004F6D85",
         "texts": {
             "ru": "Ловкость",
-            "en": "Agility",
+            "en": "1 Agility",
             "fr": "Agilité",
             "pl": "Zwinność"
         },
@@ -589,7 +589,7 @@
         "gameId": "004EE54E",
         "texts": {
             "ru": "Сила",
-            "en": "Strength",
+            "en": "1 Strength",
             "fr": "Force",
             "pl": "Siła"
         },
@@ -615,7 +615,7 @@
         "gameId": "004F6D82",
         "texts": {
             "ru": "Выносливость",
-            "en": "Endurance",
+            "en": "1 Endurance",
             "fr": "Endurance",
             "pl": "Wytrzymałość"
         },
@@ -1810,7 +1810,7 @@
         "gameId": "001A7BDA",
         "texts": {
             "ru": "Скорость атаки в ближнем бою",
-            "en": "Melee Speed",
+            "en": "Swing Speed",
             "fr": "Vitesse de mêlée",
             "pl": "Szybkość w walce w zwarciu"
         },
@@ -2110,7 +2110,7 @@
         "gameId": "004F6D82",
         "texts": {
             "ru": "Выносливость",
-            "en": "Endurance",
+            "en": "1 Endurance",
             "fr": "Endurance",
             "pl": "Wytrzymałość"
         },
@@ -2188,7 +2188,7 @@
         "gameId": "004EE54E",
         "texts": {
             "ru": "Сила",
-            "en": "Strength",
+            "en": "1 Strength",
             "fr": "Force",
             "pl": "Siła"
         },
@@ -2326,7 +2326,7 @@
         "gameId": "004F6D81",
         "texts": {
             "ru": "Восприятие",
-            "en": "Perception",
+            "en": "1 Perception",
             "fr": "Perception",
             "pl": "Percepcja"
         },
@@ -2431,7 +2431,7 @@
         "gameId": "004F6D85",
         "texts": {
             "ru": "Ловкость",
-            "en": "Agility",
+            "en": "1 Agility",
             "fr": "Agilité",
             "pl": "Zwinność"
         },
