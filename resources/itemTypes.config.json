@@ -411,8 +411,8 @@
     },
     {
         "type": "WEAPON_MELEE",
-        "text": "Gauntlet",
-        "abbreviation": "gauntlet"
+        "text": "Bullion Gauntlet",
+        "abbreviation": "bullgauntlet"
     },
     {
         "type": "WEAPON_MELEE",
@@ -562,7 +562,7 @@
     {
         "type": "WEAPON_MELEE",
         "text": "Tenderizer",
-        "abbreviation": "tenderizer"
+        "abbreviation": "Tender"
     },
     {
         "type": "WEAPON_MELEE",

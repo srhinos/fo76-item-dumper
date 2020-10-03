@@ -132,7 +132,7 @@
     },
     {
         "id": "mod_Legendary_Weapon1_DmgVsBugs",
-        "gameId": "004F6D7C",
+        "gameId": "001F81EB",
         "texts": {
             "ru": "Истребителя",
             "en": "Exterminator's",
@@ -1296,7 +1296,7 @@
     },
     {
         "id": "mod_Legendary_Weapon1_DmgVsPlayers",
-        "gameId": "004F6D78",
+        "gameId": "004F5770",
         "texts": {
             "ru": "Убийственный",
             "en": "Assassin's",
@@ -1324,7 +1324,7 @@
     },
     {
         "id": "mod_Legendary_Weapon1_DmgVsScorched",
-        "gameId": "004EE548",
+        "gameId": "004ED02B",
         "texts": {
             "ru": "Зилотская",
             "en": "Zealot's",
@@ -1378,7 +1378,7 @@
     },
     {
         "id": "mod_Legendary_Weapon1_DamageNight",
-        "gameId": "00524143",
+        "gameId": "004F6AAE",
         "texts": {
             "ru": "Ночной",
             "en": "Nocturnal",
@@ -1403,7 +1403,7 @@
     },
     {
         "id": "mod_Legendary_Weapon1_DmgWithMutation",
-        "gameId": "00529A0C",
+        "gameId": "005299F5",
         "texts": {
             "ru": "Мутантный",
             "en": "Mutant's",
@@ -1509,7 +1509,7 @@
     },
     {
         "id": "mod_Legendary_Weapon1_DmgVsGhouls",
-        "gameId": "004F6D7E",
+        "gameId": "004F5779",
         "texts": {
             "ru": "Антирадиационный",
             "en": "Ghoul Slayer's",
@@ -1562,7 +1562,7 @@
     },
     {
         "id": "mod_Legendary_Weapon1_DmgVsRobots",
-        "gameId": "004F6D7F",
+        "gameId": "004F577C",
         "texts": {
             "ru": "Механика",
             "en": "Troubleshooter's",
@@ -1643,7 +1643,7 @@
     },
     {
         "id": "mod_Legendary_Weapon1_DmgVsAnimals",
-        "gameId": "004F6D7D",
+        "gameId": "004F577A",
         "texts": {
             "ru": "Охотничий",
             "en": "Hunter's",
@@ -1721,7 +1721,7 @@
     },
     {
         "id": "mod_Legendary_Weapon1_DmgVsSupermutants",
-        "gameId": "004F6D80",
+        "gameId": "004F577B",
         "texts": {
             "ru": "Мутантоистребительный",
             "en": "Mutant Slayer's",
@@ -2000,6 +2000,65 @@
         "itemType": "WEAPON"
     },
     {
+        "id": "mod_Armor_Set_V94_Bleed_TextDummy",
+        "gameId": "00556F30",
+        "texts": {
+            "en": "Thorn Armor Set Bonus"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "",
+        "enabled": true,
+        "star": 4,
+        "abbreviation": "THRN",
+        "additionalAbbreviations": [
+            "V94"
+        ],
+        "translations": {
+            "en": "SET BONUS (5/5): Melee targets and melee attackers bleed. Harder to detect while sneaking."
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Armor4_GunAccuracy",
+        "gameId": "00556F30",
+        "texts": {
+            "en": "Gun Accuracy"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "",
+        "enabled": true,
+        "star": 4,
+        "abbreviation": "GA",
+        "additionalAbbreviations": [
+            "5GA",
+            "Acc"
+        ],
+        "translations": {
+            "en": "Gain +5% accuracy with guns"
+        },
+        "itemType": "ARMOR"
+    },
+    {
+        "id": "mod_Legendary_Weapon4_Poison",
+        "gameId": "004F5778",
+        "texts": {
+            "en": "Poisoner's"
+        },
+        "rec": "OMOD:FULL",
+        "sid": "",
+        "enabled": true,
+        "star": 2,
+        "abbreviation": "PSN",
+        "additionalAbbreviations": [
+            "Poison",
+            "50P"
+        ],
+        "translations": {
+            "en": "Target is poisoned for 50 damage over 10 seconds"
+        },
+        "itemType": "WEAPON"
+    },
+    {
         "id": "CUT_mod_Legendary_Weapon2_RadiationDamage",
         "gameId": "004F5776",
         "texts": {
@@ -2081,7 +2140,7 @@
     },
     {
         "id": "mod_Legendary_Weapon2_DmgLimbs",
-        "gameId": "0052BDBC",
+        "gameId": "004ED02C",
         "texts": {
             "ru": "Калечащий",
             "en": "Crippling",
@@ -2107,7 +2166,7 @@
     },
     {
         "id": "mod_Legendary_Weapon3_Melee_StatEndurance",
-        "gameId": "004F6D82",
+        "gameId": "005299FD",
         "texts": {
             "ru": "Выносливость",
             "en": "1 Endurance",
@@ -2185,7 +2244,7 @@
     },
     {
         "id": "mod_Legendary_Weapon3_Melee_StatStrength",
-        "gameId": "004EE54E",
+        "gameId": "005299FC",
         "texts": {
             "ru": "Сила",
             "en": "1 Strength",
@@ -2402,7 +2461,7 @@
     },
     {
         "id": "mod_Legendary_Weapon3_Weight",
-        "gameId": "00529a14",
+        "gameId": "00524152",
         "texts": {
             "ru": "Легкая",
             "en": "Lightweight",
@@ -2428,7 +2487,7 @@
     },
     {
         "id": "mod_Legendary_Weapon3_StatAgility",
-        "gameId": "004F6D85",
+        "gameId": "005299FB",
         "texts": {
             "ru": "Ловкость",
             "en": "1 Agility",
